@@ -8,22 +8,22 @@ def read_json(file):
     return data
 
 def add_flight_number_to_passenger(passenger, flight_number):
-    # TODO fill method
+    return {**passenger, "flight_number": flight_number}
 
 def add_flight_number_to_passengers(flight):
     flight_number = flight["flight_number"]
-    passengers = flight["passengers"]
-    transformed_passengers = _
-    flight["passengers"] = _
-    return flight
+    return {**flight, "passengers": list(map(lambda p: add_flight_number_to_passenger(p, flight_number), flight["passengers"]))}
 
-def read_csv(file_path):
+
+def read_csv(file_path): 
     with open(file_path, mode="r", encoding="utf-8") as file:
         reader = csv.DictReader(file)  # Reads the file as a dictionary per row
         return list(reader)
 
-def get_city(flight, airports, origin=None):
-    # TODO fill the method
+def get_city(flight, airports, origin=True):
+    code = flight["origin"] if origin else flight["destination"]
+    airport = next((a for a in airports if a["code"] == code), None)
+    return airport.get("city") if airport else None
 
 
 def add_city_names_to_flights(flights, airports):
@@ -49,20 +49,20 @@ if __name__ == '__main__':
     flights = data["flights"]
 
     # add the flight_number information in the passenger dictionary and build the passenger table
-    data_with_flight_number_in_passenger = map(lambda x: x["passengers"].append(x[""]))
+    data_with_flight_number_in_passenger = data_with_flight_number_in_passenger = list(map(add_flight_number_to_passengers, flights))
 
     print("Raw dataset with enriched passengers", data_with_flight_number_in_passenger[0])
 
     # Create the passenger dataset
-    passengers = _
+    passengers = list(map(lambda f: f["passengers"], data_with_flight_number_in_passenger))
 
     # flatten the map
-    passengers_flatten = _
+    passengers_flatten = reduce(lambda acc, lst: acc + lst, passengers, [])
     print("Element in passenger dataset", passengers_flatten[1])
 
     # Create the flight dataset
-    flights = _
-    print("Element in flight Dataset",flights[0])
+    flights_numbers = list(map(lambda f: f["flight_number"], flights))
+    print("Element in flight Dataset",flights_numbers[0])
 
     # read the airport file
     airports = read_csv("resources/airports.csv")
@@ -77,15 +77,3 @@ if __name__ == '__main__':
     # cities with the most outgoing flights
     top_10_departure_cities = get_top_departure_cities(updated_flights, 10)
     print(top_10_departure_cities)
-
-
-
-
-
-
-
-
-
-
-
-
