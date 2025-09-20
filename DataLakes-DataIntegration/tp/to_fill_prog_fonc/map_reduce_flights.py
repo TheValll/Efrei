@@ -46,10 +46,10 @@ if __name__ == '__main__':
     print(len(data["flights"]))
 
     # Get the flights
-    flights = _
+    flights = data["flights"]
 
     # add the flight_number information in the passenger dictionary and build the passenger table
-    data_with_flight_number_in_passenger = _
+    data_with_flight_number_in_passenger = map(lambda x: x["passengers"].append(x[""]))
 
     print("Raw dataset with enriched passengers", data_with_flight_number_in_passenger[0])
 
