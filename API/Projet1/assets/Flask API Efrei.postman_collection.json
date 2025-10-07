@@ -1,0 +1,286 @@
+{
+	"info": {
+		"_postman_id": "fd856821-1f03-4653-9d85-053b50c61e9f",
+		"name": "Flask API Efrei",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49042675",
+		"_collection_link": "https://valentin78-massonniere-7994215.postman.co/workspace/9eabab3c-f21c-416f-8299-3be3beac9feb/collection/49042675-fd856821-1f03-4653-9d85-053b50c61e9f?action=share&source=collection_link&creator=49042675"
+	},
+	"item": [
+		{
+			"name": "Hello World",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "APIKEY-ADMIN-12345",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Not found",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "APIKEY-ADMIN-12345",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/ghuehgue",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"ghuehgue"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get users",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "APIKEY-ADMIN-12345",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/users",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add user",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-API-KEY",
+						"value": "APIKEY-VIEWER-67890",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/addUser?firstname=Ananda&lastname=Ouistiti&age=35&password=goodpassword&address=41 avenue du Paradis&city=Paris&zipcode=95003&bank_id=3",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"addUser"
+					],
+					"query": [
+						{
+							"key": "firstname",
+							"value": "Ananda"
+						},
+						{
+							"key": "lastname",
+							"value": "Ouistiti"
+						},
+						{
+							"key": "age",
+							"value": "35"
+						},
+						{
+							"key": "password",
+							"value": "goodpassword"
+						},
+						{
+							"key": "address",
+							"value": "41 avenue du Paradis"
+						},
+						{
+							"key": "city",
+							"value": "Paris"
+						},
+						{
+							"key": "zipcode",
+							"value": "95003"
+						},
+						{
+							"key": "bank_id",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update user",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "X-API-KEY",
+						"value": "APIKEY-ADMIN-12345",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/updateUser/11?firstname=Ananda&lastname=Ouistiti&age=58&address=2 rue du chat&city=Paris&zipcode=95003&bank_id=3",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"updateUser",
+						"11"
+					],
+					"query": [
+						{
+							"key": "firstname",
+							"value": "Ananda"
+						},
+						{
+							"key": "lastname",
+							"value": "Ouistiti"
+						},
+						{
+							"key": "age",
+							"value": "58"
+						},
+						{
+							"key": "address",
+							"value": "2 rue du chat"
+						},
+						{
+							"key": "city",
+							"value": "Paris"
+						},
+						{
+							"key": "zipcode",
+							"value": "95003"
+						},
+						{
+							"key": "bank_id",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
