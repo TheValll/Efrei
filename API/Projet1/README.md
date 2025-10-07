@@ -62,7 +62,18 @@ All API endpoints are registered in `src/routes/reorderRoutes.py`:
 | POST   | /api/addUser         | Adds a new user to the database                   |
 | PUT    | /api/updateUser/<id> | Updates user information by ID                    |
 
-Each route is connected to a controller (business logic) and a model (database interaction).
+---
+
+### 📄 Swagger Documentation
+
+The API provides interactive documentation via **Swagger UI** at [`/docs`](http://localhost:5000/docs).
+
+- **How to use:**  
+   Visit `/docs` in your browser after starting the containers to explore and test all endpoints.
+- **Features:**
+  - View all available routes, parameters, and responses.
+  - Try out requests directly from the browser.
+  - See required headers (e.g., `X-API-KEY`) for authentication.
 
 ### 🧠 Request Flow
 
@@ -153,6 +164,7 @@ def check_permission(api_key, required_permission):
 4. **Test the API**
 
    ! Comment the csrf = CSRFProtect(app) in the app.py for testing the API in Postman or anything else!
+   You can also use Postman with the assets/Flask API Efrei.postman_collection.json
 
    - Test route:
      ```bash

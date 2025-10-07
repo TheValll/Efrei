@@ -5,6 +5,7 @@ from routes.reorderRoutes import reorderBlueprint
 from flask_wtf import CSRFProtect
 from dotenv import load_dotenv
 from db import get_db_connection
+from flask import send_from_directory, render_template
 
 app = Flask(__name__)
 app.secret_key = "03583b1ffc8b89f24c79f79be63916f8"
@@ -18,13 +19,22 @@ API_KEY = os.getenv("API_KEY")
 
 app.register_blueprint(reorderBlueprint, url_prefix='/api')
 
+
+@app.route('/docs')
+def docs():
+    return render_template('docs.html')
+
+@app.route('/static/openapi.json')
+def openapi_spec():
+    return send_from_directory('static', 'openapi.json')
+
 @app.errorhandler(404)
 def page_not_found(e):
     return Response("Not found !", status=404)
 
 @app.before_request
 def check_api_key():
-    public_routes = ['/api']
+    public_routes = ['/docs','/api', '/static/openapi.json']
     if request.path in public_routes:
         return
 
