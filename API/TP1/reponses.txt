@@ -1,0 +1,33 @@
+Exercice 1.1 :
+https://api.themoviedb.org/3/search/movie?query=Whiplash
+
+Exercice 1.2 : Recherche d’un film avec filtres multiples
+https://api.themoviedb.org/3/search/movie?query=Whiplash&language=de-DE&region=DE
+
+Exercice 2 : Obtenir les détails d’un film spécifique
+https://api.themoviedb.org/3/movie/597
+
+Exercice 3 : Rechercher un acteur par nom
+https://api.themoviedb.org/3/search/person?query=Leonardo DiCaprio
+
+Exercice 4 : Découvrir la filmographie d’un acteur
+https://api.themoviedb.org/3/person/6193/movie_credits
+
+Exercice 5 : Rechercher les films populaires actuels
+https://api.themoviedb.org/3/tv/popular
+Regarder popular.py
+
+Exercice 6 : Comparaison des notes d’un acteur sur plusieurs films
+Regarder script.py
+L'api limite à 50 requests par minute
+
+Quels sont les trois films avec les meilleures notes TMDB parmi ceux que vous avez trouvés ?
+
+1. Inception (2010)
+Note moyenne : 8.37
+
+2. The Departed (2006)
+Note moyenne : 8.159
+
+3. The Wolf of Wall Street (2013)
+Note moyenne : 8.028
