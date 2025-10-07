@@ -7,18 +7,17 @@ from dotenv import load_dotenv
 from db import get_db_connection
 from flask import send_from_directory, render_template
 
+load_dotenv()
 app = Flask(__name__)
-app.secret_key = "03583b1ffc8b89f24c79f79be63916f8"
+SECRET_KEY = os.getenv("SECRET_KEY")
+app.secret_key = SECRET_KEY
 app.config['SESSION_COOKIE_SECURE'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 CORS(app)
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
 
 # csrf = CSRFProtect(app)
 
 app.register_blueprint(reorderBlueprint, url_prefix='/api')
-
 
 @app.route('/docs')
 def docs():
@@ -71,4 +70,4 @@ def check_api_key():
     conn.close()
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True, ssl_context=("cert.pem", "key.pem"))

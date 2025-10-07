@@ -147,6 +147,7 @@ def check_permission(api_key, required_permission):
    MYSQL_DATABASE=flaskdb
    MYSQL_USER=flaskuser
    MYSQL_PASSWORD=flaskpass
+   SECRET_KEY=random_long_stable_string
    ```
 
 3. **Build and start the containers**
@@ -161,7 +162,16 @@ def check_permission(api_key, required_permission):
    - phpMyAdmin → [http://localhost:8080](http://localhost:8080)
    - MySQL database → accessible internally as `db:3306`
 
-4. **Test the API**
+4. **Create a SSL certificate**
+
+   ```bash
+   cd src
+   "C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
+   ```
+
+   Follow the steps in the terminal
+
+5. **Test the API**
 
    ! Comment the csrf = CSRFProtect(app) in the app.py for testing the API in Postman or anything else!
    You can also use Postman with the assets/Flask API Efrei.postman_collection.json
@@ -181,7 +191,7 @@ def check_permission(api_key, required_permission):
 
    ...
 
-5. **Stopping and Cleaning**
+6. **Stopping and Cleaning**
    ```bash
    docker compose down -v
    ```
