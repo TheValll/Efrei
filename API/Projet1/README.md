@@ -150,7 +150,16 @@ def check_permission(api_key, required_permission):
    SECRET_KEY=random_long_stable_string
    ```
 
-3. **Build and start the containers**
+3. **Create a SSL certificate**
+
+```bash
+cd src
+"C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
+```
+
+Follow the steps in the terminal
+
+4. **Build and start the containers**
 
    ```bash
    docker compose up --build
@@ -161,15 +170,6 @@ def check_permission(api_key, required_permission):
    - Flask API → [http://localhost:5000](http://localhost:5000)
    - phpMyAdmin → [http://localhost:8080](http://localhost:8080)
    - MySQL database → accessible internally as `db:3306`
-
-4. **Create a SSL certificate**
-
-   ```bash
-   cd src
-   "C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
-   ```
-
-   Follow the steps in the terminal
 
 5. **Generate your API token**
 
