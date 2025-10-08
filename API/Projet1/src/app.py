@@ -6,6 +6,7 @@ from flask_wtf import CSRFProtect
 from dotenv import load_dotenv
 from db import get_db_connection
 from flask import send_from_directory, render_template
+from extension import limiter
 
 load_dotenv()
 app = Flask(__name__)
@@ -14,6 +15,8 @@ app.secret_key = SECRET_KEY
 app.config['SESSION_COOKIE_SECURE'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 CORS(app, supports_credentials=True)
+
+limiter.init_app(app)
 
 csrf = CSRFProtect(app)
 
