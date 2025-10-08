@@ -152,10 +152,10 @@ def check_permission(api_key, required_permission):
 
 3. **Create a SSL certificate**
 
-```bash
-cd src
-"C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
-```
+   ```bash
+   cd src
+   "C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
+   ```
 
 Follow the steps in the terminal
 
