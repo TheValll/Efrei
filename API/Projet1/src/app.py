@@ -13,9 +13,9 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 app.secret_key = SECRET_KEY
 app.config['SESSION_COOKIE_SECURE'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
-CORS(app)
+CORS(app, supports_credentials=True)
 
-# csrf = CSRFProtect(app)
+csrf = CSRFProtect(app)
 
 app.register_blueprint(reorderBlueprint, url_prefix='/api')
 
@@ -55,7 +55,8 @@ def check_api_key():
     route_perm_map = {
         '/api/users': 'view_users',
         '/api/addUser': 'add_user',
-        '/api/updateUser': 'update_user'
+        '/api/updateUser': 'update_user',
+        '/api/get-token': 'view_users'
     }
 
     for route_prefix, perm in route_perm_map.items():

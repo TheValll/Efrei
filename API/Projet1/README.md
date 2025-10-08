@@ -171,10 +171,17 @@ def check_permission(api_key, required_permission):
 
    Follow the steps in the terminal
 
-5. **Test the API**
+5. **Generate your API token**
+
+   ```bash
+   curl -H "X-API-KEY: APIKEY-VIEWER-67890" https://127.0.0.1:5000/api/get-token
+   ```
+
+6. **Test the API**
 
    ! Comment the csrf = CSRFProtect(app) in the app.py for testing the API in Postman or anything else!
    You can also use Postman with the assets/Flask API Efrei.postman_collection.json
+   ! For POST and PUT methods, you have to put a X-CSRFToken and Referer header !
 
    - Test route:
      ```bash
@@ -185,13 +192,28 @@ def check_permission(api_key, required_permission):
      curl -H "X-API-KEY: APIKEY-VIEWER-67890" http://localhost:5000/api/users
      ```
    - Add a user:
-     ```bash
-     curl -X POST -H "X-API-KEY: APIKEY-EDITOR-55555" "http://localhost:5000/api/addUser?firstname=John&lastname=Doe&age=30&password=1234&bank_id=1"
-     ```
+     `bash
+  curl --location --request POST 'https://127.0.0.1:5000/api/addUser?firstname=Ananda&lastname=Ouistiti&age=35&password=goodpassword&address=41%20avenue%20du%20Paradis&city=Paris&zipcode=95003&bank_id=3' \
+--header 'Content-Type: application/json' \
+--header 'X-API-KEY: APIKEY-ADMIN-12345' \
+--header 'X-CSRFToken: YOUT_TOKEN' \
+--header 'Referer: https://127.0.0.1:5000/' \
+--header 'Cookie: session=YOUR_SESSION' \
+--data ''
+  `
 
-   ...
+   - Update a user:
+     `bash
+ curl --location --request PUT 'https://127.0.0.1:5000/api/updateUser/11?firstname=Ananda&lastname=Ouistiti&age=58&address=2%20rue%20du%20chat&city=Paris&zipcode=95004&bank_id=3' \
+ --header 'Content-Type: application/json' \
+ --header 'X-API-KEY: APIKEY-ADMIN-12345' \
+ --header 'X-CSRFToken: YOUR_TOKEN' \
+ --header 'Referer: https://127.0.0.1:5000/' \
+ --header 'Cookie: session=YOUT_SESSION'
+`
+     ...
 
-6. **Stopping and Cleaning**
+7. **Stopping and Cleaning**
    ```bash
    docker compose down -v
    ```

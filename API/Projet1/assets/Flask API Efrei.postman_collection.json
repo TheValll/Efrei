@@ -136,7 +136,17 @@
 					},
 					{
 						"key": "X-API-KEY",
-						"value": "APIKEY-VIEWER-67890",
+						"value": "APIKEY-ADMIN-12345",
+						"type": "text"
+					},
+					{
+						"key": "X-CSRFToken",
+						"value": "YOUR_TOKEN",
+						"type": "text"
+					},
+					{
+						"key": "Referer",
+						"value": "https://127.0.0.1:5000/",
 						"type": "text"
 					}
 				],
@@ -231,11 +241,21 @@
 						"key": "X-API-KEY",
 						"value": "APIKEY-ADMIN-12345",
 						"type": "text"
+					},
+					{
+						"key": "X-CSRFToken",
+						"value": "YOUR_TOKEN",
+						"type": "text"
+					},
+					{
+						"key": "Referer",
+						"value": "https://127.0.0.1:5000/",
+						"type": "text"
 					}
 				],
 				"url": {
-					"raw": "http://127.0.0.1:5000/api/updateUser/11?firstname=Ananda&lastname=Ouistiti&age=58&address=2 rue du chat&city=Paris&zipcode=95003&bank_id=3",
-					"protocol": "http",
+					"raw": "https://127.0.0.1:5000/api/updateUser/11?firstname=Ananda&lastname=Ouistiti&age=58&address=2 rue du chat&city=Paris&zipcode=95004&bank_id=3",
+					"protocol": "https",
 					"host": [
 						"127",
 						"0",
@@ -271,12 +291,44 @@
 						},
 						{
 							"key": "zipcode",
-							"value": "95003"
+							"value": "95004"
 						},
 						{
 							"key": "bank_id",
 							"value": "3"
 						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Token",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "APIKEY-ADMIN-12345",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://127.0.0.1:5000/api/get-token",
+					"protocol": "https",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"get-token"
 					]
 				}
 			},

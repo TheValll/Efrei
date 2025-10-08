@@ -1,10 +1,15 @@
 from flask import jsonify, request
+from flask_wtf.csrf import generate_csrf
 from models.reorderModel import HelloWorld, getUser, addUser, updateUser
 
 def set_response_headers(response):
-    response.headers.add('Access-Control-Allow-Origin', '*')
-    response.headers.add('Access-Control-Allow-Headers', '*')
+    response.headers.add('Access-Control-Allow-Origin', 'https://127.0.0.1:5000')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type, X-CSRFToken')
+    response.headers.add('Access-Control-Allow-Methods', 'GET, POST, PUT')
     return response
+
+def get_csrf_token():
+    return jsonify({"csrf_token": generate_csrf()})
 
 def HelloWorldRoute():
     try:
