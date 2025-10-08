@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "fd856821-1f03-4653-9d85-053b50c61e9f",
+		"_postman_id": "a569da1d-e775-4ef4-ae0d-6ba303140614",
 		"name": "Flask API Efrei",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "49042675",
-		"_collection_link": "https://valentin78-massonniere-7994215.postman.co/workspace/9eabab3c-f21c-416f-8299-3be3beac9feb/collection/49042675-fd856821-1f03-4653-9d85-053b50c61e9f?action=share&source=collection_link&creator=49042675"
+		"_collection_link": "https://valentin78-massonniere-7994215.postman.co/workspace/Valentin-Massonniere's-Workspac~9eabab3c-f21c-416f-8299-3be3beac9feb/collection/49042675-a569da1d-e775-4ef4-ae0d-6ba303140614?action=share&source=collection_link&creator=49042675"
 	},
 	"item": [
 		{
@@ -22,8 +22,8 @@
 					}
 				],
 				"url": {
-					"raw": "http://127.0.0.1:5000/api",
-					"protocol": "http",
+					"raw": "https://127.0.0.1:5000/api",
+					"protocol": "https",
 					"host": [
 						"127",
 						"0",
@@ -50,8 +50,8 @@
 					}
 				],
 				"url": {
-					"raw": "http://127.0.0.1:5000/api/ghuehgue",
-					"protocol": "http",
+					"raw": "https://127.0.0.1:5000/api/ghuehgue",
+					"protocol": "https",
 					"host": [
 						"127",
 						"0",
@@ -95,8 +95,8 @@
 					}
 				],
 				"url": {
-					"raw": "http://127.0.0.1:5000/api/users",
-					"protocol": "http",
+					"raw": "https://127.0.0.1:5000/api/users",
+					"protocol": "https",
 					"host": [
 						"127",
 						"0",
@@ -150,8 +150,8 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:5000/api/addUser?firstname=Ananda&lastname=Ouistiti&age=35&password=goodpassword&address=41 avenue du Paradis&city=Paris&zipcode=95003&bank_id=3",
-					"protocol": "http",
+					"raw": "https://127.0.0.1:5000/api/addUser?firstname=Ananda&lastname=Ouistiti&age=35&password=goodpassword&address=41 avenue du Paradis&city=Paris&zipcode=95003&bank_id=3",
+					"protocol": "https",
 					"host": [
 						"127",
 						"0",
