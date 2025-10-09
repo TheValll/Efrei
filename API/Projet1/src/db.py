@@ -7,5 +7,5 @@ def get_db_connection():
         host=os.getenv("MYSQL_HOST", "db"),
         user=os.getenv("MYSQL_USER", "flaskuser"),
         password=os.getenv("MYSQL_PASSWORD", "flaskpass"),
-        database=os.getenv("MYSQL_DATABASE", "flaskdb")
+        database=os.getenv("MYSQL_DATABASE", "event_management")
     )
