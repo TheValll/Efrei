@@ -7,7 +7,7 @@ import datetime
 import uuid
 
 # Nom du topic Kafka
-topic_name = 'transactions'
+topic_name = 'transaction_log'
 
 # Fonction pour sérialiser les messages en JSON
 def json_serializer(data):
