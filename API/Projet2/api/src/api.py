@@ -55,12 +55,18 @@ def check_api_key():
     
     route_perm_map = {
         '/api/get-token': 'get-token',
+
         '/api/users': 'view_users',
         '/api/user-id': 'view_users',
         '/api/user-email': 'view_users',
+
         '/api/events': 'view_users',
         '/api/event-id': 'view_users',
-        '/api/event-name': 'view_users'
+        '/api/event-name': 'view_users',
+
+        '/api/threads': 'view_users',
+        '/api/thread-id': 'view_users',
+        '/api/thread-name': 'view_users'
     }
 
     for route_prefix, perm in route_perm_map.items():

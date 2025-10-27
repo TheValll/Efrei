@@ -3,6 +3,7 @@ from controllers.HelloWorldController import HelloWorldRoute
 from controllers.CsrfController import get_csrf_token
 from controllers.UserController import getUsersRoute, getUserByIdRoute, getUserByEmailRoute
 from controllers.EventController import getEventsRoute, getEventByIdRoute, getEventByNameRoute
+from controllers.ThreadsController import getThreadsRoute, getThreadByIdRoute, getThreadByNameRoute
 from extension import limiter
 
 reorderBlueprint = Blueprint('reorder', __name__)
@@ -62,3 +63,27 @@ def get_event_by_name():
     if not event_name:
         return jsonify(error="Le paramètre 'event_name' est manquant ou invalide."), 400
     return getEventByNameRoute(event_name)
+
+
+# --------------------- THREADS --------------------- #
+
+@reorderBlueprint.route('/threads', methods=['GET'])
+@limiter.limit("10 per minute")
+def get_threads():
+    return getThreadsRoute()
+
+@reorderBlueprint.route('/thread-id', methods=['GET'])
+@limiter.limit("10 per minute")
+def get_thread_by_id():
+    thread_id = request.args.get('thread_id', type=int)
+    if not thread_id:
+        return jsonify(error="Le paramètre 'thread_id' est manquant ou invalide."), 400
+    return getThreadByIdRoute(thread_id)
+
+@reorderBlueprint.route('/thread-name', methods=['GET'])
+@limiter.limit("10 per minute")
+def get_thread_by_name():
+    thread_name = request.args.get('thread_name', type=str)
+    if not thread_name:
+        return jsonify(error="Le paramètre 'thread_name' est manquant ou invalide."), 400
+    return getThreadByNameRoute(thread_name)
