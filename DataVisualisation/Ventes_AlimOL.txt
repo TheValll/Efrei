@@ -1,0 +1,1169 @@
+DateComm	DateLiv	Nom	Prénom	Ancienneté	Secteur	CodePostal	Pays	TrancheHoraire	TypeFoyer	Produit	Allégé	NomGamme	NomRayon	Prix Unitaire	Quantité	Prix de Revient
+16/07/2022	17/07/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Chang	0	Sirops	Boissons	10.85	50	O9,83
+16/07/2022	17/07/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	12.15	65	O9,88
+13/11/2022	15/11/2022	Dumont	Fran	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Chai	0	Sirops	Boissons	10.3	20	O8,72
+02/12/2022	04/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Coca Light	1	Sodas	Boissons	150.55	20	116,15
+11/02/2023	12/02/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	19.85	40	17,09
+07/03/2023	09/03/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Lakkalikööri	0	Alcools	Boissons	10.3	42	O9,02
+31/03/2023	03/04/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	7.45	7	O6,79
+08/06/2023	09/06/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	21	17,09
+08/06/2023	09/06/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	9	O7,28
+28/06/2023	29/06/2023	Bergeron	José	Nouveau	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Coca Zéro	1	Sodas	Boissons	20.35	10	17,77
+23/10/2024	25/10/2024	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	17.15	10	15,23
+25/11/2022	26/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	14.3	6	13,08
+28/08/2022	29/08/2022	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Chang	0	Sirops	Boissons	10.85	25	O9,83
+19/10/2024	20/10/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	12.15	32	O9,88
+19/02/2023	20/02/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	12.55	16	11,92
+22/03/2023	24/03/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Chang	0	Sirops	Boissons	10.85	20	O9,83
+26/10/2024	28/10/2024	Duhon	Jonas	Récent	Ivry	94200	France	Soirée	Célibataire sans enfant	Fløtemysost	1	Produits laitiers	Frais	12.3	15	10,59
+13/12/2024	15/12/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	20.55	20	17,6
+15/12/2024	16/12/2024	Melanson	Paula	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Outback Lager	0	Alcools	Boissons	8.55	8	O7,54
+15/12/2024	16/12/2024	Melanson	Paula	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Röd Kaviar	0	Poissons et fruits de mer	Frais	8.55	20	O7,28
+10/02/2023	11/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Fløtemysost	1	Produits laitiers	Frais	12.3	50	10,59
+22/03/2023	24/03/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	5.7	20	O5,4
+17/05/2023	19/05/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	40	O8,72
+17/05/2023	19/05/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	24	24,38
+24/05/2023	26/05/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	50	11,92
+02/06/2023	04/06/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	50	11,92
+13/06/2024	14/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	60	O5,4
+02/11/2023	03/11/2023	Forest	Giovanni	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	10	11,92
+02/11/2023	03/11/2023	Forest	Giovanni	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	15.25	15	O9,88
+01/12/2023	02/12/2023	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	12	11,92
+22/01/2024	24/01/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Chai	0	Sirops	Boissons	12.85	35	O8,72
+25/01/2024	28/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Chai	0	Sirops	Boissons	12.85	30	O8,72
+11/02/2024	13/02/2024	Blondin	Maria	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	6	O5,4
+12/02/2024	14/02/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	5	O9,83
+11/07/2022	12/07/2022	Arceneaux	Michael	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Chang	0	Sirops	Boissons	10.85	20	O9,83
+23/08/2022	25/08/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Pavlova	0	Desserts	Plats	9.95	60	O8,82
+22/11/2022	24/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Genen Shouyu	0	Condiments	Fruits & Légumes	8.85	5	O8,01
+25/11/2022	26/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Konbu	1	Poissons et fruits de mer	Frais	3.45	12	O3,27
+25/11/2022	26/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Tofu	0	Produits secs	Fruits & Légumes	13.3	9	10,84
+28/08/2022	29/08/2022	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	12	50	11,05
+29/10/2024	31/10/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Ikura	0	Poissons et fruits de mer	Frais	17.7	16	16,16
+19/11/2024	20/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Pavlova	0	Desserts	Plats	9.95	21	O8,82
+05/01/2023	08/01/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	12	6	11,05
+17/01/2023	18/01/2023	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	12	30	11,05
+05/06/2023	06/06/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	15	50	11,05
+16/06/2024	18/06/2024	Simon	Philip	Récent	Paris 5	75005	France	Matin	Couple sans enfant	Queso Cabrales	0	Produits laitiers	Frais	15	15	11,05
+29/06/2023	01/07/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Pavlova	0	Desserts	Plats	12.45	40	O8,82
+29/07/2023	31/07/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Tofu	0	Produits secs	Fruits & Légumes	16.6	11	10,84
+20/09/2023	21/09/2023	Damboue	Anabela	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	20	11,92
+30/10/2023	31/10/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	36	23,88
+30/10/2023	31/10/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	13	O3,27
+04/11/2023	05/11/2023	Moyse	Pirkko	Nouveau	Ivry	94200	France	Après-Midi	Célibataire avec deux enfants ou plus	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	25	11,92
+16/12/2023	18/12/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	24	16,16
+16/01/2024	17/01/2024	Cyr	André	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	20	16,16
+19/01/2024	21/01/2024	Rimbaut	Patricia	Nouveau	Ivry	94200	France	Soirée	Couple avec deux enfants ou plus	Mishi Kobe Niku	0	Viandes	Plats	69.3	50	47,13
+31/01/2024	02/02/2024	Benoit	Matti	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	10	24,38
+05/02/2024	06/02/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	15	15	11,05
+08/02/2024	09/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Chai	0	Sirops	Boissons	12.85	5	O8,72
+20/02/2024	21/02/2024	Poirier	Liz	Nouveau	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	15.25	4	O9,88
+21/02/2024	23/02/2024	Cyr	André	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	40	24,38
+29/02/2024	02/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	30	O9,83
+01/03/2024	02/03/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	22.15	21	16,16
+06/03/2024	07/03/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	36	23,88
+06/03/2024	07/03/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Pavlova	0	Desserts	Plats	12.45	20	O8,82
+12/03/2024	13/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	3	O9,83
+11/07/2022	12/07/2022	Arceneaux	Michael	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Pavlova	0	Desserts	Plats	9.95	35	O8,82
+17/11/2022	18/11/2022	Lort	Francisco	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	5.7	10	O4,98
+23/08/2022	25/08/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Guaraná Fantástica	0	Sirops	Boissons	2.55	28	O2,46
+04/09/2022	05/09/2022	Vilatte	Bernardo	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	3.45	20	O3,27
+28/12/2022	31/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	5.7	5	O4,98
+18/11/2024	20/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Tunnbröd	0	Pâtes et céréales	Plats	5.15	60	O4,52
+15/12/2024	16/12/2024	Melanson	Paula	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Mishi Kobe Niku	0	Viandes	Plats	55.45	20	47,13
+15/12/2024	16/12/2024	Melanson	Paula	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Konbu	1	Poissons et fruits de mer	Frais	3.45	2	O3,27
+18/01/2023	20/01/2023	Rodrigue	Maurizio	Nouveau	Ivry	94200	France	Soirée	Célibataire avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	12	6	11,05
+29/01/2023	31/01/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	17.7	20	16,16
+12/03/2023	13/03/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	17.7	20	16,16
+05/05/2023	07/05/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	39	50,8
+06/05/2023	09/05/2023	Boutin	Horst	Nouveau	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Mishi Kobe Niku	0	Viandes	Plats	69.3	16	47,13
+06/05/2023	09/05/2023	Boutin	Horst	Nouveau	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Pavlova	0	Desserts	Plats	12.45	50	O8,82
+07/06/2024	08/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec un enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	15	23,88
+20/06/2024	21/06/2024	Levron	John	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	15	10	11,05
+01/08/2023	02/08/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	18	23,33
+30/08/2023	01/09/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Genen Shouyu	0	Condiments	Fruits & Légumes	11.05	25	O8,01
+29/12/2023	31/12/2023	Benoit	Matti	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Pavlova	0	Desserts	Plats	12.45	3	O8,82
+03/01/2024	04/01/2024	Guidry	Miguel	Nouveau	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	2	16,16
+28/01/2024	29/01/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Mishi Kobe Niku	0	Viandes	Plats	69.3	6	47,13
+31/01/2024	02/02/2024	Benoit	Matti	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	4	23,88
+27/02/2024	28/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	22.15	18	16,16
+29/02/2024	02/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Alice Mutton	0	Viandes	Plats	27.85	27	23,33
+20/07/2022	22/07/2022	Vilatte	Bernardo	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	5.7	20	O4,98
+11/08/2022	13/08/2022	Forest	Giovanni	Nouveau	Ivry	94200	France	Soirée	Couple sans enfant	Guaraná Fantástica	0	Sirops	Boissons	2.55	12	O2,46
+22/11/2022	24/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	8	4	O6,64
+31/10/2022	02/11/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	5.2	10	O4,72
+19/10/2024	20/10/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	35.7	9	29,13
+26/10/2024	28/10/2024	Duhon	Jonas	Récent	Ivry	94200	France	Soirée	Célibataire sans enfant	Guaraná Fantástica	0	Sirops	Boissons	2.55	15	O2,46
+16/12/2024	17/12/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	5.2	4	O4,72
+07/02/2023	10/02/2023	Simon	Philip	Récent	Paris 5	75005	France	Après-Midi	Couple sans enfant	Sir Rodney's Scones	0	Desserts	Plats	5.7	40	O4,98
+17/02/2023	19/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	5.2	21	O4,72
+23/02/2023	25/02/2023	Forest	Giovanni	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Guaraná Fantástica	0	Sirops	Boissons	2.55	28	O2,46
+23/02/2023	25/02/2023	Forest	Giovanni	Récent	Ivry	94200	France	Soirée	Couple sans enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	8	12	O6,64
+14/05/2023	15/05/2023	Duhon	Jonas	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	8	O2,46
+28/06/2023	29/06/2023	Bergeron	José	Nouveau	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	8	23,33
+28/06/2023	29/06/2023	Bergeron	José	Nouveau	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	10	O4,72
+28/06/2023	29/06/2023	Bergeron	José	Nouveau	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	6	O4,98
+19/07/2023	21/07/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	16	23,33
+24/08/2023	25/08/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	40	29,13
+31/08/2023	01/09/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	21	50,8
+12/10/2023	13/10/2023	Belanger	Helen	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	5	O4,72
+12/10/2023	13/10/2023	Belanger	Helen	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	6.45	10	O4,52
+02/11/2023	03/11/2023	Forest	Giovanni	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	15	40	10,22
+08/11/2023	10/11/2023	Duhon	Jonas	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	8	29,13
+20/11/2023	22/11/2023	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	30	O4,72
+07/12/2023	09/12/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	60	O4,98
+31/12/2023	03/01/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	6.45	5	O4,52
+03/01/2024	04/01/2024	Guidry	Miguel	Nouveau	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	7	O4,72
+03/02/2024	04/02/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	7	O4,72
+05/02/2024	06/02/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	8	23,33
+23/02/2024	25/02/2024	Devaux	Paolo	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	5	O4,72
+24/02/2024	26/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	12	O4,72
+04/03/2024	06/03/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	7.15	32	O4,98
+05/07/2022	06/07/2022	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	12	6	10,22
+16/07/2022	17/07/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Mascarpone Fabioli	0	Produits laitiers	Frais	18.3	6	16,17
+23/08/2022	25/08/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	14.8	60	13,32
+25/11/2022	26/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Gorgonzola Telino	0	Produits laitiers	Frais	7.15	4	O6,48
+28/08/2022	29/08/2022	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	14.8	35	13,32
+28/12/2022	31/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	26	13	23,36
+19/10/2024	20/10/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	70.7	14	58,4
+31/10/2024	03/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	7.15	60	O6,48
+15/11/2024	16/11/2024	Rommel	Ann	Nouveau	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	70.7	21	58,4
+21/11/2024	23/11/2024	Forest	Giovanni	Récent	Ivry	94200	France	Après-Midi	Couple sans enfant	Gumbär Gummibärchen	0	Desserts	Plats	17.8	30	15
+19/12/2024	20/12/2024	Cyr	André	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Gorgonzola Telino	0	Produits laitiers	Frais	7.15	14	O6,48
+25/02/2023	26/02/2023	Simon	Philip	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	14.8	8	13,32
+02/04/2023	05/04/2023	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	8	60	O6,64
+23/04/2023	24/04/2023	Simon	Philip	Récent	Paris 5	75005	France	Après-Midi	Couple sans enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	18	O6,64
+05/05/2023	07/05/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	35	23,36
+17/05/2023	19/05/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	20	13,32
+01/06/2023	03/06/2023	Rommel	Ann	Récent	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	15	13,32
+04/06/2024	06/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	10	13,32
+07/06/2024	08/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	20	O6,48
+19/06/2024	20/06/2024	Dumont	Fran	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	7	23,36
+30/08/2023	01/09/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	5	15
+24/10/2023	25/10/2023	Bergeron	José	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	20	58,4
+30/10/2023	31/10/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	35	15
+16/11/2023	17/11/2023	Melanson	Paula	Habitué	Paris 5	75005	France	Matin	Couple sans enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	4	29,13
+28/11/2023	01/12/2023	Cyr	André	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	2	13,32
+04/01/2024	06/01/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	30	15
+19/01/2024	21/01/2024	Rimbaut	Patricia	Nouveau	Ivry	94200	France	Soirée	Couple avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	10	58,4
+31/01/2024	02/02/2024	Benoit	Matti	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	20	O2,46
+02/02/2024	03/02/2024	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Alice Mutton	0	Viandes	Plats	27.85	20	23,33
+05/02/2024	06/02/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	12	58,4
+15/02/2024	17/02/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	20	O6,48
+15/02/2024	17/02/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	4	16,17
+17/11/2022	18/11/2022	Lort	Francisco	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Gravad lax	0	Poissons et fruits de mer	Frais	14.85	1	13,08
+31/10/2022	02/11/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	14.8	8	13,32
+02/12/2022	04/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	5.5	13	O5,14
+29/12/2022	31/12/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	70.7	20	58,4
+19/10/2024	20/10/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Geitost	1	Produits laitiers	Frais	1.45	60	O1,38
+26/10/2024	28/10/2024	Duhon	Jonas	Récent	Ivry	94200	France	Soirée	Célibataire sans enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	26	6	23,36
+31/10/2024	03/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Steeleye Stout	0	Alcools	Boissons	10.3	40	O9,58
+15/11/2024	16/11/2024	Rommel	Ann	Nouveau	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	10.3	35	O9,58
+30/11/2024	02/12/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Geitost	1	Produits laitiers	Frais	1.45	49	O1,38
+01/12/2024	02/12/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	5.5	25	O5,14
+16/12/2024	17/12/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	17.8	30	15
+02/01/2023	03/01/2023	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	17.8	10	15
+18/01/2023	20/01/2023	Rodrigue	Maurizio	Nouveau	Ivry	94200	France	Soirée	Célibataire avec un enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	26	12	23,36
+10/02/2023	11/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Gumbär Gummibärchen	0	Desserts	Plats	17.8	30	15
+10/02/2023	11/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	26	30	23,36
+19/02/2023	20/02/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Ipoh Coffee	0	Alcools	Boissons	26.3	3	21,73
+07/03/2023	09/03/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Gorgonzola Telino	0	Produits laitiers	Frais	7.15	35	O6,48
+02/04/2023	05/04/2023	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	8	20	O7,19
+06/05/2023	09/05/2023	Boutin	Horst	Nouveau	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Schoggi Schokolade	0	Desserts	Plats	31.35	120	21,71
+06/05/2023	09/05/2023	Boutin	Horst	Nouveau	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Geitost	1	Produits laitiers	Frais	1.8	16	O1,38
+05/06/2023	06/06/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	10	O9,9
+08/06/2023	09/06/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	30	O6,48
+13/06/2024	14/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	40	15
+26/06/2024	29/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	55	O6,48
+29/06/2023	01/07/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	20	O9,58
+19/07/2023	21/07/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	6	O6,48
+26/07/2023	27/07/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	35	O6,48
+29/07/2023	31/07/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	28	O7,19
+01/08/2023	02/08/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Sasquatch Ale	0	Alcools	Boissons	10	40	O7,44
+22/08/2023	24/08/2023	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	22.3	6	15
+03/09/2023	06/09/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	30	O9,58
+08/09/2023	10/09/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Schoggi Schokolade	0	Desserts	Plats	31.35	50	21,71
+28/11/2023	01/12/2023	Cyr	André	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	20	O7,19
+01/12/2023	02/12/2023	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Chartreuse verte	0	Alcools	Boissons	12.85	20	O8,72
+19/12/2023	21/12/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	36	58,4
+04/01/2024	06/01/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Geitost	1	Produits laitiers	Frais	1.8	8	O1,38
+12/01/2024	13/01/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Geitost	1	Produits laitiers	Frais	1.8	30	O1,38
+16/01/2024	17/01/2024	Cyr	André	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	4	O5,14
+25/01/2024	28/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	40	58,4
+27/02/2024	28/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	22.3	30	15
+12/03/2024	13/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	50	O6,48
+13/03/2024	14/03/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	22.3	15	15
+20/07/2022	22/07/2022	Vilatte	Bernardo	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	10.3	20	O9,58
+05/08/2022	07/08/2022	Gallant	Art	Nouveau	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.45	24	O1,38
+10/11/2022	12/11/2022	Belanger	Helen	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	8	14	O7,44
+15/08/2022	16/08/2022	Belanger	Helen	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	5.5	20	O5,14
+19/11/2022	20/11/2022	Belanger	Helen	Récent	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	10.3	10	O9,58
+22/11/2022	24/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Chartreuse verte	0	Alcools	Boissons	10.3	4	O8,72
+14/10/2024	15/10/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	5.5	8	O5,14
+21/11/2024	23/11/2024	Forest	Giovanni	Récent	Ivry	94200	France	Après-Midi	Couple sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	8	40	O7,19
+10/02/2023	11/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Ipoh Coffee	0	Alcools	Boissons	26.3	20	21,73
+17/02/2023	19/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	8	50	O7,19
+25/02/2023	26/02/2023	Simon	Philip	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Ipoh Coffee	0	Alcools	Boissons	26.3	15	21,73
+04/03/2023	05/03/2023	Belanger	Helen	Récent	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.45	12	O1,38
+18/03/2023	21/03/2023	Levron	John	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	10.5	10	O9,9
+24/04/2023	25/04/2023	Lyonnais	Antonio	Nouveau	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	15	21,73
+24/04/2023	25/04/2023	Lyonnais	Antonio	Nouveau	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Chocolade	0	Desserts	Plats	9.1	15	O6,48
+17/05/2023	19/05/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	25	O9,9
+04/06/2024	06/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	10	O9,9
+07/06/2024	08/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec un enfant	Geitost	1	Produits laitiers	Frais	1.8	30	O1,38
+22/06/2023	23/06/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	30	O9,58
+16/07/2023	17/07/2023	Rodrigue	Maurizio	Récent	Ivry	94200	France	Matin	Célibataire avec un enfant	Geitost	1	Produits laitiers	Frais	1.8	20	O1,38
+03/08/2023	04/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Geitost	1	Produits laitiers	Frais	1.8	14	O1,38
+03/08/2023	04/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	2	O9,9
+07/08/2023	08/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Chartreuse verte	0	Alcools	Boissons	12.85	10	O8,72
+22/08/2023	24/08/2023	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	20	O9,58
+24/08/2023	25/08/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	100	O7,19
+16/11/2023	17/11/2023	Melanson	Paula	Habitué	Paris 5	75005	France	Matin	Couple sans enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	20	21,73
+20/11/2023	22/11/2023	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	12.85	20	O8,72
+02/12/2023	03/12/2023	Rodrigue	Maurizio	Récent	Ivry	94200	France	Après-Midi	Célibataire avec un enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	20	O5,14
+07/12/2023	09/12/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	70	O9,9
+29/12/2023	31/12/2023	Benoit	Matti	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	6	O7,19
+29/12/2023	31/12/2023	Benoit	Matti	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	6	21,73
+15/01/2024	18/01/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	20	O9,9
+25/01/2024	28/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	40	21,73
+03/02/2024	04/02/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	9	O9,58
+08/02/2024	09/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	12	O7,44
+24/02/2024	26/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	42	O5,14
+09/03/2024	11/03/2024	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	21	O9,58
+04/09/2022	05/09/2022	Vilatte	Bernardo	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Gula Malacca	0	Condiments	Fruits & Légumes	11.05	24	O9,71
+04/09/2022	05/09/2022	Vilatte	Bernardo	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	30.3	2	27,7
+02/12/2022	04/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	11.05	77	O9,71
+15/11/2024	16/11/2024	Rommel	Ann	Nouveau	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Maxilaku	1	Desserts	Plats	11.45	30	O9,86
+19/11/2024	20/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Chocolade	0	Desserts	Plats	7.3	70	O6,48
+21/11/2024	23/11/2024	Forest	Giovanni	Récent	Ivry	94200	France	Après-Midi	Couple sans enfant	Maxilaku	1	Desserts	Plats	11.45	30	O9,86
+01/12/2024	02/12/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Gula Malacca	0	Condiments	Fruits & Légumes	11.05	40	O9,71
+07/02/2023	10/02/2023	Simon	Philip	Récent	Paris 5	75005	France	Après-Midi	Couple sans enfant	Maxilaku	1	Desserts	Plats	11.45	21	O9,86
+31/03/2023	03/04/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	11.05	15	O9,71
+08/06/2023	09/06/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	6	27,7
+26/06/2024	29/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	100	O5,88
+26/06/2024	29/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	48	27,7
+29/06/2023	01/07/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	40	O9,71
+14/07/2023	15/07/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	10	O9,71
+14/07/2023	15/07/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	50	27,7
+17/09/2023	19/09/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Chocolade	0	Desserts	Plats	9.1	6	O6,48
+07/11/2023	09/11/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	20	O5,88
+17/12/2023	18/12/2023	Dumont	Fran	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	20	27,7
+15/01/2024	18/01/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Zaanse koeken	0	Desserts	Plats	6.8	40	O5,24
+16/01/2024	17/01/2024	Cyr	André	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Zaanse koeken	0	Desserts	Plats	6.8	15	O5,24
+25/01/2024	28/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	24	O9,71
+06/02/2024	07/02/2024	Laliberte	Alexander	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	6.8	12	O5,24
+21/02/2024	23/02/2024	Cyr	André	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	28	27,7
+23/02/2024	25/02/2024	Devaux	Paolo	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Zaanse koeken	0	Desserts	Plats	6.8	5	O5,24
+10/03/2024	11/03/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	50	O9,71
+28/08/2022	29/08/2022	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	7.55	30	O6,63
+08/11/2022	11/11/2022	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Filo Mix	0	Pâtes et céréales	Plats	4	8	O3,84
+28/12/2022	31/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Ravioli Angelo	0	Pâtes et céréales	Plats	11.15	25	O9,56
+29/10/2024	31/10/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Pâté chinois	0	Viandes	Plats	13.7	15	11,86
+30/11/2024	02/12/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	16	28,01
+01/12/2024	02/12/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	9	28,01
+19/12/2024	20/12/2024	Cyr	André	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	20	28,01
+17/01/2023	18/01/2023	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Tourtière	0	Viandes	Plats	4.2	80	O3,91
+08/02/2023	10/02/2023	Simon	Philip	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	36	28,01
+19/02/2023	20/02/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	21.7	30	18,86
+19/02/2023	20/02/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	19.45	20	16,48
+09/04/2023	12/04/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	21.7	14	18,86
+05/05/2023	07/05/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	70	18,86
+05/06/2023	06/06/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	5	O9,56
+05/06/2023	06/06/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	15	28,01
+07/06/2024	08/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	35	16,48
+16/06/2024	18/06/2024	Simon	Philip	Récent	Paris 5	75005	France	Matin	Couple sans enfant	Tourtière	0	Viandes	Plats	5.3	24	O3,91
+01/08/2023	02/08/2023	Lyonnais	Antonio	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Perth Pasties	0	Viandes	Plats	23.45	25	16,14
+19/08/2023	22/08/2023	Melanson	Paula	Habitué	Paris 5	75005	France	Après-Midi	Couple sans enfant	Zaanse koeken	0	Desserts	Plats	6.8	15	O5,24
+20/10/2023	21/10/2023	Thibeau	Christina	Récent	Ivry	94200	France	Après-Midi	Couple sans enfant	Perth Pasties	0	Viandes	Plats	23.45	12	16,14
+20/10/2023	21/10/2023	Thibeau	Christina	Récent	Ivry	94200	France	Après-Midi	Couple sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	20	16,48
+26/10/2023	27/10/2023	Simon	Philip	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Pâté chinois	0	Viandes	Plats	17.15	12	11,86
+01/12/2023	02/12/2023	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Tourtière	0	Viandes	Plats	5.3	6	O3,91
+16/12/2023	18/12/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	12	18,86
+03/01/2024	04/01/2024	Guidry	Miguel	Nouveau	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	21	O9,71
+24/01/2024	25/01/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	20	18,86
+09/02/2024	11/02/2024	Rimbaut	Patricia	Nouveau	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	42	28,01
+12/02/2024	14/02/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	35	28,01
+18/02/2024	19/02/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	21	11,86
+18/02/2024	19/02/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	40	O9,56
+21/02/2024	23/02/2024	Cyr	André	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	10	16,48
+26/02/2024	29/02/2024	Rimbaut	Patricia	Récent	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	23.45	3	16,14
+26/02/2024	29/02/2024	Rimbaut	Patricia	Récent	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	30	18,86
+27/02/2024	28/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	110	O5,88
+29/02/2024	02/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	6.8	50	O5,24
+04/03/2024	06/03/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Tourtière	0	Viandes	Plats	5.3	15	O3,91
+05/07/2022	06/07/2022	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Ravioli Angelo	0	Pâtes et céréales	Plats	11.15	15	O9,56
+11/07/2022	12/07/2022	Arceneaux	Michael	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	30	28,01
+13/09/2022	14/09/2022	Melanson	Paula	Nouveau	Paris 5	75005	France	Matin	Couple sans enfant	Perth Pasties	0	Viandes	Plats	18.7	15	16,14
+11/08/2022	13/08/2022	Forest	Giovanni	Nouveau	Ivry	94200	France	Soirée	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	6	28,01
+31/10/2022	02/11/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	21.7	12	18,86
+30/11/2022	02/12/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Tourtière	0	Viandes	Plats	4.2	24	O3,91
+02/12/2022	04/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	12	10	10,71
+28/12/2022	31/12/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	19	35	15,7
+29/12/2022	31/12/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	21.7	18	18,86
+23/10/2024	25/10/2024	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	19.45	20	16,48
+26/10/2024	28/10/2024	Duhon	Jonas	Récent	Ivry	94200	France	Soirée	Célibataire sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	31.45	12	28,01
+29/10/2024	31/10/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Tarte au sucre	0	Desserts	Plats	28.15	20	24,73
+18/11/2024	20/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Vegie-spread	0	Condiments	Fruits & Légumes	25.05	65	20,37
+13/12/2024	15/12/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	19.45	60	16,48
+16/12/2024	17/12/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	18.7	15	16,14
+02/01/2023	03/01/2023	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Tourtière	0	Viandes	Plats	4.2	40	O3,91
+17/01/2023	18/01/2023	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	9.7	60	O8,98
+29/01/2023	31/01/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Tourtière	0	Viandes	Plats	4.2	6	O3,91
+10/02/2023	11/02/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	21.7	15	18,86
+13/02/2023	15/02/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	7.15	21	O6,34
+22/03/2023	24/03/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Pâté chinois	0	Viandes	Plats	13.7	30	11,86
+05/05/2023	07/05/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	39	10,71
+06/05/2023	09/05/2023	Boutin	Horst	Nouveau	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	84	16,48
+14/05/2023	15/05/2023	Duhon	Jonas	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Perth Pasties	0	Viandes	Plats	23.45	5	16,14
+01/06/2023	03/06/2023	Rommel	Ann	Récent	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	12.15	24	O8,98
+04/06/2024	06/06/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Tourtière	0	Viandes	Plats	5.3	10	O3,91
+08/06/2023	09/06/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	20	O6,63
+19/07/2023	21/07/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Pâté chinois	0	Viandes	Plats	17.15	25	11,86
+21/08/2023	22/08/2023	Rodrigue	Maurizio	Récent	Ivry	94200	France	Après-Midi	Célibataire avec un enfant	Filo Mix	0	Pâtes et céréales	Plats	5	4	O3,84
+05/09/2023	07/09/2023	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	5	18,86
+20/09/2023	21/09/2023	Damboue	Anabela	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	20	11,86
+03/10/2023	05/10/2023	Benoit	Matti	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Pâté chinois	0	Viandes	Plats	17.15	5	11,86
+30/10/2023	31/10/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	80	24,73
+04/11/2023	05/11/2023	Moyse	Pirkko	Nouveau	Ivry	94200	France	Après-Midi	Célibataire avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	6	O6,63
+07/12/2023	09/12/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	55	16,48
+17/12/2023	18/12/2023	Dumont	Fran	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	1	28,01
+12/01/2024	13/01/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	12.15	4	O8,98
+15/01/2024	18/01/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	30	16,48
+28/01/2024	29/01/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Tourtière	0	Viandes	Plats	5.3	60	O3,91
+30/01/2024	31/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	25	28,01
+03/02/2024	04/02/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	30	O6,63
+05/02/2024	06/02/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	65	10,71
+24/02/2024	26/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	23.45	120	16,14
+29/02/2024	02/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	18	18,86
+29/02/2024	02/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	12	O6,63
+05/07/2022	06/07/2022	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	12	20	10,71
+18/09/2022	19/09/2022	Forest	Giovanni	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	9.7	30	O8,98
+18/09/2022	19/09/2022	Forest	Giovanni	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Scottish Longbreads	0	Desserts	Plats	7.15	20	O6,34
+28/09/2022	30/09/2022	Dumont	Fran	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Tarte au sucre	0	Desserts	Plats	28.15	10	24,73
+28/09/2022	30/09/2022	Dumont	Fran	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Scottish Longbreads	0	Desserts	Plats	7.15	3	O6,34
+08/11/2022	11/11/2022	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	7.15	10	O6,34
+14/10/2024	15/10/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Vegie-spread	0	Condiments	Fruits & Légumes	25.05	16	20,37
+14/10/2024	15/10/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	12	20	10,71
+23/10/2024	25/10/2024	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	7.15	8	O6,34
+07/03/2023	09/03/2023	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	9.7	60	O8,98
+13/06/2024	14/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Scottish Longbreads	0	Desserts	Plats	8.95	35	O6,34
+19/06/2024	20/06/2024	Dumont	Fran	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Laughing Lumberjack Lager	0	Sirops	Boissons	10	7	O8,8
+22/06/2023	23/06/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	40	24,73
+08/07/2023	10/07/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	30	15,7
+16/07/2023	17/07/2023	Rodrigue	Maurizio	Récent	Ivry	94200	France	Matin	Célibataire avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	10	24,73
+03/08/2023	04/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Tarte au sucre	0	Desserts	Plats	35.2	10	24,73
+03/08/2023	04/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	6	15,7
+20/09/2023	21/09/2023	Damboue	Anabela	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	10	24,73
+24/10/2023	25/10/2023	Bergeron	José	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	9	15,7
+07/11/2023	09/11/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	21	10,71
+13/12/2023	15/12/2023	Dumont	Fran	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Scottish Longbreads	0	Desserts	Plats	8.95	10	O6,34
+16/12/2023	18/12/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	15	10,71
+19/12/2023	21/12/2023	Arceneaux	Michael	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	10	10,71
+25/01/2024	28/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	48	24,73
+08/02/2024	09/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	40	O6,34
+06/03/2024	07/03/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Tarte au sucre	0	Desserts	Plats	35.2	20	24,73
+12/03/2024	13/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	45	O6,34
+23/08/2022	25/08/2022	Robichaud	Roland	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Longlife Tofu	0	Produits secs	Fruits & Légumes	5.7	36	O5,09
+10/11/2022	12/11/2022	Belanger	Helen	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	8.55	30	O7,54
+15/08/2022	16/08/2022	Belanger	Helen	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	10.3	6	O9,02
+25/11/2022	26/11/2022	Simon	Philip	Nouveau	Paris 5	75005	France	Soirée	Couple sans enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	19.85	40	17,09
+13/10/2024	14/10/2024	Leboeuf	Maria	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	12.3	6	10,59
+19/10/2024	20/10/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Longlife Tofu	0	Produits secs	Fruits & Légumes	5.7	50	O5,09
+29/10/2024	31/10/2024	Bideau	Elizabeth	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Outback Lager	0	Alcools	Boissons	8.55	30	O7,54
+31/10/2024	03/11/2024	Robichaud	Roland	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	19.85	24	17,09
+05/01/2023	08/01/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	10.3	18	O9,02
+13/02/2023	15/02/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	4.45	4	O3,98
+04/03/2023	05/03/2023	Belanger	Helen	Récent	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	12.3	12	10,59
+22/03/2023	24/03/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	8.55	60	O7,54
+09/04/2023	12/04/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	19.85	25	17,09
+23/04/2023	24/04/2023	Simon	Philip	Récent	Paris 5	75005	France	Après-Midi	Couple sans enfant	Outback Lager	0	Alcools	Boissons	10.7	14	O7,54
+05/05/2023	07/05/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	50	O3,98
+02/06/2023	04/06/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	24	17,09
+02/06/2023	04/06/2023	Leboeuf	Maria	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	24	O7,28
+08/07/2023	10/07/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	20	O3,98
+31/08/2023	01/09/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	20	17,6
+31/08/2023	01/09/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	4	O9,02
+03/09/2023	06/09/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	65	17,6
+05/09/2023	07/09/2023	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Vegie-spread	0	Condiments	Fruits & Légumes	31.35	24	20,37
+17/09/2023	19/09/2023	Lapierre	Lino	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	10	O9,02
+12/10/2023	13/10/2023	Belanger	Helen	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	10.7	20	O7,54
+12/10/2023	13/10/2023	Belanger	Helen	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	15	10,59
+20/10/2023	21/10/2023	Thibeau	Christina	Récent	Ivry	94200	France	Après-Midi	Couple sans enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	20	10,59
+26/10/2023	27/10/2023	Simon	Philip	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Lakkalikööri	0	Alcools	Boissons	12.85	35	O9,02
+07/11/2023	09/11/2023	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	60	17,09
+17/12/2023	18/12/2023	Dumont	Fran	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	10	O9,02
+20/12/2023	22/12/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	45	17,6
+20/12/2023	22/12/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	14	10,59
+28/12/2023	30/12/2023	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	12	10,59
+12/01/2024	13/01/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	30	O3,98
+24/01/2024	25/01/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	30	O6,79
+03/02/2024	04/02/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	30	O7,54
+05/02/2024	06/02/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	8	O7,54
+09/02/2024	11/02/2024	Rimbaut	Patricia	Nouveau	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	20	10,59
+09/02/2024	11/02/2024	Rimbaut	Patricia	Nouveau	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	35	O9,02
+11/02/2024	13/02/2024	Blondin	Maria	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	15	O9,02
+12/02/2024	14/02/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	35	O7,28
+18/02/2024	19/02/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	10.7	28	O7,54
+01/03/2024	02/03/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	30	10,59
+04/03/2024	06/03/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	25	17,6
+09/03/2024	11/03/2024	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	8	10,59
+20/11/2022	22/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Chang	0	Sirops	Boissons	10.85	24	O9,83
+26/07/2023	27/07/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	30	O9,02
+07/08/2023	08/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	20	O3,98
+03/09/2023	06/09/2023	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Coca Zéro	1	Sodas	Boissons	20.35	120	17,77
+05/09/2023	07/09/2023	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	30	O3,98
+08/09/2023	10/09/2023	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	9	10,59
+24/09/2023	25/09/2023	David	Janine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Chai	0	Sirops	Boissons	12.85	3	O8,72
+28/12/2023	30/12/2023	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Coca Light	1	Sodas	Boissons	188.2	15	116,15
+28/01/2024	29/01/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	30	17,6
+28/01/2024	29/01/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	15	O7,28
+30/01/2024	31/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	50	O7,54
+08/02/2024	09/02/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	60	10,59
+12/03/2024	13/03/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	42	O3,98
+19/08/2024	20/08/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	10	O9,83
+29/09/2024	01/10/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Chang	0	Sirops	Boissons	13.55	20	O9,83
+20/12/2024	21/12/2024	Bergeron	José	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	10	O8,72
+31/12/2024	01/01/2025	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Chai	0	Sirops	Boissons	12.85	60	O8,72
+13/09/2022	14/09/2022	Melanson	Paula	Nouveau	Paris 5	75005	France	Matin	Couple sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	7.45	12	O6,79
+31/10/2022	02/11/2022	Gallant	Art	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Coca Light	1	Sodas	Boissons	150.55	20	116,15
+16/12/2024	17/12/2024	Vilatte	Bernardo	Récent	Paris 5	75005	France	Après-Midi	Célibataire avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	7.45	10	O6,79
+11/02/2023	12/02/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	17.15	16	15,23
+10/03/2023	11/03/2023	Eschete	Isabel	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Chai	0	Sirops	Boissons	10.3	15	O8,72
+09/04/2023	12/04/2023	Bastarache	Renate	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	7.45	25	O6,79
+30/04/2023	02/05/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	50	11,92
+30/04/2023	02/05/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	10	24,38
+13/06/2024	14/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Coca Light	1	Sodas	Boissons	188.2	30	116,15
+22/06/2023	23/06/2023	Toussaint	Mary	Récent	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	10	15,23
+07/08/2023	08/08/2023	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	18	O6,79
+22/08/2023	24/08/2023	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	20	O6,79
+07/12/2023	09/12/2023	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	70	O6,79
+30/01/2024	31/01/2024	Boutin	Horst	Récent	Paris 5	75005	France	Matin	Couple avec un enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	90	15,23
+22/03/2024	24/03/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	50	O8,72
+26/04/2024	27/04/2024	Leboeuf	Simon	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	8	O8,72
+17/05/2024	20/05/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Chang	0	Sirops	Boissons	13.55	40	O9,83
+16/07/2024	19/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	20	O9,83
+02/09/2024	04/09/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	4	O8,72
+30/09/2024	02/10/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	30	O5,4
+11/12/2024	13/12/2024	Melanson	Paula	Habitué	Paris 5	75005	France	Après-Midi	Couple sans enfant	Chai	0	Sirops	Boissons	12.85	20	O8,72
+09/01/2025	10/01/2025	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	20	16,16
+25/01/2025	26/01/2025	Melanson	Paula	Habitué	Paris 5	75005	France	Après-Midi	Couple sans enfant	Chai	0	Sirops	Boissons	12.85	21	O8,72
+31/01/2025	03/02/2025	Forest	Giovanni	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Chang	0	Sirops	Boissons	13.55	10	O9,83
+11/11/2023	12/11/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	50	O9,83
+18/03/2024	20/03/2024	Rommel	Ann	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	25	11,92
+30/03/2024	02/04/2024	Cyr	André	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	17.85	30	13,08
+11/04/2024	13/04/2024	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	20	O5,4
+14/05/2024	16/05/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	20	O5,4
+30/05/2024	02/06/2024	Douaron	Liu	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	6	16,16
+19/08/2024	20/08/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	20	24,38
+06/09/2024	08/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	16	16,16
+14/09/2024	15/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	21	11,92
+18/09/2024	19/09/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	49	O5,4
+26/09/2024	29/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	100	16,16
+23/12/2024	24/12/2024	Mercier	Lúcia	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	30	11,92
+24/01/2025	25/01/2025	Bastarache	Renate	Habitué	Paris 5	75005	France	Matin	Célibataire avec un enfant	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	17.85	20	13,08
+24/03/2023	25/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	12	5	11,05
+12/09/2023	14/09/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	60	O3,27
+24/09/2023	25/09/2023	David	Janine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	22.15	10	16,16
+30/09/2023	02/10/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	8	O3,27
+15/10/2023	18/10/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Tofu	0	Produits secs	Fruits & Légumes	16.6	21	10,84
+29/11/2023	30/11/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	30	O8,82
+01/01/2024	02/01/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Tofu	0	Produits secs	Fruits & Légumes	16.6	30	10,84
+18/03/2024	20/03/2024	Rommel	Ann	Récent	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	5	11,05
+27/05/2024	28/05/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	33	23,33
+29/06/2024	02/07/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Pavlova	0	Desserts	Plats	12.45	65	O8,82
+29/06/2024	02/07/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	35	23,33
+22/07/2024	23/07/2024	Chauvert	Yoshi	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	7	O3,27
+19/08/2024	20/08/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	10	O3,27
+21/08/2024	22/08/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	17.85	6	13,08
+26/09/2024	29/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	65	O3,27
+20/12/2024	21/12/2024	Bergeron	José	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	12	23,33
+12/11/2022	13/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	17.8	24	15
+17/11/2022	18/11/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	35.7	20	29,13
+19/12/2022	21/12/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	8	50	O6,64
+09/11/2024	10/11/2024	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	5.15	40	O4,52
+28/02/2023	02/03/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	35.7	30	29,13
+28/02/2023	02/03/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	5.15	15	O4,52
+24/09/2023	25/09/2023	David	Janine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	7.15	6	O4,98
+15/10/2023	18/10/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	3	O2,46
+01/11/2023	02/11/2023	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	50	29,13
+05/12/2023	06/12/2023	Thibeau	Jose	Nouveau	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Genen Shouyu	0	Condiments	Fruits & Légumes	11.05	50	O8,01
+25/12/2023	27/12/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	6.45	32	O4,52
+06/01/2024	07/01/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	100	23,88
+15/03/2024	16/03/2024	Ondy	Jean	Nouveau	Paris 13	75013	France	Matin	Célibataire sans enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	16	16,16
+19/03/2024	20/03/2024	Rodrigue	Maurizio	Récent	Ivry	94200	France	Soirée	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	20	23,33
+23/04/2024	24/04/2024	Moyse	Pirkko	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Tofu	0	Produits secs	Fruits & Légumes	16.6	5	10,84
+02/05/2024	03/05/2024	Gallant	Art	Habitué	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	21	29,13
+28/06/2024	29/06/2024	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Tofu	0	Produits secs	Fruits & Légumes	16.6	15	10,84
+10/07/2024	13/07/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Queso Cabrales	0	Produits laitiers	Frais	15	20	11,05
+30/08/2024	01/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	15	52	10,22
+02/09/2024	04/09/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	25	29,13
+08/09/2024	09/09/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Matin	Célibataire sans enfant	Queso Cabrales	0	Produits laitiers	Frais	15	15	11,05
+30/09/2024	02/10/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	35	15
+17/12/2024	20/12/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Pavlova	0	Desserts	Plats	12.45	15	O8,82
+26/12/2024	27/12/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Alice Mutton	0	Viandes	Plats	27.85	10	23,33
+28/12/2024	29/12/2024	Broussard	Sergio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	6	O8,82
+01/01/2025	02/01/2025	Robichaud	Felipe	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Pavlova	0	Desserts	Plats	12.45	24	O8,82
+25/01/2025	26/01/2025	Melanson	Paula	Habitué	Paris 5	75005	France	Après-Midi	Couple sans enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	4	29,13
+12/11/2022	13/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	5.15	40	O4,52
+10/11/2024	12/11/2024	Eschete	Isabel	Nouveau	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	5.7	10	O4,98
+10/03/2023	11/03/2023	Eschete	Isabel	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	5.7	21	O4,98
+11/04/2023	12/04/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	14	O2,46
+14/06/2024	15/06/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	35	O2,46
+15/10/2023	18/10/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	15	O4,72
+15/10/2023	18/10/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	7.15	25	O4,98
+17/11/2023	19/11/2023	Gautreaux	Mario	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	20	29,13
+22/03/2024	24/03/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	30	O4,98
+22/07/2024	23/07/2024	Chauvert	Yoshi	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	5	O6,64
+23/07/2024	25/07/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	15	O4,72
+23/07/2024	25/07/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Tunnbröd	0	Pâtes et céréales	Plats	6.45	18	O4,52
+18/08/2024	19/08/2024	Broussard	Sergio	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	5	50,8
+22/08/2024	23/08/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Matin	Célibataire sans enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	2	O4,72
+05/09/2024	06/09/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	6	O6,64
+11/09/2024	12/09/2024	Theriot	Georg	Récent	Paris 14	75014	France	Matin	Célibataire sans enfant	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	15	35	10,22
+18/09/2024	19/09/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	18	15
+20/09/2024	21/09/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	20	O6,64
+19/12/2024	20/12/2024	Benoit	Matti	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	12	O4,72
+01/01/2025	02/01/2025	Robichaud	Felipe	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	24	O6,64
+13/01/2025	14/01/2025	Eschete	Daniel	Nouveau	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	5	50,8
+18/01/2025	20/01/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	36	O4,98
+25/01/2025	26/01/2025	Melanson	Paula	Habitué	Paris 5	75005	France	Après-Midi	Couple sans enfant	Tunnbröd	0	Pâtes et céréales	Plats	6.45	8	O4,52
+08/07/2022	09/07/2022	Gautreaux	Mario	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	7.15	20	O6,48
+14/09/2022	15/09/2022	Fontenot	Carlos	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Schoggi Schokolade	0	Desserts	Plats	25.05	25	21,71
+20/11/2022	22/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	7.15	56	O6,48
+13/07/2023	14/07/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	20	13,32
+14/11/2023	17/11/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	15	23,36
+30/03/2024	02/04/2024	Cyr	André	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	15	13,32
+18/04/2024	19/04/2024	Theriot	Georg	Nouveau	Paris 14	75014	France	Soirée	Célibataire sans enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	8	O6,48
+26/05/2024	29/05/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	18	58,4
+27/05/2024	28/05/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	70	O6,48
+29/05/2024	01/06/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	2	O6,48
+01/06/2024	02/06/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	16	O6,48
+25/07/2024	26/07/2024	Rodrigue	Maurizio	Récent	Ivry	94200	France	Matin	Célibataire avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	16	O6,48
+25/08/2024	28/08/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	9	O6,48
+23/12/2024	24/12/2024	Mercier	Lúcia	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Geitost	1	Produits laitiers	Frais	1.8	40	O1,38
+28/12/2024	29/12/2024	Broussard	Sergio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	6	16,17
+09/01/2025	10/01/2025	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	30	23,36
+04/07/2022	07/07/2022	Gautreaux	Mario	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	5.5	10	O5,14
+08/07/2022	09/07/2022	Gautreaux	Mario	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	10.3	42	O8,72
+14/09/2022	15/09/2022	Fontenot	Carlos	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	10.3	6	O8,72
+29/09/2022	02/10/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	10.5	50	O9,9
+04/08/2022	06/08/2022	David	Janine	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	8	6	O7,19
+12/11/2022	13/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Gravad lax	0	Poissons et fruits de mer	Frais	14.85	28	13,08
+17/11/2022	18/11/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	5.5	12	O5,14
+17/11/2022	18/11/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Ipoh Coffee	0	Alcools	Boissons	26.3	40	21,73
+27/11/2024	28/11/2024	Lecompte	Martine	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Gravad lax	0	Poissons et fruits de mer	Frais	14.85	10	13,08
+11/04/2023	12/04/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	5	O9,9
+11/04/2023	12/04/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	30	O7,19
+15/05/2023	16/05/2023	Bideau	Patricio	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	3	O9,58
+15/05/2023	16/05/2023	Bideau	Patricio	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	10	O5,14
+21/05/2023	22/05/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	15	O9,9
+25/06/2023	26/06/2023	Olivier	Karin	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	10	O7,44
+15/10/2023	18/10/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	30	O9,58
+11/11/2023	12/11/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	60	O9,9
+14/11/2023	17/11/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	12.85	21	O8,72
+14/12/2023	16/12/2023	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	30	O9,9
+14/12/2023	16/12/2023	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	30	O7,19
+06/01/2024	07/01/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.8	30	O1,38
+08/04/2024	10/04/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	5	23,36
+11/05/2024	12/05/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	12.85	16	O8,72
+14/05/2024	16/05/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Chartreuse verte	0	Alcools	Boissons	12.85	130	O8,72
+01/06/2024	02/06/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	12	O7,19
+02/06/2024	05/06/2024	Cyr	André	Habitué	Paris 5	75005	France	Soirée	Célibataire sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	20	O7,19
+12/08/2024	13/08/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	12	O5,14
+27/08/2024	28/08/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	8	58,4
+27/08/2024	28/08/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	20	13,32
+30/08/2024	01/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	6	O9,58
+20/09/2024	21/09/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.8	4	O1,38
+29/09/2024	01/10/2024	Lyonnais	Antonio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	20	O7,19
+26/12/2024	27/12/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Geitost	1	Produits laitiers	Frais	1.8	30	O1,38
+18/01/2025	20/01/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Schoggi Schokolade	0	Desserts	Plats	31.35	25	21,71
+19/12/2022	21/12/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	30.3	20	27,7
+10/03/2023	11/03/2023	Eschete	Isabel	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	10.3	20	O8,72
+25/06/2023	26/06/2023	Olivier	Karin	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	14	O5,14
+10/07/2023	13/07/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	6.8	25	O5,24
+10/07/2023	13/07/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	20	27,7
+10/07/2023	13/07/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Filo Mix	0	Pâtes et céréales	Plats	5	30	O3,84
+10/07/2023	13/07/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	23.45	18	16,14
+05/12/2023	06/12/2023	Thibeau	Jose	Nouveau	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	24	O5,14
+14/12/2023	16/12/2023	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	20	27,7
+06/01/2024	07/01/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	120	O5,14
+13/01/2024	15/01/2024	David	Janine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Filo Mix	0	Pâtes et céréales	Plats	5	9	O3,84
+08/04/2024	10/04/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	35	O9,58
+14/04/2024	15/04/2024	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Matin	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	50	O9,9
+18/04/2024	19/04/2024	Theriot	Georg	Nouveau	Paris 14	75014	France	Soirée	Célibataire sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	35	O5,14
+21/05/2024	22/05/2024	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	30	O5,14
+01/06/2024	02/06/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	27	O5,88
+01/06/2024	02/06/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	120	27,7
+23/07/2024	25/07/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	30	O9,9
+28/07/2024	29/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Matin	Célibataire avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	20	O5,14
+28/07/2024	29/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Matin	Célibataire avec deux enfants ou plus	Ipoh Coffee	0	Alcools	Boissons	32.85	20	21,73
+07/07/2024	08/07/2024	Gallant	Art	Habitué	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	20	O9,58
+21/08/2024	22/08/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	12.85	28	O8,72
+22/08/2024	23/08/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Matin	Célibataire sans enfant	Steeleye Stout	0	Alcools	Boissons	12.85	8	O9,58
+22/08/2024	23/08/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Matin	Célibataire sans enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	9	21,73
+05/09/2024	06/09/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Chartreuse verte	0	Alcools	Boissons	12.85	10	O8,72
+08/09/2024	09/09/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Matin	Célibataire sans enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	5	21,73
+02/12/2024	03/12/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Chartreuse verte	0	Alcools	Boissons	12.85	8	O8,72
+17/12/2024	20/12/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	5	O5,14
+01/01/2025	02/01/2025	Robichaud	Felipe	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	20	O9,9
+04/01/2025	05/01/2025	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Matin	Célibataire avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	10	O9,58
+04/07/2022	07/07/2022	Gautreaux	Mario	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	30.3	35	27,7
+08/07/2022	09/07/2022	Gautreaux	Mario	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Maxilaku	1	Desserts	Plats	11.45	40	O9,86
+07/11/2024	08/11/2024	Fontenot	Carlos	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	18.7	70	16,14
+10/11/2024	12/11/2024	Eschete	Isabel	Nouveau	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	30.3	18	27,7
+15/03/2023	17/03/2023	Lecompte	Martine	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	5.45	30	O5,24
+24/03/2023	25/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	30.3	25	27,7
+01/11/2023	02/11/2023	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	15	27,7
+05/12/2023	06/12/2023	Thibeau	Jose	Nouveau	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	6.8	10	O5,24
+01/01/2024	02/01/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	23.45	10	16,14
+22/03/2024	24/03/2024	Robichaud	Felipe	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Valkoinen suklaa	0	Desserts	Plats	11.6	40	10,12
+11/05/2024	12/05/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	6.8	30	O5,24
+11/05/2024	12/05/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	28	27,7
+21/05/2024	22/05/2024	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Filo Mix	0	Pâtes et céréales	Plats	5	15	O3,84
+08/06/2024	09/06/2024	Moyse	Pirkko	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Tourtière	0	Viandes	Plats	5.3	3	O3,91
+28/06/2024	29/06/2024	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Matin	Célibataire avec deux enfants ou plus	Tourtière	0	Viandes	Plats	5.3	6	O3,91
+28/07/2024	29/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Matin	Célibataire avec deux enfants ou plus	Chocolade	0	Desserts	Plats	9.1	8	O6,48
+07/07/2024	08/07/2024	Gallant	Art	Habitué	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	6	27,7
+25/08/2024	28/08/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Perth Pasties	0	Viandes	Plats	23.45	9	16,14
+09/09/2024	12/09/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	4	27,7
+16/12/2024	17/12/2024	Rodrigue	Maurizio	Habitué	Ivry	94200	France	Soirée	Célibataire avec un enfant	Filo Mix	0	Pâtes et céréales	Plats	5	14	O3,84
+13/01/2025	14/01/2025	Eschete	Daniel	Nouveau	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Filo Mix	0	Pâtes et céréales	Plats	5	5	O3,84
+22/01/2025	23/01/2025	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	23.45	2	16,14
+29/09/2022	02/10/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	31.45	70	28,01
+03/11/2022	04/11/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Tourtière	0	Viandes	Plats	4.2	15	O3,91
+20/11/2022	22/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	13.7	40	11,86
+19/12/2022	21/12/2022	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Tourtière	0	Viandes	Plats	4.2	24	O3,91
+27/11/2024	28/11/2024	Lecompte	Martine	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Tourtière	0	Viandes	Plats	4.2	6	O3,91
+09/03/2023	11/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	13.7	2	11,86
+15/03/2023	17/03/2023	Lecompte	Martine	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	31.45	12	28,01
+27/03/2023	29/03/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	31.45	30	28,01
+30/03/2023	31/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	31.45	60	28,01
+12/09/2023	14/09/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	35	28,01
+29/11/2023	30/11/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	20	16,48
+01/01/2024	02/01/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	30	O6,63
+08/04/2024	10/04/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	40	O5,88
+11/04/2024	13/04/2024	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	50	16,48
+21/04/2024	22/04/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	15	18,86
+21/04/2024	22/04/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	6	28,01
+23/04/2024	24/04/2024	Moyse	Pirkko	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	40	O5,88
+11/05/2024	12/05/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	60	18,86
+26/05/2024	29/05/2024	Bastarache	Renate	Récent	Paris 5	75005	France	Matin	Célibataire avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	25	28,01
+22/06/2024	23/06/2024	Cyr	André	Habitué	Paris 5	75005	France	Soirée	Célibataire sans enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	20	18,86
+04/07/2024	05/07/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	2	24,73
+31/07/2024	02/08/2024	Babineau	Howard	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	20	24,73
+10/07/2024	13/07/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	15	O9,56
+10/07/2024	13/07/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	40	28,01
+19/08/2024	20/08/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	21	16,48
+30/08/2024	01/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	24	O9,56
+30/08/2024	01/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	60	16,48
+07/12/2024	09/12/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	30	11,86
+07/12/2024	09/12/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	6	24,73
+19/12/2024	20/12/2024	Benoit	Matti	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Maxilaku	1	Desserts	Plats	14.3	10	O9,86
+31/12/2024	01/01/2025	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	25	16,48
+04/08/2022	06/08/2022	David	Janine	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	20.55	7	17,6
+27/11/2024	28/11/2024	Lecompte	Martine	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	28.15	35	24,73
+03/01/2023	05/01/2023	Eschete	Isabel	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	21.7	28	18,86
+28/02/2023	02/03/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	19	8	15,7
+15/05/2023	16/05/2023	Bideau	Patricio	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	6	O6,34
+13/07/2023	14/07/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	15	24,73
+23/09/2023	26/09/2023	Olivier	Karin	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	28	18,86
+05/12/2023	06/12/2023	Thibeau	Jose	Nouveau	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	45	18,86
+05/12/2023	06/12/2023	Thibeau	Jose	Nouveau	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	30	16,48
+25/12/2023	27/12/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Laughing Lumberjack Lager	0	Sirops	Boissons	10	25	O8,8
+06/01/2024	07/01/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Tourtière	0	Viandes	Plats	5.3	30	O3,91
+19/03/2024	20/03/2024	Rodrigue	Maurizio	Récent	Ivry	94200	France	Soirée	Célibataire avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	10	18,86
+19/03/2024	20/03/2024	Rodrigue	Maurizio	Récent	Ivry	94200	France	Soirée	Célibataire avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	10	28,01
+08/04/2024	10/04/2024	Robichau	Karl	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	14	18,86
+23/04/2024	24/04/2024	Moyse	Pirkko	Récent	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	25	28,01
+21/05/2024	22/05/2024	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	15	24,73
+29/05/2024	01/06/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	12.15	50	O8,98
+08/06/2024	09/06/2024	Moyse	Pirkko	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	20	18,86
+12/08/2024	13/08/2024	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	10.7	9	O7,54
+21/08/2024	22/08/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	30	16,48
+30/08/2024	01/09/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	30	15,7
+03/09/2024	05/09/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	30	O6,63
+06/09/2024	08/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	30	18,86
+06/09/2024	08/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	50	28,01
+10/12/2024	11/12/2024	Robichau	Karl	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	15	O6,63
+10/12/2024	11/12/2024	Robichau	Karl	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	35	24,73
+20/12/2024	21/12/2024	Bergeron	José	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Laughing Lumberjack Lager	0	Sirops	Boissons	10	15	O8,8
+23/12/2024	24/12/2024	Mercier	Lúcia	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	15	O6,63
+26/12/2024	27/12/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Tourtière	0	Viandes	Plats	5.3	10	O3,91
+28/12/2024	29/12/2024	Broussard	Sergio	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	20	O9,56
+18/01/2025	20/01/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Pâté chinois	0	Viandes	Plats	17.15	25	11,86
+18/01/2025	20/01/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	30	O6,63
+04/07/2022	07/07/2022	Gautreaux	Mario	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	12	15	10,71
+07/11/2024	08/11/2024	Fontenot	Carlos	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	20.55	8	17,6
+30/03/2023	31/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	7.15	30	O6,34
+14/06/2024	15/06/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	36	10,71
+01/07/2023	02/07/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	18	17,6
+10/07/2023	13/07/2023	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	3	O7,28
+18/04/2024	19/04/2024	Theriot	Georg	Nouveau	Paris 14	75014	France	Soirée	Célibataire sans enfant	Vegie-spread	0	Condiments	Fruits & Légumes	31.35	9	20,37
+18/04/2024	19/04/2024	Theriot	Georg	Nouveau	Paris 14	75014	France	Soirée	Célibataire sans enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	30	17,6
+26/04/2024	27/04/2024	Leboeuf	Simon	Récent	Paris 14	75014	France	Matin	Célibataire avec un enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	3	17,6
+02/05/2024	03/05/2024	Gallant	Art	Habitué	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	6	O6,34
+02/05/2024	03/05/2024	Gallant	Art	Habitué	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	20	17,6
+17/05/2024	20/05/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Scottish Longbreads	0	Desserts	Plats	8.95	40	O6,34
+30/05/2024	02/06/2024	Douaron	Liu	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Laughing Lumberjack Lager	0	Sirops	Boissons	10	3	O8,8
+16/07/2024	19/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	2	10,71
+22/07/2024	23/07/2024	Chauvert	Yoshi	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	10.7	5	O7,54
+09/08/2024	12/08/2024	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Tarte au sucre	0	Desserts	Plats	35.2	3	24,73
+21/08/2024	22/08/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	24	O6,34
+08/09/2024	09/09/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Matin	Célibataire sans enfant	Scottish Longbreads	0	Desserts	Plats	8.95	20	O6,34
+14/09/2024	15/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Outback Lager	0	Alcools	Boissons	10.7	30	O7,54
+20/09/2024	21/09/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	10.7	30	O7,54
+04/12/2024	06/12/2024	Melanson	Paula	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Outback Lager	0	Alcools	Boissons	10.7	3	O7,54
+04/01/2025	05/01/2025	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Matin	Célibataire avec un enfant	Vegie-spread	0	Condiments	Fruits & Légumes	31.35	40	20,37
+09/01/2025	10/01/2025	Thibeau	Christina	Récent	Ivry	94200	France	Matin	Couple sans enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	6	O3,98
+31/01/2025	03/02/2025	Forest	Giovanni	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Laughing Lumberjack Lager	0	Sirops	Boissons	10	40	O8,8
+14/09/2022	15/09/2022	Fontenot	Carlos	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	7.45	15	O6,79
+29/09/2022	02/10/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	10.3	15	O9,02
+12/11/2022	13/11/2022	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	19.85	25	17,09
+09/11/2024	10/11/2024	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	12.3	60	10,59
+09/11/2024	10/11/2024	Fontenot	Peter	Récent	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	19.85	21	17,09
+09/03/2023	11/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Outback Lager	0	Alcools	Boissons	8.55	12	O7,54
+24/03/2023	25/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Longlife Tofu	0	Produits secs	Fruits & Légumes	5.7	16	O5,09
+27/03/2023	29/03/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Röd Kaviar	0	Poissons et fruits de mer	Frais	8.55	20	O7,28
+30/03/2023	31/03/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	4.45	36	O3,98
+14/06/2024	15/06/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	9	10,59
+01/07/2023	02/07/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	30	O3,98
+30/09/2023	02/10/2023	Fontenot	Carlos	Habitué	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	40	O3,98
+01/11/2023	02/11/2023	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	2	O3,98
+25/12/2023	27/12/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	50	O7,28
+25/12/2023	27/12/2023	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	25	O3,98
+30/03/2024	02/04/2024	Cyr	André	Récent	Paris 5	75005	France	Matin	Célibataire sans enfant	Lakkalikööri	0	Alcools	Boissons	12.85	20	O9,02
+11/04/2024	13/04/2024	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	35	17,09
+21/04/2024	22/04/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	10	O9,02
+24/05/2024	26/05/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	16	10,59
+27/05/2024	28/05/2024	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	7	O3,98
+07/06/2024	08/06/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Outback Lager	0	Alcools	Boissons	10.7	35	O7,54
+07/06/2024	08/06/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	15	O6,79
+04/07/2024	05/07/2024	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	10	17,09
+25/07/2024	26/07/2024	Rodrigue	Maurizio	Récent	Ivry	94200	France	Matin	Célibataire avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	40	17,09
+25/07/2024	26/07/2024	Rodrigue	Maurizio	Récent	Ivry	94200	France	Matin	Célibataire avec un enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	20	O6,79
+10/07/2024	13/07/2024	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	15	O6,79
+06/09/2024	08/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	15	O6,79
+14/09/2024	15/09/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Longlife Tofu	0	Produits secs	Fruits & Légumes	7.15	20	O5,09
+25/12/2024	27/12/2024	Mercier	Lúcia	Récent	Paris 5	75005	France	Matin	Couple sans enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	25	10,59
+13/01/2025	14/01/2025	Eschete	Daniel	Nouveau	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Lakkalikööri	0	Alcools	Boissons	12.85	20	O9,02
+30/04/2023	02/05/2023	Babineau	Laurence	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	50	15,23
+14/06/2024	15/06/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Coca Light	1	Sodas	Boissons	188.2	4	116,15
+01/11/2023	02/11/2023	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	35	15,23
+09/04/2024	10/04/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	15	O9,83
+08/06/2024	09/06/2024	Moyse	Pirkko	Récent	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Longlife Tofu	0	Produits secs	Fruits & Légumes	7.15	35	O5,09
+22/06/2024	23/06/2024	Cyr	André	Habitué	Paris 5	75005	France	Soirée	Célibataire sans enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	3	15,23
+16/07/2024	19/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Célibataire avec deux enfants ou plus	Longlife Tofu	0	Produits secs	Fruits & Légumes	7.15	15	O5,09
+31/07/2024	02/08/2024	Babineau	Howard	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Coca Light	1	Sodas	Boissons	188.2	30	116,15
+09/08/2024	12/08/2024	Robichaud	Helvetius	Habitué	Paris 13	75013	France	Matin	Célibataire sans enfant	Outback Lager	0	Alcools	Boissons	10.7	6	O7,54
+03/09/2024	05/09/2024	Damboue	Anabela	Récent	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	15	17,09
+08/09/2024	09/09/2024	Guidry	Miguel	Récent	Paris 13	75013	France	Matin	Célibataire sans enfant	Outback Lager	0	Alcools	Boissons	10.7	12	O7,54
+22/01/2025	23/01/2025	Belanger	Helen	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Coca Zéro	1	Sodas	Boissons	20.35	30	17,77
+12/05/2025	13/05/2025	Babineau	Howard	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	8	O8,72
+28/05/2025	29/05/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	25	O5,4
+12/07/2025	13/07/2025	Rommel	Ann	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Chai	0	Sirops	Boissons	12.85	25	O8,72
+15/07/2025	17/07/2025	Cyr	André	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire sans enfant	Chang	0	Sirops	Boissons	13.55	10	O9,83
+16/08/2025	19/08/2025	Bastarache	Renate	Habitué	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	40	O8,72
+16/08/2025	19/08/2025	Bastarache	Renate	Habitué	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Chang	0	Sirops	Boissons	13.55	20	O9,83
+19/08/2025	21/08/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Chang	0	Sirops	Boissons	13.55	8	O9,83
+15/03/2024	16/03/2024	Ondy	Jean	Nouveau	Paris 13	75013	France	Matin	Célibataire sans enfant	Coca Zéro	1	Sodas	Boissons	20.35	5	17,77
+17/05/2024	20/05/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Après-Midi	Célibataire sans enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	35	15,23
+21/05/2024	22/05/2024	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Coca Zéro	1	Sodas	Boissons	20.35	20	17,77
+25/06/2024	26/06/2024	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Chang	0	Sirops	Boissons	13.55	10	O9,83
+28/07/2024	29/07/2024	Toussaint	Mary	Habitué	Le Kremlin-B.	94270	France	Matin	Célibataire avec deux enfants ou plus	Coca Zéro	1	Sodas	Boissons	20.35	30	17,77
+16/07/2024	18/07/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	22.15	15	16,16
+18/08/2024	19/08/2024	Broussard	Sergio	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Coca Light	1	Sodas	Boissons	188.2	2	116,15
+22/08/2024	23/08/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Matin	Célibataire sans enfant	Coca Light	1	Sodas	Boissons	188.2	8	116,15
+25/08/2024	28/08/2024	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	20	15,23
+15/09/2024	16/09/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Chai	0	Sirops	Boissons	12.85	80	O8,72
+17/09/2024	19/09/2024	Veco	Elizabeth	Nouveau	Paris 14	75014	France	Soirée	Couple avec un enfant	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	15.25	30	O9,88
+17/09/2024	19/09/2024	Veco	Elizabeth	Nouveau	Paris 14	75014	France	Soirée	Couple avec un enfant	Mishi Kobe Niku	0	Viandes	Plats	69.3	3	47,13
+23/09/2024	24/09/2024	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Chang	0	Sirops	Boissons	13.55	15	O9,83
+13/12/2024	14/12/2024	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Coca Zéro	1	Sodas	Boissons	20.35	15	17,77
+16/12/2024	17/12/2024	Rodrigue	Maurizio	Habitué	Ivry	94200	France	Soirée	Célibataire avec un enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	20	15,23
+17/12/2024	20/12/2024	Duhon	Jonas	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	12	15,23
+19/12/2024	20/12/2024	Benoit	Matti	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Coca Zéro	1	Sodas	Boissons	20.35	5	17,77
+12/01/2025	15/01/2025	Pellerin	Ana	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	15	2	11,05
+07/05/2025	10/05/2025	Douaron	Liu	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Chai	0	Sirops	Boissons	12.85	4	O8,72
+10/05/2025	12/05/2025	Benoit	Matti	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Chai	0	Sirops	Boissons	12.85	2	O8,72
+09/04/2025	10/04/2025	Moyse	Pirkko	Récent	Ivry	94200	France	Après-Midi	Célibataire avec deux enfants ou plus	Chai	0	Sirops	Boissons	12.85	10	O8,72
+24/03/2025	27/03/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Chai	0	Sirops	Boissons	12.85	10	O8,72
+12/07/2025	13/07/2025	Rommel	Ann	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	15.25	30	O9,88
+23/08/2025	24/08/2025	Arceneaux	Michael	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Chang	0	Sirops	Boissons	13.55	10	O9,83
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Chang	0	Sirops	Boissons	13.55	24	O9,83
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Aniseed Syrup	0	Condiments	Fruits & Légumes	7.15	4	O5,4
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	1	11,92
+23/05/2024	25/05/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	15	11,05
+07/07/2024	09/07/2024	Laurier	Hari	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	50	11,05
+13/07/2024	14/07/2024	Laurier	Hari	Récent	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Ikura	0	Poissons et fruits de mer	Frais	22.15	36	16,16
+22/12/2024	25/12/2024	Rimbaut	Patricia	Récent	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	40	11,05
+12/01/2025	15/01/2025	Pellerin	Ana	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	7	O4,72
+16/02/2025	19/02/2025	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	17.85	40	13,08
+16/02/2025	19/02/2025	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	15	11,05
+02/06/2025	04/06/2025	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	24	16,16
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	17.85	1	13,08
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	2	24,38
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Ikura	0	Poissons et fruits de mer	Frais	22.15	1	16,16
+24/03/2024	25/03/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	15	O8,82
+28/03/2024	29/03/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Tofu	0	Produits secs	Fruits & Légumes	16.6	16	10,84
+15/04/2024	18/04/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	24	29,13
+05/06/2024	07/06/2024	Laliberte	Alexander	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	20	O8,82
+19/06/2024	20/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	50	O4,72
+20/06/2024	21/06/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	30	29,13
+05/07/2024	06/07/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	20	O3,27
+08/07/2024	09/07/2024	Boucher	Martín	Nouveau	Paris 13	75013	France	Matin	Couple avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	40	23,33
+31/08/2024	01/09/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	6	O3,27
+23/09/2024	24/09/2024	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	6	23,33
+01/12/2024	02/12/2024	Ory	Yvonne	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	5	O3,27
+08/12/2024	09/12/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	40	O3,27
+06/01/2025	09/01/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Alice Mutton	0	Viandes	Plats	27.85	15	23,33
+12/01/2025	15/01/2025	Pellerin	Ana	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	10	O3,27
+21/01/2025	23/01/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	30	O8,82
+30/01/2025	31/01/2025	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	20	O3,27
+02/02/2025	03/02/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	20	O3,27
+11/04/2025	12/04/2025	Devaux	Paolo	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	8	29,13
+15/07/2025	17/07/2025	Cyr	André	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire sans enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	4	23,88
+21/07/2025	24/07/2025	Theriot	Georg	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	35	29,13
+16/08/2025	19/08/2025	Bastarache	Renate	Habitué	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Pavlova	0	Desserts	Plats	12.45	30	O8,82
+17/08/2025	18/08/2025	Lafont	Carlos	Récent	Paris 14	75014	France	Matin	Célibataire sans enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	10	O3,27
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	1	50,8
+05/04/2024	07/04/2024	Michel	Dominique	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec un enfant	Pavlova	0	Desserts	Plats	12.45	3	O8,82
+12/05/2024	14/05/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	7.15	40	O4,98
+12/05/2024	14/05/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	15	6	10,22
+12/05/2024	14/05/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	20	O2,46
+20/05/2024	22/05/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	15	4	10,22
+11/07/2024	12/07/2024	Melanson	Paula	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	24	O4,72
+15/09/2024	16/09/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	12	O4,72
+06/01/2025	09/01/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	35	O2,46
+16/01/2025	17/01/2025	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Sir Rodney's Scones	0	Desserts	Plats	7.15	60	O4,98
+19/01/2025	20/01/2025	Arceneaux	Michael	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	42	O3,27
+18/02/2025	19/02/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	65	O4,98
+04/05/2025	06/05/2025	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Gustaf's Knäckebröd	0	Pâtes et céréales	Plats	15	25	10,22
+15/05/2025	17/05/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	70	23,36
+16/05/2025	18/05/2025	Bergeron	José	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	12	O2,46
+08/06/2025	09/06/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	22.3	12	15
+09/04/2025	10/04/2025	Moyse	Pirkko	Récent	Ivry	94200	France	Après-Midi	Célibataire avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	20	O3,27
+12/06/2025	14/06/2025	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	30	O2,46
+02/07/2025	03/07/2025	Babineau	Howard	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	20	O4,98
+11/07/2025	12/07/2025	Poirier	Rita	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	20	23,88
+29/07/2025	31/07/2025	Robichau	Hanna	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Sir Rodney's Scones	0	Desserts	Plats	7.15	3	O4,98
+30/07/2025	01/08/2025	Forest	Janete	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	30	O3,27
+30/07/2025	01/08/2025	Forest	Janete	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Alice Mutton	0	Viandes	Plats	27.85	12	23,33
+10/08/2025	11/08/2025	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	3	O8,82
+10/08/2025	11/08/2025	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	42	O4,72
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	2	23,88
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Konbu	1	Poissons et fruits de mer	Frais	4.3	4	O3,27
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Tofu	0	Produits secs	Fruits & Légumes	16.6	1	10,84
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Pavlova	0	Desserts	Plats	12.45	2	O8,82
+24/03/2024	25/03/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	3	O6,48
+28/03/2024	29/03/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	20	23,36
+20/04/2024	22/04/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Tunnbröd	0	Pâtes et céréales	Plats	6.45	44	O4,52
+24/04/2024	25/04/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	12	15
+05/05/2024	06/05/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	20	15
+06/05/2024	07/05/2024	Pellerin	Ana	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	10	16,17
+09/05/2024	10/05/2024	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	35	O6,64
+20/05/2024	22/05/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	50	O6,48
+01/07/2024	03/07/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	22.3	21	15
+05/07/2024	06/07/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	20	O2,46
+08/07/2024	09/07/2024	Boucher	Martín	Nouveau	Paris 13	75013	France	Matin	Couple avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	20	58,4
+11/07/2024	12/07/2024	Melanson	Paula	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	15	O6,64
+01/08/2024	02/08/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	40	15
+12/09/2024	13/09/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Tunnbröd	0	Pâtes et céréales	Plats	6.45	70	O4,52
+30/03/2025	31/03/2025	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	12	O2,46
+09/05/2025	11/05/2025	Michel	Catherine	Récent	Le Kremlin-B.	94270	France	Matin	Célibataire avec deux enfants ou plus	Gumbär Gummibärchen	0	Desserts	Plats	22.3	6	15
+18/05/2025	19/05/2025	Rodrigue	Maurizio	Habitué	Ivry	94200	France	Soirée	Célibataire avec un enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	10	O2,46
+28/02/2025	01/03/2025	Robichaud	Felipe	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	20	23,36
+09/07/2025	10/07/2025	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Geitost	1	Produits laitiers	Frais	1.8	15	O1,38
+13/08/2025	14/08/2025	Mercier	Lúcia	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	8	23,36
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Tunnbröd	0	Pâtes et céréales	Plats	6.45	2	O4,52
+24/04/2024	25/04/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	30	13,32
+03/05/2024	04/05/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	30	O7,44
+10/06/2024	11/06/2024	Bideau	Patricio	Habitué	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	1	O6,48
+11/06/2024	12/06/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	10	O6,48
+20/06/2024	21/06/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	15	O9,58
+23/06/2024	25/06/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	14	58,4
+13/07/2024	14/07/2024	Laurier	Hari	Récent	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	24	23,36
+14/07/2024	15/07/2024	Poirier	Liz	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	10	O7,44
+29/07/2024	31/07/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.8	16	O1,38
+03/08/2024	04/08/2024	Forest	Giovanni	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	20	16,17
+12/09/2024	13/09/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	25	O9,58
+22/12/2024	25/12/2024	Rimbaut	Patricia	Récent	Ivry	94200	France	Matin	Couple avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	60	58,4
+28/01/2025	30/01/2025	Bideau	Patricio	Habitué	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Rössle Sauerkraut	0	Produits secs	Fruits & Légumes	32.55	8	23,36
+28/01/2025	30/01/2025	Bideau	Patricio	Habitué	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	20	O7,44
+03/02/2025	04/02/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	44	O6,48
+18/02/2025	19/02/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Sasquatch Ale	0	Alcools	Boissons	10	60	O7,44
+22/04/2025	24/04/2025	Leboeuf	Maria	Habitué	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	50	58,4
+28/03/2025	29/03/2025	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	50	16,17
+12/05/2025	13/05/2025	Babineau	Howard	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec un enfant	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	2	58,4
+15/05/2025	17/05/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Sasquatch Ale	0	Alcools	Boissons	10	90	O7,44
+25/05/2025	27/05/2025	Duhon	Jonas	Habitué	Ivry	94200	France	Après-Midi	Célibataire sans enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	15	13,32
+08/06/2025	09/06/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.8	30	O1,38
+24/03/2025	27/03/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Steeleye Stout	0	Alcools	Boissons	12.85	60	O9,58
+28/02/2025	01/03/2025	Robichaud	Felipe	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Steeleye Stout	0	Alcools	Boissons	12.85	24	O9,58
+21/07/2025	24/07/2025	Theriot	Georg	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	20	16,17
+08/08/2025	09/08/2025	Lafont	Carlos	Récent	Paris 14	75014	France	Après-Midi	Célibataire sans enfant	Nord-Ost Matjeshering	0	Poissons et fruits de mer	Frais	18.5	4	13,32
+16/08/2025	19/08/2025	Bastarache	Renate	Habitué	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	20	O6,48
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	1	16,17
+27/04/2024	29/04/2024	Devaux	Paolo	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	4	O5,88
+29/04/2024	30/04/2024	Forest	Giovanni	Habitué	Ivry	94200	France	Matin	Couple sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	3	O9,9
+04/06/2024	05/06/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	10	O5,14
+13/06/2024	14/06/2024	Forest	Giovanni	Habitué	Ivry	94200	France	Matin	Couple sans enfant	Chartreuse verte	0	Alcools	Boissons	12.85	2	O8,72
+23/06/2024	25/06/2024	Fontenot	Peter	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	20	O5,14
+26/06/2024	28/06/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	14	O5,14
+01/07/2024	03/07/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	10	O9,71
+17/07/2024	18/07/2024	Devaux	Paolo	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	1	O9,9
+01/08/2024	02/08/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	60	O9,9
+03/08/2024	04/08/2024	Forest	Giovanni	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	20	O5,14
+04/08/2024	07/08/2024	Bideau	Patricio	Habitué	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Ipoh Coffee	0	Alcools	Boissons	32.85	7	21,73
+16/07/2024	18/07/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Chartreuse verte	0	Alcools	Boissons	12.85	21	O8,72
+31/08/2024	01/09/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	25	O9,9
+05/12/2024	06/12/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	30	O5,14
+13/04/2025	15/04/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Ipoh Coffee	0	Alcools	Boissons	32.85	6	21,73
+22/04/2025	24/04/2025	Leboeuf	Maria	Habitué	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	35	O5,14
+24/05/2025	25/05/2025	Robichaud	Felipe	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	28	O5,14
+11/07/2025	12/07/2025	Poirier	Rita	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	15	16,17
+11/07/2025	12/07/2025	Poirier	Rita	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	18	O9,58
+10/08/2025	11/08/2025	Robichau	Karl	Récent	Paris 13	75013	France	Après-Midi	Célibataire avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	35	O7,44
+19/08/2025	21/08/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	40	O5,14
+28/03/2024	29/03/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Filo Mix	0	Pâtes et céréales	Plats	5	25	O3,84
+15/04/2024	18/04/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	16	O9,71
+20/04/2024	22/04/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	40	O9,9
+30/04/2024	01/05/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Zaanse koeken	0	Desserts	Plats	6.8	30	O5,24
+18/05/2024	19/05/2024	Roy	Pascale	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	2	O7,19
+26/06/2024	28/06/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Filo Mix	0	Pâtes et céréales	Plats	5	8	O3,84
+31/08/2024	01/09/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Zaanse koeken	0	Desserts	Plats	6.8	40	O5,24
+12/09/2024	13/09/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	42	O7,19
+15/09/2024	16/09/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Gravad lax	0	Poissons et fruits de mer	Frais	18.55	60	13,08
+15/09/2024	16/09/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Røgede sild	0	Poissons et fruits de mer	Frais	6.8	36	O5,88
+03/01/2025	05/01/2025	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Valkoinen suklaa	0	Desserts	Plats	11.6	24	10,12
+30/01/2025	31/01/2025	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	24	21,73
+16/02/2025	19/02/2025	Vilatte	Bernardo	Habitué	Paris 5	75005	France	Soirée	Célibataire avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	4	O5,14
+18/02/2025	19/02/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Pâté chinois	0	Viandes	Plats	17.15	65	11,86
+01/05/2025	02/05/2025	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	20	O5,14
+04/05/2025	06/05/2025	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	6	11,86
+07/05/2025	10/05/2025	Douaron	Liu	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	10	O9,9
+11/04/2025	12/04/2025	Devaux	Paolo	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	10	27,7
+24/03/2025	27/03/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	30	O7,19
+29/06/2025	30/06/2025	Roy	Pascale	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	5	O9,9
+09/07/2025	10/07/2025	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Après-Midi	Célibataire sans enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	24	27,7
+26/07/2025	28/07/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	35	11,86
+13/08/2025	14/08/2025	Mercier	Lúcia	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	36	21,73
+14/08/2025	15/08/2025	Guidry	Miguel	Récent	Paris 13	75013	France	Soirée	Célibataire sans enfant	Chartreuse verte	0	Alcools	Boissons	12.85	20	O8,72
+19/08/2025	21/08/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Valkoinen suklaa	0	Desserts	Plats	11.6	22	10,12
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Chartreuse verte	0	Alcools	Boissons	12.85	2	O8,72
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	3	O5,14
+24/04/2024	25/04/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Valkoinen suklaa	0	Desserts	Plats	11.6	20	10,12
+05/05/2024	06/05/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Filo Mix	0	Pâtes et céréales	Plats	5	60	O3,84
+20/05/2024	22/05/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	15	16,48
+25/06/2024	26/06/2024	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Tourtière	0	Viandes	Plats	5.3	3	O3,91
+07/07/2024	09/07/2024	Laurier	Hari	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	10	27,7
+07/07/2024	09/07/2024	Laurier	Hari	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Tourtière	0	Viandes	Plats	5.3	7	O3,91
+13/07/2024	14/07/2024	Laurier	Hari	Récent	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Maxilaku	1	Desserts	Plats	14.3	4	O9,86
+20/07/2024	21/07/2024	Melanson	Paula	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Filo Mix	0	Pâtes et céréales	Plats	5	20	O3,84
+28/07/2024	31/07/2024	Blondin	Maria	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	15	28,01
+10/01/2025	11/01/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Filo Mix	0	Pâtes et céréales	Plats	5	12	O3,84
+15/01/2025	17/01/2025	Cyr	Eduardo	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Zaanse koeken	0	Desserts	Plats	6.8	5	O5,24
+28/03/2025	29/03/2025	Lafont	Carlos	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Filo Mix	0	Pâtes et céréales	Plats	5	20	O3,84
+01/05/2025	02/05/2025	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	15	27,7
+07/05/2025	10/05/2025	Douaron	Liu	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Filo Mix	0	Pâtes et céréales	Plats	5	10	O3,84
+31/05/2025	01/06/2025	Broussard	Sergio	Récent	Paris 13	75013	France	Soirée	Célibataire avec deux enfants ou plus	Maxilaku	1	Desserts	Plats	14.3	2	O9,86
+14/06/2025	16/06/2025	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Pâté chinois	0	Viandes	Plats	17.15	35	11,86
+24/03/2025	27/03/2025	Roy	Pascale	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple sans enfant	Tourtière	0	Viandes	Plats	5.3	10	O3,91
+29/06/2025	30/06/2025	Roy	Pascale	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Filo Mix	0	Pâtes et céréales	Plats	5	2	O3,84
+28/02/2025	01/03/2025	Robichaud	Felipe	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Maxilaku	1	Desserts	Plats	14.3	60	O9,86
+29/07/2025	31/07/2025	Robichau	Hanna	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	21	16,48
+04/08/2025	05/08/2025	Rodrigue	Maurizio	Habitué	Ivry	94200	France	Matin	Célibataire avec un enfant	Perth Pasties	0	Viandes	Plats	23.45	10	16,14
+08/08/2025	09/08/2025	Lafont	Carlos	Récent	Paris 14	75014	France	Après-Midi	Célibataire sans enfant	Tourtière	0	Viandes	Plats	5.3	20	O3,91
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Filo Mix	0	Pâtes et céréales	Plats	5	2	O3,84
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Pâté chinois	0	Viandes	Plats	17.15	2	11,86
+15/04/2024	18/04/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	45	28,01
+30/04/2024	01/05/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	30	18,86
+30/04/2024	01/05/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	14	O9,56
+03/05/2024	04/05/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	30	24,73
+05/06/2024	07/06/2024	Laliberte	Alexander	Récent	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	20	24,73
+20/06/2024	21/06/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Vegie-spread	0	Condiments	Fruits & Légumes	31.35	30	20,37
+05/07/2024	06/07/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	25	28,01
+01/08/2024	02/08/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Tarte au sucre	0	Desserts	Plats	35.2	25	24,73
+06/07/2024	09/07/2024	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	30	18,86
+12/09/2024	13/09/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	60	O6,63
+23/09/2024	24/09/2024	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	50	24,73
+19/01/2025	20/01/2025	Arceneaux	Michael	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	30	O9,56
+21/01/2025	23/01/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	14	24,73
+30/01/2025	31/01/2025	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	49	16,48
+03/02/2025	04/02/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Tarte au sucre	0	Desserts	Plats	35.2	30	24,73
+16/05/2025	18/05/2025	Bergeron	José	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	9	16,48
+28/05/2025	29/05/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	110	28,01
+12/06/2025	14/06/2025	Bideau	Elizabeth	Habitué	Paris 13	75013	France	Soirée	Célibataire sans enfant	Tarte au sucre	0	Desserts	Plats	35.2	21	24,73
+14/06/2025	16/06/2025	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	24	28,01
+28/02/2025	01/03/2025	Robichaud	Felipe	Habitué	Le Kremlin-B.	94270	France	Soirée	Célibataire avec un enfant	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	28	O9,56
+26/07/2025	28/07/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	50	16,48
+30/07/2025	01/08/2025	Forest	Janete	Récent	Paris 5	75005	France	Soirée	Célibataire avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	35	16,48
+01/08/2025	02/08/2025	Devaux	Paolo	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	4	16,48
+02/08/2025	04/08/2025	Babineau	Howard	Récent	Paris 13	75013	France	Matin	Célibataire avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	15	16,48
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Camembert Pierrot	0	Produits laitiers	Frais	24.3	2	16,48
+24/03/2024	25/03/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	10	10,71
+02/04/2024	05/04/2024	Rimbaut	Patricia	Récent	Ivry	94200	France	Après-Midi	Couple avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	40	10,71
+20/04/2024	22/04/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	28	18,86
+30/04/2024	01/05/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	25	17,6
+03/05/2024	04/05/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	7	28,01
+20/05/2024	22/05/2024	Duhon	Thomas	Récent	Paris 14	75014	France	Soirée	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	12	10,59
+20/06/2024	21/06/2024	Lecompte	Martine	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	18	O6,34
+01/07/2024	03/07/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	35	15,7
+01/07/2024	03/07/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	24	17,6
+11/07/2024	12/07/2024	Melanson	Paula	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	15	28,01
+15/09/2024	16/09/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	45	16,48
+05/12/2024	06/12/2024	Fontenot	Carlos	Habitué	Paris 14	75014	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	30	10,59
+08/12/2024	09/12/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	21	10,71
+08/12/2024	09/12/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	20	O6,34
+24/03/2025	26/03/2025	Prejean	Palle	Récent	Le Kremlin-B.	94270	France	Matin	Célibataire avec un enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	18	28,01
+10/05/2025	12/05/2025	Benoit	Matti	Habitué	Ivry	94200	France	Après-Midi	Couple sans enfant	Raclette Courdavault	0	Produits laitiers	Frais	39.3	10	28,01
+15/05/2025	17/05/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	21	10,59
+28/05/2025	29/05/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	30	O7,54
+08/06/2025	09/06/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	21	10,71
+08/06/2025	09/06/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Matin	Célibataire avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	50	10,59
+20/02/2025	22/02/2025	Robichau	Karl	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	30	28,01
+27/06/2025	28/06/2025	Bergeron	José	Récent	Paris 13	75013	France	Soirée	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	4	O7,54
+08/07/2025	10/07/2025	Lapierre	Zbyszek	Récent	Paris 5	75005	France	Matin	Couple sans enfant	Tarte au sucre	0	Desserts	Plats	35.2	12	24,73
+14/07/2025	15/07/2025	Bideau	Elizabeth	Habitué	Ivry	94200	France	Soirée	Célibataire sans enfant	Scottish Longbreads	0	Desserts	Plats	8.95	42	O6,34
+19/08/2025	21/08/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Matin	Célibataire avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	130	15,7
+27/03/2024	28/03/2024	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	20	O9,02
+03/05/2024	04/05/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	24	15,7
+05/05/2024	06/05/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	40	O7,54
+15/05/2024	16/05/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Louisiana Fiery Hot Pepper Sauce	0	Condiments	Fruits & Légumes	15.05	80	10,71
+25/06/2024	26/06/2024	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Matin	Couple sans enfant	Scottish Longbreads	0	Desserts	Plats	8.95	15	O6,34
+04/08/2024	07/08/2024	Bideau	Patricio	Habitué	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	20	O3,98
+28/07/2024	31/07/2024	Blondin	Maria	Habitué	Paris 5	75005	France	Après-Midi	Couple avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	2	O6,79
+31/08/2024	01/09/2024	Thibeau	Christina	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Lakkalikööri	0	Alcools	Boissons	12.85	21	O9,02
+12/09/2024	13/09/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	48	15,7
+15/09/2024	16/09/2024	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	55	10,59
+12/01/2025	15/01/2025	Pellerin	Ana	Récent	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	10	17,09
+21/01/2025	23/01/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	16	17,09
+21/01/2025	23/01/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Matin	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	20	O3,98
+03/02/2025	04/02/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	80	O6,34
+13/04/2025	15/04/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	20	17,09
+29/06/2025	30/06/2025	Roy	Pascale	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	30	10,59
+21/07/2025	24/07/2025	Theriot	Georg	Récent	Paris 14	75014	France	Soirée	Célibataire sans enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	25	15,7
+27/07/2025	29/07/2025	Leboeuf	Simon	Récent	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	3	O7,54
+04/08/2025	05/08/2025	Rodrigue	Maurizio	Habitué	Ivry	94200	France	Matin	Célibataire avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	12	O7,54
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	2	15,7
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Louisiana Hot Spiced Okra	0	Condiments	Fruits & Légumes	12.15	1	O8,98
+02/04/2024	05/04/2024	Rimbaut	Patricia	Récent	Ivry	94200	France	Après-Midi	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	20	O3,98
+15/04/2024	18/04/2024	Boutin	Horst	Récent	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	7	17,09
+24/04/2024	25/04/2024	Arceneaux	Michael	Habitué	Paris 13	75013	France	Matin	Couple avec un enfant	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	15	O7,28
+27/04/2024	29/04/2024	Devaux	Paolo	Récent	Ivry	94200	France	Soirée	Couple sans enfant	Longlife Tofu	0	Produits secs	Fruits & Légumes	7.15	5	O5,09
+09/05/2024	10/05/2024	Lavallee	Paula	Récent	Paris 13	75013	France	Matin	Couple avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	18	O3,98
+11/06/2024	12/06/2024	Gautreaux	Mario	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Coca Light	1	Sodas	Boissons	188.2	5	116,15
+13/06/2024	14/06/2024	Forest	Giovanni	Habitué	Ivry	94200	France	Matin	Couple sans enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	30	17,09
+19/06/2024	20/06/2024	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	40	O3,98
+14/07/2024	15/07/2024	Poirier	Liz	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Coca Light	1	Sodas	Boissons	188.2	10	116,15
+14/12/2024	17/12/2024	Michel	Dominique	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	14	O3,98
+15/01/2025	17/01/2025	Cyr	Eduardo	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	5	O9,02
+16/01/2025	17/01/2025	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	49	O3,98
+16/01/2025	17/01/2025	Fontenot	Peter	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	15	O6,79
+30/01/2025	31/01/2025	Boutin	Horst	Récent	Paris 5	75005	France	Soirée	Couple avec un enfant	Fløtemysost	1	Produits laitiers	Frais	15.35	35	10,59
+30/03/2025	31/03/2025	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Longlife Tofu	0	Produits secs	Fruits & Légumes	7.15	20	O5,09
+30/03/2025	31/03/2025	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	30	O3,98
+01/05/2025	02/05/2025	Champagne	Henriette	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	21	O6,79
+09/05/2025	11/05/2025	Michel	Catherine	Récent	Le Kremlin-B.	94270	France	Matin	Célibataire avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	6	O9,02
+25/05/2025	27/05/2025	Duhon	Jonas	Habitué	Ivry	94200	France	Après-Midi	Célibataire sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	18	O6,79
+20/02/2025	22/02/2025	Robichau	Karl	Récent	Paris 13	75013	France	Matin	Célibataire avec deux enfants ou plus	Coca Light	1	Sodas	Boissons	188.2	25	116,15
+17/07/2025	18/07/2025	Leboeuf	Maria	Habitué	Ivry	94200	France	Soirée	Célibataire avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	50	O9,02
+01/08/2025	02/08/2025	Devaux	Paolo	Habitué	Ivry	94200	France	Soirée	Couple sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	10	O6,79
+13/08/2025	14/08/2025	Mercier	Lúcia	Récent	Paris 5	75005	France	Soirée	Couple sans enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	28	O6,79
+23/08/2025	24/08/2025	Arceneaux	Michael	Habitué	Paris 13	75013	France	Après-Midi	Couple avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	2	O9,02
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Röd Kaviar	0	Poissons et fruits de mer	Frais	10.7	2	O7,28
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Rhönbräu Klosterbier	0	Alcools	Boissons	5.55	4	O3,98
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	2	O6,79
+01/08/2024	02/08/2024	Simon	Philip	Habitué	Paris 5	75005	France	Soirée	Couple sans enfant	Coca Light	1	Sodas	Boissons	188.2	30	116,15
+02/02/2025	03/02/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Soirée	Couple avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	8	15,23
+10/04/2025	13/04/2025	Rimbaut	Patricia	Récent	Ivry	94200	France	Après-Midi	Couple avec deux enfants ou plus	Pavlova	0	Desserts	Plats	12.45	36	O8,82
+12/04/2025	13/04/2025	Ory	Yvonne	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	30	11,05
+13/04/2025	15/04/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Soirée	Célibataire avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	60	15,23
+18/02/2025	19/02/2025	Robichaud	Roland	Habitué	Paris 14	75014	France	Soirée	Célibataire avec un enfant	Coca Zéro	1	Sodas	Boissons	20.35	66	17,77
+19/02/2025	21/02/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Chang	0	Sirops	Boissons	13.55	50	O9,83
+04/05/2025	06/05/2025	Leboeuf	Maria	Habitué	Ivry	94200	France	Matin	Célibataire avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	60	15,23
+13/05/2025	14/05/2025	Eschete	Isabel	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Northwoods Cranberry Sauce	0	Condiments	Fruits & Légumes	28.55	30	24,38
+30/05/2025	31/05/2025	Dumont	Fran	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Queso Manchego La Pastora	0	Produits laitiers	Frais	27.15	20	23,88
+03/06/2025	06/06/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Chang	0	Sirops	Boissons	13.55	11	O9,83
+03/07/2025	04/07/2025	Barillot	Yang	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec un enfant	Chang	0	Sirops	Boissons	13.55	30	O9,83
+26/07/2025	28/07/2025	Rommel	Ann	Habitué	Paris 14	75014	France	Après-Midi	Célibataire avec deux enfants ou plus	Fjörd 0%	1	Produits laitiers	Frais	21.45	40	15,23
+29/07/2025	31/07/2025	Robichau	Hanna	Récent	Paris 5	75005	France	Soirée	Célibataire sans enfant	Coca Zéro	1	Sodas	Boissons	20.35	4	17,77
+17/08/2025	18/08/2025	Lafont	Carlos	Récent	Paris 14	75014	France	Matin	Célibataire sans enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	15	15,23
+20/08/2025	21/08/2025	Ouellette	Guillermo	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Queso Cabrales	0	Produits laitiers	Frais	15	10	11,05
+25/08/2025	26/08/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Grandma's Boysenberry Spread	0	Condiments	Fruits & Légumes	17.85	20	13,08
+25/08/2025	26/08/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Tofu	0	Produits secs	Fruits & Légumes	16.6	20	10,84
+30/03/2025	31/03/2025	Lapierre	Zbyszek	Récent	Le Kremlin-B.	94270	France	Soirée	Couple sans enfant	Coca Zéro	1	Sodas	Boissons	20.35	7	17,77
+03/05/2025	04/05/2025	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Chef Anton's Cajun Seasoning	0	Condiments	Fruits & Légumes	15.7	25	11,92
+06/05/2025	07/05/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	56	O3,27
+18/05/2025	19/05/2025	Rodrigue	Maurizio	Habitué	Ivry	94200	France	Soirée	Célibataire avec un enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	20	15,23
+21/05/2025	23/05/2025	Fontenot	Peter	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	50	O4,72
+27/05/2025	29/05/2025	Duhon	Thomas	Récent	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Gorgonzola Telino	0	Produits laitiers	Frais	8.95	15	O6,48
+05/06/2025	06/06/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	35	O4,72
+06/06/2025	07/06/2025	Dumont	Victoria	Récent	Paris 14	75014	France	Soirée	Couple avec un enfant	Ipoh Coffee	0	Alcools	Boissons	32.85	30	21,73
+17/03/2025	18/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Chang	0	Sirops	Boissons	13.55	100	O9,83
+17/03/2025	18/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Chef Anton's Gumbo Mix	0	Condiments	Fruits & Légumes	15.25	70	O9,88
+18/03/2025	19/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Chai	0	Sirops	Boissons	12.85	45	O8,72
+18/03/2025	19/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Konbu	1	Poissons et fruits de mer	Frais	4.3	80	O3,27
+05/07/2025	06/07/2025	Rommel	Pedro	Récent	Paris 14	75014	France	Matin	Couple avec un enfant	Gula Malacca	0	Condiments	Fruits & Légumes	13.9	15	O9,71
+06/07/2025	08/07/2025	Michel	Dominique	Habitué	Paris 5	75005	France	Soirée	Couple avec un enfant	Queso Cabrales	0	Produits laitiers	Frais	15	10	11,05
+20/07/2025	22/07/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Ipoh Coffee	0	Alcools	Boissons	32.85	30	21,73
+23/07/2025	25/07/2025	Bideau	Patricio	Habitué	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Geitost	1	Produits laitiers	Frais	1.8	10	O1,38
+24/07/2025	25/07/2025	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	NuNuCa Nuß-Nougat-Creme	0	Desserts	Plats	10	15	O6,64
+24/07/2025	25/07/2025	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	20	27,7
+25/08/2025	26/08/2025	Babineau	Laurence	Habitué	Le Kremlin-B.	94270	France	Après-Midi	Couple avec deux enfants ou plus	Teatime Chocolate Biscuits	0	Desserts	Plats	6.55	10	O4,72
+26/08/2025	29/08/2025	Lavallee	Paula	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	1	15,23
+10/04/2025	13/04/2025	Rimbaut	Patricia	Récent	Ivry	94200	France	Après-Midi	Couple avec deux enfants ou plus	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	8	29,13
+10/04/2025	13/04/2025	Rimbaut	Patricia	Récent	Ivry	94200	France	Après-Midi	Couple avec deux enfants ou plus	Mascarpone Fabioli	0	Produits laitiers	Frais	22.85	35	16,17
+12/04/2025	13/04/2025	Ory	Yvonne	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	15	50,8
+25/03/2025	26/03/2025	Ouellette	Guillermo	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	20	27,7
+27/04/2025	29/04/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Après-Midi	Couple avec un enfant	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	40	O7,19
+03/05/2025	04/05/2025	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Guaraná Fantástica	0	Sirops	Boissons	3.2	30	O2,46
+06/05/2025	07/05/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Steeleye Stout	0	Alcools	Boissons	12.85	15	O9,58
+06/05/2025	07/05/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	24	O7,19
+13/05/2025	14/05/2025	Eschete	Isabel	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	10	58,4
+13/05/2025	14/05/2025	Eschete	Isabel	Habitué	Paris 5	75005	France	Soirée	Couple avec deux enfants ou plus	Singaporean Hokkien Fried Mee	0	Pâtes et céréales	Plats	10	14	O7,19
+19/05/2025	21/05/2025	Blondin	Maria	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Escargots de Bourgogne	0	Poissons et fruits de mer	Frais	9.45	40	O6,63
+19/05/2025	21/05/2025	Blondin	Maria	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	20	10,59
+30/05/2025	31/05/2025	Dumont	Fran	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Carnarvon Tigers	0	Poissons et fruits de mer	Frais	44.65	10	29,13
+03/06/2025	06/06/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Sir Rodney's Marmalade	0	Desserts	Plats	57.85	15	50,8
+03/06/2025	06/06/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Gumbär Gummibärchen	0	Desserts	Plats	22.3	63	15
+17/03/2025	18/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Thüringer Rostbratwurst	0	Viandes	Plats	88.4	60	58,4
+18/03/2025	19/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	21	O2,46
+23/07/2025	25/07/2025	Bideau	Patricio	Habitué	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Laughing Lumberjack Lager	0	Sirops	Boissons	10	20	O8,8
+24/07/2025	25/07/2025	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	15	O2,46
+05/08/2025	07/08/2025	Rimbaut	Patricia	Récent	Ivry	94200	France	Soirée	Couple avec deux enfants ou plus	Sasquatch Ale	0	Alcools	Boissons	10	30	O7,44
+05/08/2025	07/08/2025	Rimbaut	Patricia	Récent	Ivry	94200	France	Soirée	Couple avec deux enfants ou plus	Boston Crab Meat	0	Poissons et fruits de mer	Frais	13.15	40	O9,9
+05/08/2025	07/08/2025	Rimbaut	Patricia	Récent	Ivry	94200	France	Soirée	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	30	O5,14
+07/08/2025	08/08/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Alice Mutton	0	Viandes	Plats	27.85	77	23,33
+07/08/2025	08/08/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Jack's New England Clam Chowder	0	Poissons et fruits de mer	Frais	6.9	12	O5,14
+20/08/2025	21/08/2025	Ouellette	Guillermo	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Guaraná Fantástica	0	Sirops	Boissons	3.2	20	O2,46
+12/04/2025	13/04/2025	Ory	Yvonne	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Lakkalikööri	0	Alcools	Boissons	12.85	10	O9,02
+12/04/2025	13/04/2025	Ory	Yvonne	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	15	O6,79
+15/04/2025	16/04/2025	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Tarte au sucre	0	Desserts	Plats	35.2	40	24,73
+19/02/2025	21/02/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Outback Lager	0	Alcools	Boissons	10.7	20	O7,54
+19/02/2025	21/02/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Lakkalikööri	0	Alcools	Boissons	12.85	90	O9,02
+25/03/2025	26/03/2025	Ouellette	Guillermo	Récent	Paris 13	75013	France	Après-Midi	Couple avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	4	16,48
+03/05/2025	04/05/2025	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Original Frankfurter grüne Soße	0	Condiments	Fruits & Légumes	9.3	30	O6,79
+21/05/2025	23/05/2025	Fontenot	Peter	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Camembert Pierrot	0	Produits laitiers	Frais	24.3	36	16,48
+21/05/2025	23/05/2025	Fontenot	Peter	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	60	10,59
+30/05/2025	31/05/2025	Dumont	Fran	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	5	18,86
+03/06/2025	06/06/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Manjimup Dried Apples	0	Produits secs	Fruits & Légumes	37.85	44	27,7
+03/06/2025	06/06/2025	Boutin	Horst	Habitué	Paris 5	75005	France	Matin	Couple avec un enfant	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	35	17,09
+05/06/2025	06/06/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	30	17,6
+15/02/2025	18/02/2025	Barillot	Yang	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Gnocchi di nonna Alice	0	Pâtes et céréales	Plats	27.15	20	18,86
+15/02/2025	18/02/2025	Barillot	Yang	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Vegie-spread	0	Condiments	Fruits & Légumes	31.35	12	20,37
+18/03/2025	19/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Wimmers gute Semmelknödel	0	Pâtes et céréales	Plats	23.75	20	15,7
+18/03/2025	19/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Fløtemysost	1	Produits laitiers	Frais	15.35	16	10,59
+21/06/2025	22/06/2025	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Perth Pasties	0	Viandes	Plats	23.45	70	16,14
+21/06/2025	22/06/2025	Arceneaux	Michael	Habitué	Paris 13	75013	France	Soirée	Couple avec un enfant	Gudbrandsdalsost	0	Produits laitiers	Frais	25.7	36	17,6
+03/07/2025	04/07/2025	Barillot	Yang	Récent	Le Kremlin-B.	94270	France	Matin	Couple avec un enfant	Vegie-spread	0	Condiments	Fruits & Légumes	31.35	30	20,37
+05/07/2025	06/07/2025	Rommel	Pedro	Récent	Paris 14	75014	France	Matin	Couple avec un enfant	Coca Zéro	1	Sodas	Boissons	20.35	4	17,77
+20/07/2025	22/07/2025	Gautreaux	Mario	Habitué	Paris 5	75005	France	Matin	Couple avec deux enfants ou plus	Coca Zéro	1	Sodas	Boissons	20.35	10	17,77
+24/07/2025	25/07/2025	Fontenot	Carlos	Habitué	Paris 14	75014	France	Après-Midi	Couple avec deux enfants ou plus	Ravioli Angelo	0	Pâtes et céréales	Plats	13.95	20	O9,56
+07/08/2025	08/08/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Scottish Longbreads	0	Desserts	Plats	8.95	55	O6,34
+15/04/2025	16/04/2025	Lavallee	Paula	Récent	Paris 13	75013	France	Soirée	Couple avec un enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	60	15,23
+21/02/2025	22/02/2025	Poirier	Liz	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Mozzarella di Giovanni	0	Produits laitiers	Frais	24.85	2	17,09
+06/05/2025	07/05/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	40	11,86
+06/06/2025	07/06/2025	Dumont	Victoria	Récent	Paris 14	75014	France	Soirée	Couple avec un enfant	Fjörd 0%	1	Produits laitiers	Frais	21.45	4	15,23
+17/03/2025	18/03/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Soirée	Couple avec deux enfants ou plus	Raclette Courdavault	0	Produits laitiers	Frais	39.3	100	28,01
+07/08/2025	08/08/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Perth Pasties	0	Viandes	Plats	23.45	25	16,14
+07/08/2025	08/08/2025	Thibeau	Jose	Récent	Paris 13	75013	France	Matin	Couple avec deux enfants ou plus	Pâté chinois	0	Viandes	Plats	17.15	4	11,86
