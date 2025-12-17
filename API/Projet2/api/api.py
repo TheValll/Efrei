@@ -17,16 +17,8 @@ app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 CORS(app, supports_credentials=True)
 
 limiter.init_app(app)
-# csrf = CSRFProtect(app)
+csrf = CSRFProtect(app)
 app.register_blueprint(reorderBlueprint, url_prefix='/api')
-
-@app.route('/docs')
-def docs():
-    return render_template('docs.html')
-
-@app.route('/static/openapi.json')
-def openapi_spec():
-    return send_from_directory('static', 'openapi.json')
 
 @app.errorhandler(404)
 def page_not_found(e):
@@ -34,7 +26,7 @@ def page_not_found(e):
 
 @app.before_request
 def check_api_key():
-    public_routes = ['/docs','/api', '/static/openapi.json']
+    public_routes = ['/api']
     if request.path in public_routes:
         return
 
@@ -66,7 +58,28 @@ def check_api_key():
 
         '/api/threads': 'view_users',
         '/api/thread-id': 'view_users',
-        '/api/thread-name': 'view_users'
+        '/api/thread-name': 'view_users',
+
+        '/api/groups': 'view_users',
+        '/api/group-id': 'view_users',
+        '/api/group-name': 'view_users',
+        '/api/groups-user': 'view_users',
+
+        '/api/messages': 'view_users',
+        '/api/message-id': 'view_users',
+        '/api/messages-thread': 'view_users',
+        '/api/messages-user': 'view_users',
+
+        '/api/products': 'view_users',
+        '/api/product-id': 'view_users',
+        '/api/product-name': 'view_users',
+        '/api/products-event': 'view_users',
+        '/api/products-user': 'view_users',
+
+        '/api/tickets': 'view_users',
+        '/api/ticket-id': 'view_users',
+        '/api/tickets-event': 'view_users',
+        '/api/tickets-user': 'view_users'
     }
 
     for route_prefix, perm in route_perm_map.items():
