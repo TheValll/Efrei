@@ -17,45 +17,55 @@ L'API intègre les fonctionnalités suivantes :
 
 ## API Key Permissions
 
-SQL Schema for Users and Permissions
-CREATE TABLE IF NOT EXISTS users (
-id INT AUTO_INCREMENT PRIMARY KEY,
-username VARCHAR(100) NOT NULL UNIQUE,
-password_hash VARCHAR(255) NOT NULL,
-api_key VARCHAR(255) NOT NULL UNIQUE,
-role ENUM('admin', 'editor', 'viewer') DEFAULT 'viewer',
-permissions JSON DEFAULT NULL,
-created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+### Schéma de base de données
 
--- Example users with roles and permissions
+```sql
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(100) NOT NULL UNIQUE,
+    password_hash VARCHAR(255) NOT NULL,
+    api_key VARCHAR(255) NOT NULL UNIQUE,
+    role ENUM('admin', 'editor', 'viewer') DEFAULT 'viewer',
+    permissions JSON DEFAULT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+### Utilisateurs exemple
+
+```sql
 INSERT INTO users (username, password_hash, api_key, role, permissions) VALUES
 ('admin', SHA2('admin123', 256), 'APIKEY-ADMIN-12345', 'admin', JSON_ARRAY('view_users', 'add_user', 'update_user')),
 ('editor', SHA2('editor123', 256), 'APIKEY-EDITOR-55555', 'editor', JSON_ARRAY('view_users', 'add_user')),
 ('viewer', SHA2('viewer123', 256), 'APIKEY-VIEWER-67890', 'viewer', JSON_ARRAY('view_users'));
+```
 
-How Permissions Work
-Each API key is associated with a role (admin, editor, viewer).
-Each role has a set of permissions stored as a JSON array in the permissions column.
-When a request is made, the API checks:
-If the X-API-KEY header is present.
-If the key exists in the users table.
-If the key has the required permission for the requested endpoint.
-Example permission check in Python:
+### Fonctionnement des permissions
 
+- Chaque clé API est associée à un rôle : **admin**, **editor** ou **viewer**
+- Chaque rôle dispose d'un ensemble de permissions stockées en JSON
+- Lors d'une requête, l'API vérifie :
+  - La présence du header `X-API-KEY`
+  - L'existence de la clé dans la table `users`
+  - Les permissions requises pour l'endpoint demandé
+
+### Exemple de vérification en Python
+
+```python
 def check_permission(api_key, required_permission):
-conn = get_db_connection()
-cursor = conn.cursor(dictionary=True)
-cursor.execute("SELECT permissions FROM users WHERE api_key = %s", (api_key,))
-user = cursor.fetchone()
-if not user:
-return False
-permissions = json.loads(user['permissions'])
-return required_permission in permissions
+    conn = get_db_connection()
+    cursor = conn.cursor(dictionary=True)
+    cursor.execute("SELECT permissions FROM users WHERE api_key = %s", (api_key,))
+    user = cursor.fetchone()
+    if not user:
+        return False
+    permissions = json.loads(user['permissions'])
+    return required_permission in permissions
+```
 
 ![Modèle de données](assets/MCD.png)
 
-## Installation et Démarrage
+## Installation
 
 ### 1. Cloner le repository
 
