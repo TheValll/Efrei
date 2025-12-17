@@ -1,15 +1,22 @@
-The database is based on the MCD available in the assets folder, you can use JMerise for open it : https://www.jfreesoft.com/JMerise/index.php
+# API REST - Documentation
 
-The API use the MVC format
+## Structure et Architecture
 
-The API use this features :
+La base de données est basée sur le modèle conceptuel de données (MCD) disponible dans le dossier assets. Vous pouvez l'ouvrir avec JMerise : https://www.jfreesoft.com/JMerise/index.php
 
-CORS
-CSRF TOKEN
-PERMISSION RULE
-API KEY
+L'API suit le pattern MVC (Model-View-Controller).
 
-🔐 API Key Permissions
+## Fonctionnalités
+
+L'API intègre les fonctionnalités suivantes :
+
+- CORS
+- CSRF TOKEN
+- Système de permissions
+- Gestion par clé API
+
+## API Key Permissions
+
 SQL Schema for Users and Permissions
 CREATE TABLE IF NOT EXISTS users (
 id INT AUTO_INCREMENT PRIMARY KEY,
@@ -46,36 +53,65 @@ return False
 permissions = json.loads(user['permissions'])
 return required_permission in permissions
 
-![alt text](assets/MCD.png)
+![Modèle de données](assets/MCD.png)
 
-1. git clone https://github.com/TheValll/Efrei/tree/main/API/Projet2
-2. cd Projet2
-3. Create the .env file
-   MYSQL_ROOT_PASSWORD=rootpass
-   MYSQL_DATABASE=flaskdb
-   MYSQL_USER=flaskuser
-   MYSQL_PASSWORD=flaskpass
-   SECRET_KEY=random_long_stable_string
+## Installation et Démarrage
 
-Remplace the SECRET_KEY by a random long stable string, you can use : https://onlinehashtools.com/generate-random-sha256-hash
+### 1. Cloner le repository
 
-4. Create a SSL certificate
-   cd api
-   & "C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
+```bash
+git clone https://github.com/TheValll/Efrei/tree/main/API/Projet2
+cd Projet2
+```
 
-5. Build and start the containers
-   cd ..
-   docker compose up --build
+### 2. Créer le fichier .env
 
-Flask API → http://localhost:5000
-phpMyAdmin → http://localhost:8080
-MySQL database → accessible internally as db:3306
+Créez un fichier `.env` avec les variables suivantes :
 
-6. Go to http://localhost:8080
-   Connect you
-   Add the SQL file in the database
+```
+MYSQL_ROOT_PASSWORD=rootpass
+MYSQL_DATABASE=flaskdb
+MYSQL_USER=flaskuser
+MYSQL_PASSWORD=flaskpass
+SECRET_KEY=random_long_stable_string
+```
 
-7. Generate your API token
-   curl -H "X-API-KEY: APIKEY-VIEWER-67890" https://127.0.0.1:5000/api/get-token
+Remplacez la `SECRET_KEY` par une chaîne aléatoire sécurisée. Vous pouvez en générer une ici : https://onlinehashtools.com/generate-random-sha256-hash
 
-8. Use the postman in the assets folder
+### 3. Générer un certificat SSL
+
+```bash
+cd api
+& "C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 3650
+```
+
+### 4. Lancer les conteneurs Docker
+
+```bash
+cd ..
+docker compose up --build
+```
+
+## Accès aux services
+
+Après le démarrage, les services sont accessibles à :
+
+- Flask API : http://localhost:5000
+- phpMyAdmin : http://localhost:8080
+- Base de données MySQL : db:3306 (accès interne)
+
+### 5. Initialiser la base de données
+
+1. Accédez à http://localhost:8080
+2. Connectez-vous avec les identifiants configurés
+3. Importez le fichier SQL du dossier assets
+
+### 6. Générer un jeton API
+
+```bash
+curl -H "X-API-KEY: APIKEY-VIEWER-67890" https://127.0.0.1:5000/api/get-token
+```
+
+### 7. Tester l'API
+
+Utilisez la collection Postman fournie dans le dossier assets pour tester l'API.
