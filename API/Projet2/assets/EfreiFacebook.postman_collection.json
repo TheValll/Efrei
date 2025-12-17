@@ -1,0 +1,832 @@
+{
+  "info": {
+    "_postman_id": "8a209c24-27fb-428b-b487-7c10532259fc",
+    "name": "EfreiFacebook",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "49042675",
+    "_collection_link": "https://valentin78-massonniere-7994215.postman.co/workspace/Valentin-Massonniere's-Workspac~9eabab3c-f21c-416f-8299-3be3beac9feb/collection/49042675-8a209c24-27fb-428b-b487-7c10532259fc?action=share&source=collection_link&creator=49042675"
+  },
+  "item": [
+    {
+      "name": "Users",
+      "item": [
+        {
+          "name": "Get Users",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/users",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "users"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get User By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/user-id?user_id=2",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "user-id"],
+              "query": [
+                {
+                  "key": "user_id",
+                  "value": "2"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get User By Email",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/user-email?user_email=jean.dupont@example.com",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "user-email"],
+              "query": [
+                {
+                  "key": "user_email",
+                  "value": "jean.dupont@example.com"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Events",
+      "item": [
+        {
+          "name": "Get Events",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/events",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "events"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Event By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/event-id?event_id=3",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "event-id"],
+              "query": [
+                {
+                  "key": "event_id",
+                  "value": "3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Event By Name",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/event-name?event_name=Concours de Soupe",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "event-name"],
+              "query": [
+                {
+                  "key": "event_name",
+                  "value": "Concours de Soupe"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Threads",
+      "item": [
+        {
+          "name": "Get Threads",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/threads",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "threads"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Thread By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/thread-id?thread_id=3",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "thread-id"],
+              "query": [
+                {
+                  "key": "thread_id",
+                  "value": "3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Thread By Name",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/thread-name?thread_name=Bons plans garde d'enfants",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "thread-name"],
+              "query": [
+                {
+                  "key": "thread_name",
+                  "value": "Bons plans garde d'enfants"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Groups",
+      "item": [
+        {
+          "name": "Get Groups",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/groups",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "groups"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Group By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/group-id?group_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "group-id"],
+              "query": [
+                {
+                  "key": "group_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Group By Name",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/group-name?group_name=Randonneurs du Dimanche",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "group-name"],
+              "query": [
+                {
+                  "key": "group_name",
+                  "value": "Randonneurs du Dimanche"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Groups By User",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/groups-user?user_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "groups-user"],
+              "query": [
+                {
+                  "key": "user_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Messages",
+      "item": [
+        {
+          "name": "Get Messages",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/messages",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "messages"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Message By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/message-id?message_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "message-id"],
+              "query": [
+                {
+                  "key": "message_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Messages By Thread",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/messages-thread?thread_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "messages-thread"],
+              "query": [
+                {
+                  "key": "thread_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Messages By User",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/messages-user?user_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "messages-user"],
+              "query": [
+                {
+                  "key": "user_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Products",
+      "item": [
+        {
+          "name": "Get Products",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/products",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "products"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Product By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/product-id?product_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "product-id"],
+              "query": [
+                {
+                  "key": "product_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Product By Name",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/product-name?product_name=T-Shirt",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "product-name"],
+              "query": [
+                {
+                  "key": "product_name",
+                  "value": "T-Shirt"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Products By Event",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/products-event?event_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "products-event"],
+              "query": [
+                {
+                  "key": "event_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Products By User",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/products-user?user_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "products-user"],
+              "query": [
+                {
+                  "key": "user_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Tickets",
+      "item": [
+        {
+          "name": "Get Tickets",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/tickets",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "tickets"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Ticket By ID",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/ticket-id?ticket_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "ticket-id"],
+              "query": [
+                {
+                  "key": "ticket_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Tickets By Event",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/tickets-event?event_id=2",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "tickets-event"],
+              "query": [
+                {
+                  "key": "event_id",
+                  "value": "2"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Tickets By User",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "X-API-KEY",
+                "value": "APIKEY-ADMIN-12345",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "https://127.0.0.1:5000/api/tickets-user?user_id=1",
+              "protocol": "https",
+              "host": ["127", "0", "0", "1"],
+              "port": "5000",
+              "path": ["api", "tickets-user"],
+              "query": [
+                {
+                  "key": "user_id",
+                  "value": "1"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "HelloWorld",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "GET",
+        "header": [
+          {
+            "key": "X-API-KEY",
+            "value": "APIKEY-ADMIN-12345",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "https://127.0.0.1:5000/api",
+          "protocol": "https",
+          "host": ["127", "0", "0", "1"],
+          "port": "5000",
+          "path": ["api"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Token",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "GET",
+        "header": [
+          {
+            "key": "X-API-KEY",
+            "value": "APIKEY-ADMIN-12345",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "https://127.0.0.1:5000/api/get-token",
+          "protocol": "https",
+          "host": ["127", "0", "0", "1"],
+          "port": "5000",
+          "path": ["api", "get-token"]
+        }
+      },
+      "response": []
+    }
+  ]
+}

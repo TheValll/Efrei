@@ -1,4 +1,4 @@
-# Utilise une image Python légère et stable
+
 FROM python:3.11-slim
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-COPY src/ ./src/
-WORKDIR /app/src
+COPY ./ ./
+WORKDIR /app/
 EXPOSE 5000
 CMD ["python", "api.py"]

@@ -17,7 +17,7 @@ app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 CORS(app, supports_credentials=True)
 
 limiter.init_app(app)
-csrf = CSRFProtect(app)
+# csrf = CSRFProtect(app)
 app.register_blueprint(reorderBlueprint, url_prefix='/api')
 
 @app.route('/docs')
