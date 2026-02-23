@@ -1,0 +1,12 @@
+[project]
+name = "tp2"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "matplotlib>=3.10.8",
+  "pandas>=3.0.1",
+  "polars>=1.38.1",
+  "seaborn>=0.13.2",
+  "pyarrow",
+  "scipy>=1.17.1",
+]
