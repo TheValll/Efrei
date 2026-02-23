@@ -46,20 +46,63 @@ df = df.filter(~outlier_mask.select(pl.any_horizontal(pl.all())).to_series())
 # Visualization
 df_pd: pd.DataFrame = df.to_pandas()
 
-df_pd.hist(figsize=(12, 8))
-plt.savefig("viz_01_histograms.png", dpi=150)
+fig, axes = plt.subplots(2, 2, figsize=(14, 10))
+sns.histplot(df_pd["Age"].dropna(), bins=30, kde=True, ax=axes[0, 0], color="steelblue")
+axes[0, 0].set_title("Age distribution")
+sns.histplot(df_pd["Fare"].dropna(), bins=30, kde=True, ax=axes[0, 1], color="coral")
+axes[0, 1].set_title("Fare distribution")
+sns.countplot(
+    x="Pclass", data=df_pd, ax=axes[1, 0], hue="Pclass", palette="Set2", legend=False
+)
+axes[1, 0].set_title("Class distribution")
+sns.countplot(
+    x="Survived",
+    data=df_pd,
+    ax=axes[1, 1],
+    hue="Survived",
+    palette="Set1",
+    legend=False,
+)
+axes[1, 1].set_title("Survival distribution")
+plt.tight_layout()
+plt.savefig("viz_01_distributions.png", dpi=150)
 plt.close()
 
-sns.boxplot(data=df_pd[num_cols], orient="h")
+fig, axes = plt.subplots(1, 3, figsize=(15, 5))
+sns.boxplot(
+    x="Pclass",
+    y="Age",
+    data=df_pd,
+    ax=axes[0],
+    hue="Pclass",
+    palette="Set2",
+    legend=False,
+)
+axes[0].set_title("Age by Class")
+sns.boxplot(
+    x="Survived",
+    y="Age",
+    data=df_pd,
+    ax=axes[1],
+    hue="Survived",
+    palette="Set1",
+    legend=False,
+)
+axes[1].set_title("Age by Survival")
+sns.boxplot(
+    x="Sex", y="Age", data=df_pd, ax=axes[2], hue="Sex", palette="muted", legend=False
+)
+axes[2].set_title("Age by Sex")
+plt.tight_layout()
 plt.savefig("viz_02_boxplots.png", dpi=150)
 plt.close()
 
-sns.countplot(data=df_pd, x="Sex")
-plt.savefig("viz_03_sex_count.png", dpi=150)
-plt.close()
-
-sns.barplot(data=df_pd, x="Sex", y="Survived")
-plt.savefig("viz_04_survival_by_sex.png", dpi=150)
+fig, ax = plt.subplots(figsize=(8, 6))
+corr_matrix: pd.DataFrame = df_pd[["Survived", "Age", "SibSp", "Parch", "Fare"]].corr()
+sns.heatmap(corr_matrix, annot=True, cmap="coolwarm", center=0, fmt=".2f", ax=ax)
+ax.set_title("Correlation Matrix")
+plt.tight_layout()
+plt.savefig("viz_03_correlation.png", dpi=150)
 plt.close()
 
 # Null handling
