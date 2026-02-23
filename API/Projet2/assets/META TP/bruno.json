@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "META TP",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

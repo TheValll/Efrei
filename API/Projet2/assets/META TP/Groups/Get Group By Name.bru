@@ -1,0 +1,23 @@
+meta {
+  name: Get Group By Name
+  type: http
+  seq: 3
+}
+
+get {
+  url: https://127.0.0.1:5000/api/group-name?group_name=Randonneurs du Dimanche
+  body: none
+  auth: none
+}
+
+params:query {
+  group_name: Randonneurs du Dimanche
+}
+
+headers {
+  X-API-KEY: APIKEY-ADMIN-12345
+}
+
+settings {
+  encodeUrl: true
+}

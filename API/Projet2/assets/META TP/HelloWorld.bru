@@ -1,0 +1,19 @@
+meta {
+  name: HelloWorld
+  type: http
+  seq: 8
+}
+
+get {
+  url: https://127.0.0.1:5000/api
+  body: none
+  auth: none
+}
+
+headers {
+  X-API-KEY: APIKEY-ADMIN-12345
+}
+
+settings {
+  encodeUrl: true
+}

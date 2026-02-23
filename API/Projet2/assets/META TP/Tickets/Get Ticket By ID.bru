@@ -1,0 +1,23 @@
+meta {
+  name: Get Ticket By ID
+  type: http
+  seq: 2
+}
+
+get {
+  url: https://127.0.0.1:5000/api/ticket-id?ticket_id=1
+  body: none
+  auth: none
+}
+
+params:query {
+  ticket_id: 1
+}
+
+headers {
+  X-API-KEY: APIKEY-ADMIN-12345
+}
+
+settings {
+  encodeUrl: true
+}
