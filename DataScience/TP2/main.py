@@ -236,5 +236,3 @@ df = df.with_columns(
 
 # Le dataset est déséquilibré : 78% non-défaut vs 22% défaut
 # Le modèle risque d'être biaisé vers la classe majoritaire, il faut compenser avec du SMOTE ou class_weight
-
-
