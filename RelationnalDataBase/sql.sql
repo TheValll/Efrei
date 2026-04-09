@@ -21,3 +21,40 @@ select * from world25.citi where Name = 'Paris';
 
 delete ci from world25.city ci inner join world25.country co on ci.CountryCode = co.Code where co.Continent = 'Africa';
 select * from world25.city ci inner join world25.country co on ci.CountryCode = co.Code  where co.Continent = 'Africa';
+
+delete from world25.city where CountryCode = 'FRA';
+commit;
+delete from world25.city where CountryCode = 'DEU';
+commit;
+
+set autocommit =0;
+select count(*) from world25.city where CountryCode = 'FRA';
+select count(*) from world25.city where CountryCode = 'DEU';
+rollback;
+select count(*) from world25.city where CountryCode = 'FRA';
+select count(*) from world25.city where CountryCode = 'DEU';
+delete from world25.city where CountryCode = 'FRA';
+commit;
+select count(*) from world25.city where CountryCode = 'FRA';
+
+delete from world25.city where CountryCode = 'CAN';
+savepoint delete_canada;
+delete from world25.city where CountryCode = 'CHN';
+select count(*) from world25.city where CountryCode = 'CAN';
+select count(*) from world25.city where CountryCode = 'CHN';
+rollback to savepoint delete_canada;
+commit;
+select count(*) from world25.city where CountryCode = 'CAN';
+select count(*) from world25.city where CountryCode = 'CHN';
+
+select * from world25.city where CountryCode=?;
+
+delimiter //
+create procedure update_population(in p_Continent varchar(50), in p_percentage decimal)
+begin
+	set sql_safe_updates = 0;
+    update world25.city ci inner join world25.country co on ci.CountryCode = co.Code set ci.Population = ci.Population * p_percentage / 100 where co.Continent = p_Continent;
+    update world25.country set Population = Population * p_percentage / 100  where Continent = p_Continent;
+    set sql_safe_updates = 1;
+end //
+delimiter ;
