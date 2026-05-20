@@ -1,0 +1,241 @@
+customer_id	fullName	emailAddress	signup_date	city	plan	age
+C100822	Omar Moreau	user822@example.com	23-03-2023	Nantes	basic	28
+C100448	Camille Bernard	user448@example.com	09-11-2023	Strasbourg	premium	73
+C100806	Léa Leroy	user806@example.com	23-11-2023	Lille	basic	44
+C100415	Sarah Moreau	user415@example.com		Lyon	basic	30
+C100290	Camille Petit	user290@example.com		Marseille	basic	72
+C100619	Sarah Martin	user619@example.com	25-03-2023	Marseille	plus	57
+C101117	Sarah Durand	user1117@example.com	18-12-2023	Lille	plus	31
+C100343	Jules Martin	user343@example.com		Toulouse	basic	51
+C100360	Hugo Thomas	user360@example.com		Marseille	premium	40
+C101147	Omar Leroy	user1147@example.com	06-04-2024	Bordeaux	plus	75
+C100852	Sarah Bernard	user852@example.com	31-07-2024	Marseille	basic	19
+C100269	Hugo Moreau	user269@example.com		Paris	basic	77
+C100883	Nina Robert	user883@example.com		Nantes	basic	43
+C100700	Alex Dubois	user700@example.com		Toulouse	plus	76
+C100574	Sarah Richard	user574@example.com		Bordeaux	plus	63
+C100894	Inès Richard	user894@example.com		Lyon	premium	53
+C100072	Sarah Richard	user72@example.com	05-10-2023	Strasbourg	basic	19
+C100884	Emma Petit	user884@example.com		Lyon	plus	50
+C101078	Noah Thomas	user1078@example.com		Marseille	premium	58
+C100592	Jules Thomas	user592@example.com		Marseille	basic	67
+C100235	Emma Leroy	user235@example.com	07-03-2024	Paris	premium	30
+C100654	Hugo Leroy	user654@example.com		Paris	plus	35
+C100157	Jules Martin	user157@example.com	01-12-2023	Lyon	basic	39
+C100514	Yanis Bernard	user514@example.com		Nantes	basic	42
+C101009	Emma Robert	user1009@example.com	09-11-2023	Lyon	basic	40
+C100164	Hugo Moreau	user164@example.com		Toulouse	basic	76
+C100427	Noah Dubois	user427@example.com		Toulouse	basic	65
+C100811	Yanis Bernard	user811@example.com		Lille	basic	31
+C100107	Léa Thomas	user107@example.com		Lyon	plus	66
+C101043	Inès Bernard	user1043@example.com		Paris	basic	16
+C100103	Yanis Bernard	user103@example.com	05-01-2023	Strasbourg	basic	62
+C101142	Alex Petit	user1142@example.com	12-07-2024	Toulouse	plus	28
+C100380	Alex Petit	user380@example.com		Marseille	premium	70
+C100288	Inès Dubois	user288@example.com		Paris	premium	24
+C100603	Emma Martin	user603@example.com	22-03-2023	Marseille	plus	50
+C100190	Camille Bernard	user190@example.com	15-02-2024	Marseille	premium	57
+C100227	Yanis Thomas	user227@example.com	14-12-2023	Strasbourg	basic	22
+C100744	Alex Moreau	user744@example.com		Lille	plus	30
+C100314	Inès Petit	user314@example.com		Lyon	premium	31
+C100679	Alex Petit	user679@example.com		Paris	plus	52
+C100897	Jules Bernard	user897@example.com		Bordeaux	basic	65
+C100249	Alex Leroy	user249@example.com	25-01-2023	Paris	basic	74
+C100238	Camille Robert	user238@example.com	05-07-2023	Marseille	premium	79
+C100854	Hugo Moreau	user854@example.com	22-06-2023	Nantes	basic	31
+C101135	Yanis Moreau	user1135@example.com		Toulouse	plus	34
+C100609	Emma Petit	user609@example.com		Strasbourg	basic	61
+C100997	Omar Durand	user997@example.com	05-08-2023	Bordeaux	basic	55
+C100685	Nina Thomas	user685@example.com		Lyon	basic	27
+C100328	Léa Leroy	user328@example.com		Paris	basic	59
+C100759	Inès Petit	user759@example.com		Lyon	plus	24
+C100381	Yanis Bernard	user381@example.com	16-07-2024	Lyon	basic	65
+C100061	Camille Martin	user61@example.com		Strasbourg	basic	69
+C100505	Emma Durand	user505@example.com		Bordeaux	premium	68
+C100378	Camille Leroy	user378@example.com		Paris	premium	21
+C100119	Inès Durand	user119@example.com		Lille	premium	49
+C100097	Hugo Petit	user97@example.com		Nantes	basic	53
+C100843	Jules Durand	user843@example.com		Nantes	premium	59
+C100357	Hugo Dubois	user357@example.com	19-06-2024	Bordeaux	basic	23
+C100180	Sarah Dubois	user180@example.com		Strasbourg	basic	73
+C100904	Jules Dubois	user904@example.com		Bordeaux	plus	35
+C100143	Jules Petit	user143@example.com		Toulouse	plus	71
+C100522	Hugo Durand	user522@example.com	26-04-2023	Nantes	plus	60
+C100915	Yanis Durand	user915@example.com	03-10-2023	Lyon	premium	43
+C100975	Noah Bernard	user975@example.com	16-05-2023	Bordeaux	plus	76
+C100971	Nina Robert	user971@example.com		Nantes	basic	30
+C100323	Noah Martin	user323@example.com		Lyon	plus	59
+C100703	Léa Bernard	user703@example.com		Lyon	basic	62
+C100891	Léa Richard	user891@example.com		Marseille	premium	53
+C101116	Yanis Bernard	user1116@example.com		Paris	basic	36
+C100983	Jules Bernard	user983@example.com	24-01-2024	Nantes	basic	78
+C100581	Hugo Bernard	user581@example.com	15-05-2024	Marseille	plus	76
+C100646	Alex Robert	user646@example.com		Lille	basic	58
+C101183	Emma Moreau	user1183@example.com		Lille	basic	68
+C101077	Jules Richard	user1077@example.com		Paris	basic	31
+C100499	Emma Robert	user499@example.com		Strasbourg	plus	70
+C100809	Noah Martin	user809@example.com		Nantes	plus	23
+C100587	Noah Robert	user587@example.com	01-03-2023	Paris	plus	79
+C100610	Noah Robert	user610@example.com		Lyon	basic	17
+C100095	Léa Dubois	user95@example.com	22-06-2023	Toulouse	basic	41
+C100352	Alex Richard	user352@example.com		Toulouse	basic	32
+C100947	Léa Petit	user947@example.com		Strasbourg	premium	31
+C100730	Omar Durand	user730@example.com		Paris	plus	53
+C100197	Sarah Martin	user197@example.com	12-03-2023	Nantes	premium	68
+C100886	Noah Bernard	user886@example.com		Nantes	basic	64
+C101105	Jules Durand	user1105@example.com		Paris	basic	25
+C100624	Inès Thomas	user624@example.com		Bordeaux	plus	35
+C100123	Nina Petit	user123@example.com	10-10-2023	Strasbourg	plus	59
+C100918	Omar Dubois	user918@example.com		Toulouse	basic	16
+C100445	Yanis Richard	user445@example.com		Marseille	basic	30
+C100845	Yanis Robert	user845@example.com	04-01-2023	Strasbourg	basic	19
+C100566	Jules Leroy	user566@example.com		Toulouse	premium	21
+C101038	Omar Leroy	user1038@example.com	20-09-2023	Lille	basic	33
+C100003	Jules Bernard	user3@example.com	21-09-2023	Bordeaux	plus	66
+C100147	Noah Leroy	user147@example.com		Nantes	basic	49
+C100901	Alex Richard	user901@example.com		Nantes	basic	40
+C100985	Alex Robert	user985@example.com		Marseille	basic	55
+C100583	Inès Bernard	user583@example.com		Strasbourg	basic	40
+C100377	Emma Richard	user377@example.com	24-03-2024	Bordeaux	plus	44
+C100847	Alex Richard	user847@example.com		Toulouse	basic	77
+C100311	Nina Richard	user311@example.com	08-02-2024	Lyon	basic	60
+C100293	Yanis Martin	user293@example.com	18-07-2023	Marseille	plus	78
+C100173	Emma Robert	user173@example.com	09-03-2024	Lille	plus	65
+C100198	Camille Petit	user198@example.com		Paris	plus	59
+C100586	Yanis Dubois	user586@example.com	18-02-2024	Lyon	basic	31
+C100232	Omar Richard	user232@example.com		Lyon	basic	39
+C101177	Hugo Durand	user1177@example.com		Lyon	plus	26
+C100391	Sarah Richard	user391@example.com		Marseille	basic	74
+C100201	Jules Robert	user201@example.com		Lyon	basic	18
+C101032	Léa Richard	user1032@example.com		Strasbourg	basic	68
+C100168	Hugo Leroy	user168@example.com		Strasbourg	basic	18
+C100472	Yanis Robert	user472@example.com		Marseille	plus	31
+C100932	Omar Leroy	user932@example.com	04-06-2023	Toulouse	premium	69
+C100144	Alex Petit	user144@example.com		Lyon	premium	18
+C100751	Sarah Richard	user751@example.com	30-03-2023	Toulouse	basic	38
+C100239	Jules Moreau	user239@example.com		Strasbourg	premium	29
+C100085	Hugo Richard	user85@example.com		Paris	premium	28
+C101121	Hugo Petit	user1121@example.com	20-02-2023	Paris	basic	67
+C101072	Jules Dubois	user1072@example.com		Marseille	plus	63
+C100019	Camille Petit	user19@example.com		Lille	basic	75
+C100324	Hugo Petit	user324@example.com		Toulouse	plus	23
+C100429	Noah Durand	user429@example.com		Lyon	basic	33
+C100649	Emma Robert	user649@example.com		Lyon	plus	26
+C100150	Sarah Thomas	user150@example.com	28-05-2024	Paris	plus	37
+C100670	Omar Bernard	user670@example.com		Paris	basic	53
+C100783	Sarah Durand	user783@example.com		Bordeaux	basic	20
+C100697	Jules Martin	user697@example.com		Bordeaux	basic	47
+C100073	Camille Robert	user73@example.com		Nantes	plus	53
+C100468	Jules Leroy	user468@example.com	19-04-2023	Toulouse	basic	60
+C100349	Sarah Bernard	user349@example.com		Paris	basic	50
+C101062	Camille Robert	user1062@example.com	28-03-2023	Paris	basic	52
+C100896	Inès Dubois	user896@example.com	02-11-2023	Strasbourg	basic	20
+C100758	Sarah Moreau	user758@example.com		Nantes	plus	49
+C100091	Camille Durand	user91@example.com		Bordeaux	plus	52
+C100540	Yanis Thomas	user540@example.com	01-03-2024	Lille	basic	35
+C101095	Emma Moreau	user1095@example.com	18-02-2023	Bordeaux	basic	67
+C100330	Yanis Thomas	user330@example.com		Paris	basic	36
+C101169	Léa Leroy	user1169@example.com	04-07-2024	Lyon	basic	20
+C100266	Léa Martin	user266@example.com		Nantes	basic	49
+C101067	Nina Bernard	user1067@example.com		Nantes	basic	72
+C100304	Yanis Robert	user304@example.com		Toulouse	plus	22
+C100962	Hugo Petit	user962@example.com		Lille	basic	28
+C100671	Yanis Moreau	user671@example.com		Lyon	basic	45
+C100913	Yanis Thomas	user913@example.com	11-08-2024	Strasbourg	plus	58
+C101061	Hugo Bernard	user1061@example.com		Strasbourg	premium	54
+C100526	Jules Robert	user526@example.com		Strasbourg	basic	52
+C100027	Emma Moreau	user27@example.com		Strasbourg	basic	50
+C100668	Omar Moreau	user668@example.com	05-07-2024	Paris	basic	51
+C100542	Jules Petit	user542@example.com		Lille	basic	52
+C101108	Nina Moreau	user1108@example.com	18-07-2024	Marseille	plus	66
+C101191	Omar Thomas	user1191@example.com		Lyon	plus	46
+C100682	Camille Thomas	user682@example.com		Lyon	basic	35
+C100747	Omar Richard	user747@example.com		Strasbourg	premium	19
+C100131	Léa Durand	user131@example.com		Nantes	basic	62
+C101058	Léa Moreau	user1058@example.com	12-09-2023	Paris	basic	37
+C100633	Nina Petit	user633@example.com		Paris	basic	48
+C100960	Alex Moreau	user960@example.com		Bordeaux	basic	23
+C101086	Camille Leroy	user1086@example.com	25-04-2024	Strasbourg	premium	79
+C100456	Omar Moreau	user456@example.com		Bordeaux	basic	19
+C100450	Camille Moreau	user450@example.com		Lyon	basic	25
+C101004	Camille Petit	user1004@example.com	18-03-2023	Lille	basic	35
+C100548	Alex Robert	user548@example.com	06-11-2023	Bordeaux	basic	35
+C100880	Jules Richard	user880@example.com		Bordeaux	basic	28
+C100727	Camille Bernard	user727@example.com		Lyon	plus	36
+C100980	Emma Durand	user980@example.com	20-12-2023	Nantes	plus	28
+C100243	Noah Richard	user243@example.com		Lille	basic	52
+C101136	Emma Durand	user1136@example.com	10-03-2024	Lille	premium	26
+C100321	Inès Petit	user321@example.com		Nantes	basic	55
+C100626	Emma Dubois	user626@example.com		Paris	basic	68
+C100193	Sarah Moreau	user193@example.com		Nantes	basic	51
+C100927	Léa Dubois	user927@example.com		Nantes	basic	22
+C100407	Noah Petit	user407@example.com		Toulouse	basic	64
+C100477	Sarah Moreau	user477@example.com		Lille	basic	68
+C100400	Inès Richard	user400@example.com		Marseille	premium	43
+C101096	Sarah Thomas	user1096@example.com		Lyon	plus	17
+C100355	Alex Thomas	user355@example.com		Lyon	plus	70
+C100846	Sarah Moreau	user846@example.com	04-04-2023	Lille	basic	72
+C100557	Nina Thomas	user557@example.com		Toulouse	premium	63
+C100303	Noah Durand	user303@example.com	21-06-2024	Marseille	basic	47
+C100065	Hugo Bernard	user65@example.com	15-07-2023	Paris	plus	53
+C100216	Nina Leroy	user216@example.com	17-02-2023	Nantes	basic	19
+C100447	Sarah Durand	user447@example.com	27-07-2024	Nantes	plus	75
+C100080	Emma Leroy	user80@example.com		Nantes	basic	40
+C100648	Yanis Richard	user648@example.com	30-07-2024	Toulouse	basic	43
+C100509	Emma Bernard	user509@example.com		Lyon	basic	44
+C101145	Nina Leroy	user1145@example.com		Marseille	basic	24
+C101037	Yanis Leroy	user1037@example.com		Marseille	basic	18
+C100421	Noah Durand	user421@example.com		Paris	basic	72
+C100083	Jules Leroy	user83@example.com		Bordeaux	plus	26
+C100909	Yanis Moreau	user909@example.com	25-02-2023	Marseille	basic	64
+C100439	Léa Robert	user439@example.com		Marseille	plus	73
+C100972	Noah Martin	user972@example.com		Strasbourg	basic	42
+C100004	Emma Leroy	user4@example.com		Nantes	basic	60
+C101066	Camille Dubois	user1066@example.com		Nantes	plus	61
+C100818	Hugo Durand	user818@example.com		Nantes	plus	73
+C100989	Léa Petit	user989@example.com		Toulouse	premium	79
+C101187	Noah Bernard	user1187@example.com		Strasbourg	basic	51
+C100126	Emma Bernard	user126@example.com		Nantes	basic	41
+C100139	Inès Dubois	user139@example.com	20-09-2023	Lille	basic	37
+C100001	Alex Robert	user1@example.com		Lille	plus	54
+C100081	Hugo Thomas	user81@example.com	20-09-2023	Nantes	basic	79
+C100620	Hugo Martin	user620@example.com	18-09-2023	Marseille	premium	67
+C100354	Emma Martin	user354@example.com	04-08-2024	Lille	basic	67
+C100263	Emma Dubois	user263@example.com	09-07-2024	Paris	basic	56
+C100635	Jules Leroy	user635@example.com		Lyon	basic	79
+C100376	Léa Petit	user376@example.com		Toulouse	plus	28
+C100850	Yanis Martin	user850@example.com	11-08-2024	Lyon	premium	75
+C100162	Omar Bernard	user162@example.com		Marseille	plus	79
+C100051	Omar Durand	user51@example.com		Lille	basic	62
+C100031	Sarah Bernard	user31@example.com	17-05-2023	Nantes	plus	22
+C100614	Inès Petit	user614@example.com		Strasbourg	plus	35
+C100175	Camille Martin	user175@example.com		Strasbourg	basic	67
+C100169	Nina Robert	user169@example.com		Nantes	basic	68
+C100916	Sarah Petit	user916@example.com		Strasbourg	basic	28
+C100977	Jules Martin	user977@example.com	10-12-2023	Lille	plus	22
+C100057	Omar Moreau	user57@example.com		Toulouse	plus	56
+C100885	Jules Moreau	user885@example.com		Nantes	basic	44
+C100210	Omar Dubois	user210@example.com		Paris	plus	70
+C101075	Léa Dubois	user1075@example.com		Lille	basic	21
+C100058	Omar Richard	user58@example.com	22-03-2024	Toulouse	basic	32
+C101186	Alex Moreau	user1186@example.com		Strasbourg	premium	74
+C101123	Nina Moreau	user1123@example.com		Nantes	basic	78
+C100782	Emma Bernard	user782@example.com		Paris	premium	61
+C100573	Camille Durand	user573@example.com		Lille	premium	31
+C100502	Léa Durand	user502@example.com	31-07-2024	Nantes	basic	27
+C100221	Alex Dubois	user221@example.com	01-10-2023	Strasbourg	basic	45
+C100099	Noah Thomas	user99@example.com	25-03-2023	Paris	basic	53
+C100327	Omar Petit	user327@example.com	23-01-2023	Lyon	basic	49
+C100761	Hugo Leroy	user761@example.com		Strasbourg	basic	23
+C100115	Emma Durand	user115@example.com		Marseille	plus	22
+C100882	Emma Dubois	user882@example.com		Marseille	plus	40
+C100963	Jules Bernard	user963@example.com	11-05-2023	Strasbourg	basic	21
+C101168	Hugo Richard	user1168@example.com	21-08-2024	Lyon	basic	28
+C100121	Camille Bernard	user121@example.com		Marseille	basic	71
+C100255	Noah Robert	user255@example.com		Paris	basic	73
+C100677	Emma Richard	user677@example.com	20-02-2023	Strasbourg	basic	61
+C100999	Jules Durand	user999@example.com	04-11-2023	Lyon	plus	42
+C101129	Alex Bernard	user1129@example.com	25-01-2024	Lyon	basic	32
+C101133	Nina Martin	user1133@example.com		Bordeaux	basic	36
+C100950	Camille Martin	user950@example.com		Marseille	plus	72
+C100132	Jules Petit	user132@example.com		Lille	basic	73

@@ -1,0 +1,1608 @@
+{
+  "page": 11,
+  "page_size": 200,
+  "total": 3500,
+  "next_page": 12,
+  "data": [
+    {
+      "ticket_id": "S502000",
+      "created_at": "2025-01-05T01:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 2.4,
+      "response_time_minutes": 139
+    },
+    {
+      "ticket_id": "S502001",
+      "created_at": "2024-08-11T13:00:00",
+      "topic": "billing",
+      "priority": "high",
+      "satisfaction": 3.8,
+      "response_time_minutes": 47
+    },
+    {
+      "ticket_id": "S502002",
+      "created_at": "2024-12-16T23:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.1,
+      "response_time_minutes": 36
+    },
+    {
+      "ticket_id": "S502003",
+      "created_at": "2024-09-15T18:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.4,
+      "response_time_minutes": 63
+    },
+    {
+      "ticket_id": "S502004",
+      "created_at": "2024-12-18T07:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.7,
+      "response_time_minutes": 63
+    },
+    {
+      "ticket_id": "S502005",
+      "created_at": "2025-01-20T06:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 4.6,
+      "response_time_minutes": 75
+    },
+    {
+      "ticket_id": "S502006",
+      "created_at": "2024-06-27T05:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 4.4,
+      "response_time_minutes": 141
+    },
+    {
+      "ticket_id": "S502007",
+      "created_at": "2024-11-26T04:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.8,
+      "response_time_minutes": 132
+    },
+    {
+      "ticket_id": "S502008",
+      "created_at": "2024-08-23T22:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 120
+    },
+    {
+      "ticket_id": "S502009",
+      "created_at": "2024-10-10T06:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 4.8,
+      "response_time_minutes": 27
+    },
+    {
+      "ticket_id": "S502010",
+      "created_at": "2024-11-20T03:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.8,
+      "response_time_minutes": 92
+    },
+    {
+      "ticket_id": "S502011",
+      "created_at": "2024-06-27T11:00:00",
+      "topic": "feature_request",
+      "priority": "high",
+      "satisfaction": 4.1,
+      "response_time_minutes": 79
+    },
+    {
+      "ticket_id": "S502012",
+      "created_at": "2024-11-27T08:00:00",
+      "topic": "performance",
+      "priority": "urgent",
+      "satisfaction": 3.6,
+      "response_time_minutes": 22
+    },
+    {
+      "ticket_id": "S502013",
+      "created_at": "2024-11-14T00:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 45
+    },
+    {
+      "ticket_id": "S502014",
+      "created_at": "2024-10-03T00:00:00",
+      "topic": "performance",
+      "priority": "high",
+      "satisfaction": 4.5,
+      "response_time_minutes": 89
+    },
+    {
+      "ticket_id": "S502015",
+      "created_at": "2024-08-03T11:00:00",
+      "topic": "performance",
+      "priority": "high",
+      "satisfaction": 3.2,
+      "response_time_minutes": 19
+    },
+    {
+      "ticket_id": "S502016",
+      "created_at": "2024-08-12T01:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.0,
+      "response_time_minutes": 37
+    },
+    {
+      "ticket_id": "S502017",
+      "created_at": "2025-01-24T07:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.8,
+      "response_time_minutes": 65
+    },
+    {
+      "ticket_id": "S502018",
+      "created_at": "2024-12-28T15:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.8,
+      "response_time_minutes": 43
+    },
+    {
+      "ticket_id": "S502019",
+      "created_at": "2024-10-03T02:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 3.8,
+      "response_time_minutes": 143
+    },
+    {
+      "ticket_id": "S502020",
+      "created_at": "2024-12-12T01:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 2.7,
+      "response_time_minutes": 108
+    },
+    {
+      "ticket_id": "S502021",
+      "created_at": "2024-10-26T10:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 4.6,
+      "response_time_minutes": 21
+    },
+    {
+      "ticket_id": "S502022",
+      "created_at": "2024-10-16T17:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 3.6,
+      "response_time_minutes": 30
+    },
+    {
+      "ticket_id": "S502023",
+      "created_at": "2025-01-26T20:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 2.0,
+      "response_time_minutes": 150
+    },
+    {
+      "ticket_id": "S502024",
+      "created_at": "2024-06-12T03:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.9,
+      "response_time_minutes": 95
+    },
+    {
+      "ticket_id": "S502025",
+      "created_at": "2024-11-28T15:00:00",
+      "topic": "billing",
+      "priority": "high",
+      "satisfaction": 2.9,
+      "response_time_minutes": 6
+    },
+    {
+      "ticket_id": "S502026",
+      "created_at": "2024-07-13T00:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 3.2,
+      "response_time_minutes": 188
+    },
+    {
+      "ticket_id": "S502027",
+      "created_at": "2024-09-25T17:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.2,
+      "response_time_minutes": 61
+    },
+    {
+      "ticket_id": "S502028",
+      "created_at": "2024-10-09T11:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.2,
+      "response_time_minutes": 58
+    },
+    {
+      "ticket_id": "S502029",
+      "created_at": "2024-10-11T05:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.6,
+      "response_time_minutes": 30
+    },
+    {
+      "ticket_id": "S502030",
+      "created_at": "2024-12-01T18:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.4,
+      "response_time_minutes": 165
+    },
+    {
+      "ticket_id": "S502031",
+      "created_at": "2025-01-04T03:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 4.9,
+      "response_time_minutes": 91
+    },
+    {
+      "ticket_id": "S502032",
+      "created_at": "2024-07-17T08:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.3,
+      "response_time_minutes": 54
+    },
+    {
+      "ticket_id": "S502033",
+      "created_at": "2025-01-11T19:00:00",
+      "topic": "billing",
+      "priority": "high",
+      "satisfaction": 4.2,
+      "response_time_minutes": 7
+    },
+    {
+      "ticket_id": "S502034",
+      "created_at": "2024-09-02T09:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 4.2,
+      "response_time_minutes": 41
+    },
+    {
+      "ticket_id": "S502035",
+      "created_at": "2024-09-25T04:00:00",
+      "topic": "bug",
+      "priority": "urgent",
+      "satisfaction": 5.0,
+      "response_time_minutes": 25
+    },
+    {
+      "ticket_id": "S502036",
+      "created_at": "2024-09-21T15:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 4.3,
+      "response_time_minutes": 44
+    },
+    {
+      "ticket_id": "S502037",
+      "created_at": "2024-08-23T09:00:00",
+      "topic": "account",
+      "priority": "high",
+      "satisfaction": 2.4,
+      "response_time_minutes": 30
+    },
+    {
+      "ticket_id": "S502038",
+      "created_at": "2024-09-07T21:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 114
+    },
+    {
+      "ticket_id": "S502039",
+      "created_at": "2024-12-05T13:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 4.2,
+      "response_time_minutes": 207
+    },
+    {
+      "ticket_id": "S502040",
+      "created_at": "2024-06-06T17:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.3,
+      "response_time_minutes": 57
+    },
+    {
+      "ticket_id": "S502041",
+      "created_at": "2024-07-09T05:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.0,
+      "response_time_minutes": 24
+    },
+    {
+      "ticket_id": "S502042",
+      "created_at": "2024-09-30T20:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.3,
+      "response_time_minutes": 45
+    },
+    {
+      "ticket_id": "S502043",
+      "created_at": "2024-09-04T10:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.5,
+      "response_time_minutes": 42
+    },
+    {
+      "ticket_id": "S502044",
+      "created_at": "2024-11-11T03:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 4.8,
+      "response_time_minutes": 211
+    },
+    {
+      "ticket_id": "S502045",
+      "created_at": "2024-06-06T03:00:00",
+      "topic": "security",
+      "priority": "low",
+      "satisfaction": 4.0,
+      "response_time_minutes": 62
+    },
+    {
+      "ticket_id": "S502046",
+      "created_at": "2024-08-12T22:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 1.9,
+      "response_time_minutes": 191
+    },
+    {
+      "ticket_id": "S502047",
+      "created_at": "2024-12-19T05:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 19
+    },
+    {
+      "ticket_id": "S502048",
+      "created_at": "2024-08-01T13:00:00",
+      "topic": "security",
+      "priority": "high",
+      "satisfaction": 3.9,
+      "response_time_minutes": 60
+    },
+    {
+      "ticket_id": "S502049",
+      "created_at": "2024-06-12T16:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.5,
+      "response_time_minutes": 26
+    },
+    {
+      "ticket_id": "S502050",
+      "created_at": "2024-07-29T04:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 3.1,
+      "response_time_minutes": 54
+    },
+    {
+      "ticket_id": "S502051",
+      "created_at": "2024-10-10T02:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 90
+    },
+    {
+      "ticket_id": "S502052",
+      "created_at": "2024-10-18T21:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.9,
+      "response_time_minutes": 18
+    },
+    {
+      "ticket_id": "S502053",
+      "created_at": "2025-01-25T14:00:00",
+      "topic": "feature_request",
+      "priority": "high",
+      "satisfaction": 4.4,
+      "response_time_minutes": 39
+    },
+    {
+      "ticket_id": "S502054",
+      "created_at": "2025-01-19T08:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 2.9,
+      "response_time_minutes": 51
+    },
+    {
+      "ticket_id": "S502055",
+      "created_at": "2024-08-18T09:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 2.5,
+      "response_time_minutes": 70
+    },
+    {
+      "ticket_id": "S502056",
+      "created_at": "2024-07-01T20:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 2.5,
+      "response_time_minutes": 17
+    },
+    {
+      "ticket_id": "S502057",
+      "created_at": "2024-12-10T18:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.3,
+      "response_time_minutes": 83
+    },
+    {
+      "ticket_id": "S502058",
+      "created_at": "2024-12-31T14:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 2.7,
+      "response_time_minutes": 86
+    },
+    {
+      "ticket_id": "S502059",
+      "created_at": "2024-07-03T09:00:00",
+      "topic": "billing",
+      "priority": "urgent",
+      "satisfaction": 4.0,
+      "response_time_minutes": 133
+    },
+    {
+      "ticket_id": "S502060",
+      "created_at": "2024-12-28T21:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.7,
+      "response_time_minutes": 17
+    },
+    {
+      "ticket_id": "S502061",
+      "created_at": "2024-07-02T01:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.4,
+      "response_time_minutes": 46
+    },
+    {
+      "ticket_id": "S502062",
+      "created_at": "2024-11-01T20:00:00",
+      "topic": "feature_request",
+      "priority": "high",
+      "satisfaction": 3.8,
+      "response_time_minutes": 59
+    },
+    {
+      "ticket_id": "S502063",
+      "created_at": "2024-07-25T07:00:00",
+      "topic": "performance",
+      "priority": "high",
+      "satisfaction": 5.0,
+      "response_time_minutes": 70
+    },
+    {
+      "ticket_id": "S502064",
+      "created_at": "2024-11-24T16:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 3.5,
+      "response_time_minutes": 63
+    },
+    {
+      "ticket_id": "S502065",
+      "created_at": "2024-12-10T12:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.2,
+      "response_time_minutes": 38
+    },
+    {
+      "ticket_id": "S502066",
+      "created_at": "2024-12-15T15:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 3.7,
+      "response_time_minutes": 65
+    },
+    {
+      "ticket_id": "S502067",
+      "created_at": "2024-10-29T08:00:00",
+      "topic": "feature_request",
+      "priority": "high",
+      "satisfaction": 3.9,
+      "response_time_minutes": 592
+    },
+    {
+      "ticket_id": "S502068",
+      "created_at": "2024-10-04T16:00:00",
+      "topic": "performance",
+      "priority": "high",
+      "satisfaction": 4.8,
+      "response_time_minutes": 94
+    },
+    {
+      "ticket_id": "S502069",
+      "created_at": "2024-12-17T13:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 4.7,
+      "response_time_minutes": 17
+    },
+    {
+      "ticket_id": "S502070",
+      "created_at": "2025-01-11T08:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 2.4,
+      "response_time_minutes": 202
+    },
+    {
+      "ticket_id": "S502071",
+      "created_at": "2024-08-08T13:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 3.1,
+      "response_time_minutes": 226
+    },
+    {
+      "ticket_id": "S502072",
+      "created_at": "2024-07-16T05:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.8,
+      "response_time_minutes": 116
+    },
+    {
+      "ticket_id": "S502073",
+      "created_at": "2024-07-12T22:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 2.9,
+      "response_time_minutes": 169
+    },
+    {
+      "ticket_id": "S502074",
+      "created_at": "2024-11-07T10:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 3.2,
+      "response_time_minutes": 389
+    },
+    {
+      "ticket_id": "S502075",
+      "created_at": "2024-10-10T08:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.4,
+      "response_time_minutes": 75
+    },
+    {
+      "ticket_id": "S502076",
+      "created_at": "2024-09-22T18:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.9,
+      "response_time_minutes": 140
+    },
+    {
+      "ticket_id": "S502077",
+      "created_at": "2024-06-09T08:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 4.8,
+      "response_time_minutes": 203
+    },
+    {
+      "ticket_id": "S502078",
+      "created_at": "2024-07-28T09:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 2.6,
+      "response_time_minutes": 32
+    },
+    {
+      "ticket_id": "S502079",
+      "created_at": "2024-09-25T23:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 3.8,
+      "response_time_minutes": 200
+    },
+    {
+      "ticket_id": "S502080",
+      "created_at": "2024-08-18T00:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 70
+    },
+    {
+      "ticket_id": "S502081",
+      "created_at": "2025-01-17T02:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.5,
+      "response_time_minutes": 130
+    },
+    {
+      "ticket_id": "S502082",
+      "created_at": "2024-09-27T06:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 2.7,
+      "response_time_minutes": 125
+    },
+    {
+      "ticket_id": "S502083",
+      "created_at": "2024-11-03T16:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 35
+    },
+    {
+      "ticket_id": "S502084",
+      "created_at": "2025-01-03T19:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.0,
+      "response_time_minutes": 179
+    },
+    {
+      "ticket_id": "S502085",
+      "created_at": "2024-09-30T11:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 3.2,
+      "response_time_minutes": 42
+    },
+    {
+      "ticket_id": "S502086",
+      "created_at": "2024-06-19T12:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 4.4,
+      "response_time_minutes": 75
+    },
+    {
+      "ticket_id": "S502087",
+      "created_at": "2024-07-18T01:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 117
+    },
+    {
+      "ticket_id": "S502088",
+      "created_at": "2024-08-03T19:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.8,
+      "response_time_minutes": 95
+    },
+    {
+      "ticket_id": "S502089",
+      "created_at": "2024-09-19T06:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 3.6,
+      "response_time_minutes": 38
+    },
+    {
+      "ticket_id": "S502090",
+      "created_at": "2024-06-04T17:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.7,
+      "response_time_minutes": 22
+    },
+    {
+      "ticket_id": "S502091",
+      "created_at": "2024-10-11T01:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.1,
+      "response_time_minutes": 31
+    },
+    {
+      "ticket_id": "S502092",
+      "created_at": "2024-12-01T19:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.7,
+      "response_time_minutes": 107
+    },
+    {
+      "ticket_id": "S502093",
+      "created_at": "2024-09-29T09:00:00",
+      "topic": "performance",
+      "priority": "urgent",
+      "satisfaction": 3.2,
+      "response_time_minutes": 92
+    },
+    {
+      "ticket_id": "S502094",
+      "created_at": "2024-12-06T08:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 2.8,
+      "response_time_minutes": 51
+    },
+    {
+      "ticket_id": "S502095",
+      "created_at": "2024-10-09T23:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.5,
+      "response_time_minutes": 50
+    },
+    {
+      "ticket_id": "S502096",
+      "created_at": "2024-12-24T08:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.3,
+      "response_time_minutes": 47
+    },
+    {
+      "ticket_id": "S502097",
+      "created_at": "2025-01-18T23:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.1,
+      "response_time_minutes": 25
+    },
+    {
+      "ticket_id": "S502098",
+      "created_at": "2024-11-12T13:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 4.2,
+      "response_time_minutes": 125
+    },
+    {
+      "ticket_id": "S502099",
+      "created_at": "2024-07-17T10:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 4.1,
+      "response_time_minutes": 25
+    },
+    {
+      "ticket_id": "S502100",
+      "created_at": "2024-11-30T03:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 66
+    },
+    {
+      "ticket_id": "S502101",
+      "created_at": "2024-09-04T13:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.3,
+      "response_time_minutes": 166
+    },
+    {
+      "ticket_id": "S502102",
+      "created_at": "2024-12-30T16:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 58
+    },
+    {
+      "ticket_id": "S502103",
+      "created_at": "2024-07-06T15:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.1,
+      "response_time_minutes": 213
+    },
+    {
+      "ticket_id": "S502104",
+      "created_at": "2024-10-18T19:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 26
+    },
+    {
+      "ticket_id": "S502105",
+      "created_at": "2024-09-07T19:00:00",
+      "topic": "account",
+      "priority": "high",
+      "satisfaction": 4.6,
+      "response_time_minutes": 21
+    },
+    {
+      "ticket_id": "S502106",
+      "created_at": "2024-10-22T15:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.7,
+      "response_time_minutes": 10
+    },
+    {
+      "ticket_id": "S502107",
+      "created_at": "2024-06-24T00:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 2.8,
+      "response_time_minutes": 110
+    },
+    {
+      "ticket_id": "S502108",
+      "created_at": "2025-01-12T08:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.9,
+      "response_time_minutes": 12
+    },
+    {
+      "ticket_id": "S502109",
+      "created_at": "2024-08-25T02:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.0,
+      "response_time_minutes": 214
+    },
+    {
+      "ticket_id": "S502110",
+      "created_at": "2024-08-05T21:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 240
+    },
+    {
+      "ticket_id": "S502111",
+      "created_at": "2024-09-01T21:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 74
+    },
+    {
+      "ticket_id": "S502112",
+      "created_at": "2024-08-18T10:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 31
+    },
+    {
+      "ticket_id": "S502113",
+      "created_at": "2024-11-22T12:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.0,
+      "response_time_minutes": 14
+    },
+    {
+      "ticket_id": "S502114",
+      "created_at": "2024-09-04T06:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.1,
+      "response_time_minutes": 83
+    },
+    {
+      "ticket_id": "S502115",
+      "created_at": "2025-01-06T08:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 3.6,
+      "response_time_minutes": 59
+    },
+    {
+      "ticket_id": "S502116",
+      "created_at": "2024-08-04T23:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 72
+    },
+    {
+      "ticket_id": "S502117",
+      "created_at": "2024-09-30T11:00:00",
+      "topic": "feature_request",
+      "priority": "urgent",
+      "satisfaction": 3.8,
+      "response_time_minutes": 92
+    },
+    {
+      "ticket_id": "S502118",
+      "created_at": "2024-12-12T04:00:00",
+      "topic": "security",
+      "priority": "medium",
+      "satisfaction": 4.3,
+      "response_time_minutes": 25
+    },
+    {
+      "ticket_id": "S502119",
+      "created_at": "2024-12-04T06:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 50
+    },
+    {
+      "ticket_id": "S502120",
+      "created_at": "2024-12-01T17:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 68
+    },
+    {
+      "ticket_id": "S502121",
+      "created_at": "2024-09-06T11:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 372
+    },
+    {
+      "ticket_id": "S502122",
+      "created_at": "2025-01-22T07:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 112
+    },
+    {
+      "ticket_id": "S502123",
+      "created_at": "2024-08-07T20:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.8,
+      "response_time_minutes": 68
+    },
+    {
+      "ticket_id": "S502124",
+      "created_at": "2024-12-19T22:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 2.8,
+      "response_time_minutes": 27
+    },
+    {
+      "ticket_id": "S502125",
+      "created_at": "2024-07-07T00:00:00",
+      "topic": "bug",
+      "priority": "urgent",
+      "satisfaction": 2.6,
+      "response_time_minutes": 167
+    },
+    {
+      "ticket_id": "S502126",
+      "created_at": "2024-10-06T06:00:00",
+      "topic": "security",
+      "priority": "medium",
+      "satisfaction": 4.8,
+      "response_time_minutes": 232
+    },
+    {
+      "ticket_id": "S502127",
+      "created_at": "2024-09-03T14:00:00",
+      "topic": "account",
+      "priority": "urgent",
+      "satisfaction": 5.0,
+      "response_time_minutes": 18
+    },
+    {
+      "ticket_id": "S502128",
+      "created_at": "2024-11-23T02:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 3.2,
+      "response_time_minutes": 14
+    },
+    {
+      "ticket_id": "S502129",
+      "created_at": "2024-11-29T22:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 63
+    },
+    {
+      "ticket_id": "S502130",
+      "created_at": "2024-06-07T07:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 51
+    },
+    {
+      "ticket_id": "S502131",
+      "created_at": "2024-10-23T02:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.6,
+      "response_time_minutes": 187
+    },
+    {
+      "ticket_id": "S502132",
+      "created_at": "2025-01-09T00:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.1,
+      "response_time_minutes": 24
+    },
+    {
+      "ticket_id": "S502133",
+      "created_at": "2024-07-23T09:00:00",
+      "topic": "billing",
+      "priority": "urgent",
+      "satisfaction": 4.6,
+      "response_time_minutes": 28
+    },
+    {
+      "ticket_id": "S502134",
+      "created_at": "2024-12-05T14:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 18
+    },
+    {
+      "ticket_id": "S502135",
+      "created_at": "2024-11-27T11:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 3.7,
+      "response_time_minutes": 27
+    },
+    {
+      "ticket_id": "S502136",
+      "created_at": "2024-06-07T09:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 68
+    },
+    {
+      "ticket_id": "S502137",
+      "created_at": "2024-06-22T06:00:00",
+      "topic": "performance",
+      "priority": "medium",
+      "satisfaction": 3.5,
+      "response_time_minutes": 18
+    },
+    {
+      "ticket_id": "S502138",
+      "created_at": "2024-08-28T10:00:00",
+      "topic": "bug",
+      "priority": "urgent",
+      "satisfaction": 3.7,
+      "response_time_minutes": 800
+    },
+    {
+      "ticket_id": "S502139",
+      "created_at": "2024-07-08T10:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 8
+    },
+    {
+      "ticket_id": "S502140",
+      "created_at": "2024-08-12T08:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.3,
+      "response_time_minutes": 39
+    },
+    {
+      "ticket_id": "S502141",
+      "created_at": "2024-07-14T13:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 72
+    },
+    {
+      "ticket_id": "S502142",
+      "created_at": "2024-12-17T17:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 4.2,
+      "response_time_minutes": 167
+    },
+    {
+      "ticket_id": "S502143",
+      "created_at": "2024-11-12T00:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.1,
+      "response_time_minutes": 27
+    },
+    {
+      "ticket_id": "S502144",
+      "created_at": "2024-07-15T05:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.5,
+      "response_time_minutes": 14
+    },
+    {
+      "ticket_id": "S502145",
+      "created_at": "2024-08-08T03:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 4.8,
+      "response_time_minutes": 26
+    },
+    {
+      "ticket_id": "S502146",
+      "created_at": "2024-11-14T07:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 260
+    },
+    {
+      "ticket_id": "S502147",
+      "created_at": "2024-12-29T16:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 3.9,
+      "response_time_minutes": 12
+    },
+    {
+      "ticket_id": "S502148",
+      "created_at": "2025-01-25T12:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.5,
+      "response_time_minutes": 138
+    },
+    {
+      "ticket_id": "S502149",
+      "created_at": "2024-06-23T01:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.7,
+      "response_time_minutes": 75
+    },
+    {
+      "ticket_id": "S502150",
+      "created_at": "2024-10-28T23:00:00",
+      "topic": "feature_request",
+      "priority": "urgent",
+      "satisfaction": 3.6,
+      "response_time_minutes": 83
+    },
+    {
+      "ticket_id": "S502151",
+      "created_at": "2025-01-11T19:00:00",
+      "topic": "billing",
+      "priority": "urgent",
+      "satisfaction": 4.2,
+      "response_time_minutes": 157
+    },
+    {
+      "ticket_id": "S502152",
+      "created_at": "2025-01-01T02:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 4.7,
+      "response_time_minutes": 33
+    },
+    {
+      "ticket_id": "S502153",
+      "created_at": "2024-06-02T04:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.3,
+      "response_time_minutes": 131
+    },
+    {
+      "ticket_id": "S502154",
+      "created_at": "2024-06-12T11:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 2.6,
+      "response_time_minutes": 68
+    },
+    {
+      "ticket_id": "S502155",
+      "created_at": "2025-01-07T03:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.2,
+      "response_time_minutes": 21
+    },
+    {
+      "ticket_id": "S502156",
+      "created_at": "2024-07-27T00:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 3.6,
+      "response_time_minutes": 56
+    },
+    {
+      "ticket_id": "S502157",
+      "created_at": "2024-07-02T08:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 58
+    },
+    {
+      "ticket_id": "S502158",
+      "created_at": "2024-07-06T02:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.3,
+      "response_time_minutes": 8
+    },
+    {
+      "ticket_id": "S502159",
+      "created_at": "2024-06-06T14:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 4.5,
+      "response_time_minutes": 27
+    },
+    {
+      "ticket_id": "S502160",
+      "created_at": "2024-09-10T03:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 89
+    },
+    {
+      "ticket_id": "S502161",
+      "created_at": "2024-08-04T11:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 3.4,
+      "response_time_minutes": 67
+    },
+    {
+      "ticket_id": "S502162",
+      "created_at": "2024-06-17T13:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 139
+    },
+    {
+      "ticket_id": "S502163",
+      "created_at": "2024-08-20T18:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.6,
+      "response_time_minutes": 168
+    },
+    {
+      "ticket_id": "S502164",
+      "created_at": "2024-08-12T00:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.2,
+      "response_time_minutes": 29
+    },
+    {
+      "ticket_id": "S502165",
+      "created_at": "2024-11-24T11:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 3.7,
+      "response_time_minutes": 33
+    },
+    {
+      "ticket_id": "S502166",
+      "created_at": "2024-07-17T19:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 3.4,
+      "response_time_minutes": 17
+    },
+    {
+      "ticket_id": "S502167",
+      "created_at": "2025-01-02T13:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 3.8,
+      "response_time_minutes": 90
+    },
+    {
+      "ticket_id": "S502168",
+      "created_at": "2024-06-25T14:00:00",
+      "topic": "billing",
+      "priority": "urgent",
+      "satisfaction": 4.4,
+      "response_time_minutes": 39
+    },
+    {
+      "ticket_id": "S502169",
+      "created_at": "2024-09-01T14:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 3.5,
+      "response_time_minutes": 153
+    },
+    {
+      "ticket_id": "S502170",
+      "created_at": "2025-01-19T08:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.4,
+      "response_time_minutes": 138
+    },
+    {
+      "ticket_id": "S502171",
+      "created_at": "2024-07-31T07:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 4.2,
+      "response_time_minutes": 89
+    },
+    {
+      "ticket_id": "S502172",
+      "created_at": "2024-12-17T20:00:00",
+      "topic": "feature_request",
+      "priority": "medium",
+      "satisfaction": 3.1,
+      "response_time_minutes": 42
+    },
+    {
+      "ticket_id": "S502173",
+      "created_at": "2024-08-07T06:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 4.4,
+      "response_time_minutes": 144
+    },
+    {
+      "ticket_id": "S502174",
+      "created_at": "2024-06-17T20:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 5.0,
+      "response_time_minutes": 60
+    },
+    {
+      "ticket_id": "S502175",
+      "created_at": "2024-12-28T04:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 3.9,
+      "response_time_minutes": 73
+    },
+    {
+      "ticket_id": "S502176",
+      "created_at": "2024-12-09T10:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 4.7,
+      "response_time_minutes": 13
+    },
+    {
+      "ticket_id": "S502177",
+      "created_at": "2024-06-13T23:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.2,
+      "response_time_minutes": 81
+    },
+    {
+      "ticket_id": "S502178",
+      "created_at": "2024-09-29T07:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 62
+    },
+    {
+      "ticket_id": "S502179",
+      "created_at": "2024-09-13T06:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 4.6,
+      "response_time_minutes": 55
+    },
+    {
+      "ticket_id": "S502180",
+      "created_at": "2024-11-16T22:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.7,
+      "response_time_minutes": 38
+    },
+    {
+      "ticket_id": "S502181",
+      "created_at": "2024-07-23T22:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 3.5,
+      "response_time_minutes": 17
+    },
+    {
+      "ticket_id": "S502182",
+      "created_at": "2024-08-15T12:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.7,
+      "response_time_minutes": 57
+    },
+    {
+      "ticket_id": "S502183",
+      "created_at": "2024-08-25T15:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.5,
+      "response_time_minutes": 11
+    },
+    {
+      "ticket_id": "S502184",
+      "created_at": "2024-12-15T19:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.7,
+      "response_time_minutes": 50
+    },
+    {
+      "ticket_id": "S502185",
+      "created_at": "2024-08-02T15:00:00",
+      "topic": "billing",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 38
+    },
+    {
+      "ticket_id": "S502186",
+      "created_at": "2024-08-07T19:00:00",
+      "topic": "account",
+      "priority": "medium",
+      "satisfaction": 3.6,
+      "response_time_minutes": 171
+    },
+    {
+      "ticket_id": "S502187",
+      "created_at": "2024-12-05T10:00:00",
+      "topic": "billing",
+      "priority": "high",
+      "satisfaction": 5.0,
+      "response_time_minutes": 268
+    },
+    {
+      "ticket_id": "S502188",
+      "created_at": "2024-07-15T04:00:00",
+      "topic": "bug",
+      "priority": "medium",
+      "satisfaction": 4.8,
+      "response_time_minutes": 18
+    },
+    {
+      "ticket_id": "S502189",
+      "created_at": "2024-07-31T13:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 3.0,
+      "response_time_minutes": 112
+    },
+    {
+      "ticket_id": "S502190",
+      "created_at": "2024-09-07T16:00:00",
+      "topic": "account",
+      "priority": "low",
+      "satisfaction": 5.0,
+      "response_time_minutes": 35
+    },
+    {
+      "ticket_id": "S502191",
+      "created_at": "2025-01-03T03:00:00",
+      "topic": "performance",
+      "priority": "low",
+      "satisfaction": 3.6,
+      "response_time_minutes": 41
+    },
+    {
+      "ticket_id": "S502192",
+      "created_at": "2024-08-23T14:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 4.3,
+      "response_time_minutes": 40
+    },
+    {
+      "ticket_id": "S502193",
+      "created_at": "2024-11-17T13:00:00",
+      "topic": "billing",
+      "priority": "medium",
+      "satisfaction": 4.3,
+      "response_time_minutes": 169
+    },
+    {
+      "ticket_id": "S502194",
+      "created_at": "2024-08-09T10:00:00",
+      "topic": "account",
+      "priority": "high",
+      "satisfaction": 3.2,
+      "response_time_minutes": 55
+    },
+    {
+      "ticket_id": "S502195",
+      "created_at": "2024-08-10T05:00:00",
+      "topic": "feature_request",
+      "priority": "low",
+      "satisfaction": 4.9,
+      "response_time_minutes": 84
+    },
+    {
+      "ticket_id": "S502196",
+      "created_at": "2025-01-19T06:00:00",
+      "topic": "bug",
+      "priority": "high",
+      "satisfaction": 3.7,
+      "response_time_minutes": 16
+    },
+    {
+      "ticket_id": "S502197",
+      "created_at": "2024-06-16T16:00:00",
+      "topic": "account",
+      "priority": "high",
+      "satisfaction": 2.9,
+      "response_time_minutes": 24
+    },
+    {
+      "ticket_id": "S502198",
+      "created_at": "2024-07-04T00:00:00",
+      "topic": "security",
+      "priority": "high",
+      "satisfaction": 3.4,
+      "response_time_minutes": 38
+    },
+    {
+      "ticket_id": "S502199",
+      "created_at": "2024-07-12T07:00:00",
+      "topic": "bug",
+      "priority": "low",
+      "satisfaction": 2.5,
+      "response_time_minutes": 60
+    }
+  ]
+}

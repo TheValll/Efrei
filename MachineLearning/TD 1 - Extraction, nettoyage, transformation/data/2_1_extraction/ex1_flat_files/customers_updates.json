@@ -1,0 +1,1202 @@
+[
+  {
+    "customer_id": "C100908",
+    "fullName": "Nina Thomas",
+    "email": "user908@example.com",
+    "signup_date": "2023-08-11",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 50,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100704",
+    "fullName": "Noah Bernard",
+    "email": "user704@example.com",
+    "signup_date": "19/03/2023",
+    "city": "Bordeaux",
+    "segment": "premium",
+    "age": 50,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100162",
+    "fullName": "Omar Bernard",
+    "email": "user162@example.com",
+    "signup_date": "03/09/2023",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 79,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100411",
+    "fullName": "Yanis Martin",
+    "email": "user411@example.com",
+    "signup_date": "2023-05-18",
+    "city": "Toulouse",
+    "segment": "plus",
+    "age": 25,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C101051",
+    "fullName": "Sarah Robert",
+    "email": "user1051@example.com",
+    "signup_date": "07/08/2023",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 53,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101047",
+    "fullName": "Camille Richard",
+    "email": "user1047@example.com",
+    "signup_date": "2023-12-27",
+    "city": "Toulouse",
+    "segment": "plus",
+    "age": 59,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100133",
+    "fullName": "Jules Robert",
+    "email": "user133@example.com",
+    "signup_date": "02/12/2023",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 68,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100512",
+    "fullName": "Sarah Petit",
+    "email": "user512@example.com",
+    "signup_date": "2024/05/19",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 29,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100903",
+    "fullName": "Hugo Petit",
+    "email": "user903@example.com",
+    "signup_date": "2024/06/14",
+    "city": "Bordeaux",
+    "segment": "basic",
+    "age": 43,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100342",
+    "fullName": "Jules Durand",
+    "email": "user342@example.com",
+    "signup_date": "2024-01-09",
+    "city": "Lyon",
+    "segment": "basic",
+    "age": 58,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C101190",
+    "fullName": "Omar Dubois",
+    "email": "user1190@example.com",
+    "signup_date": "2023/09/07",
+    "city": "Strasbourg",
+    "segment": "plus",
+    "age": 19,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100978",
+    "fullName": "Nina Leroy",
+    "email": "user978@example.com",
+    "signup_date": "2023/07/30",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 61,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100270",
+    "fullName": "Emma Richard",
+    "email": "user270@example.com",
+    "signup_date": "2023/06/26",
+    "city": "Marseille",
+    "segment": "basic",
+    "age": 74,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100222",
+    "fullName": "Noah Richard",
+    "email": "user222@example.com",
+    "signup_date": "27/02/2024",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 59,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100110",
+    "fullName": "Noah Martin",
+    "email": "user110@example.com",
+    "signup_date": "16/06/2023",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 76,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100465",
+    "fullName": "Inès Thomas",
+    "email": "user465@example.com",
+    "signup_date": "02/08/2024",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 72,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100671",
+    "fullName": "Yanis Moreau",
+    "email": "user671@example.com",
+    "signup_date": "2024-01-04",
+    "city": "Lille",
+    "segment": "plus",
+    "age": 45,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100956",
+    "fullName": "Alex Leroy",
+    "email": "user956@example.com",
+    "signup_date": "29/08/2023",
+    "city": "Bordeaux",
+    "segment": "basic",
+    "age": 37,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100031",
+    "fullName": "Sarah Bernard",
+    "email": "user31@example.com",
+    "signup_date": "2023/05/17",
+    "city": "Lyon",
+    "segment": "premium",
+    "age": 22,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C101074",
+    "fullName": "Alex Bernard",
+    "email": "user1074@example.com",
+    "signup_date": "08/10/2023",
+    "city": "Strasbourg",
+    "segment": "plus",
+    "age": 61,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100409",
+    "fullName": "Inès Durand",
+    "email": "user409@example.com",
+    "signup_date": "2023-01-09",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 18,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100406",
+    "fullName": "Camille Thomas",
+    "email": "user406@example.com",
+    "signup_date": "2023/09/18",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 61,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100961",
+    "fullName": "Nina Thomas",
+    "email": "user961@example.com",
+    "signup_date": "2023/09/03",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 26,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100309",
+    "fullName": "Camille Robert",
+    "email": "user309@example.com",
+    "signup_date": "2023/03/07",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 34,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100154",
+    "fullName": "Alex Martin",
+    "email": "user154@example.com",
+    "signup_date": "18/09/2023",
+    "city": "Marseille",
+    "segment": "basic",
+    "age": 40,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100934",
+    "fullName": "Omar Bernard",
+    "email": "user934@example.com",
+    "signup_date": "23/09/2023",
+    "city": "Paris",
+    "segment": "premium",
+    "age": 57,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100370",
+    "fullName": "Camille Moreau",
+    "email": "user370@example.com",
+    "signup_date": "2023/07/21",
+    "city": "Strasbourg",
+    "segment": "plus",
+    "age": 54,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100939",
+    "fullName": "Alex Robert",
+    "email": "user939@example.com",
+    "signup_date": "2023-11-02",
+    "city": "Lille",
+    "segment": "basic",
+    "age": 18,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100882",
+    "fullName": "Emma Dubois",
+    "email": "user882@example.com",
+    "signup_date": "2023-09-27",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 40,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100319",
+    "fullName": "Léa Durand",
+    "email": "user319@example.com",
+    "signup_date": "2024-04-06",
+    "city": "Bordeaux",
+    "segment": "basic",
+    "age": 17,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100076",
+    "fullName": "Noah Robert",
+    "email": "user76@example.com",
+    "signup_date": "18/07/2023",
+    "city": "Nantes",
+    "segment": "premium",
+    "age": 42,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100542",
+    "fullName": "Jules Petit",
+    "email": "user542@example.com",
+    "signup_date": "27/04/2023",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 52,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100582",
+    "fullName": "Inès Robert",
+    "email": "user582@example.com",
+    "signup_date": "2023-03-06",
+    "city": "Marseille",
+    "segment": "plus",
+    "age": 40,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100152",
+    "fullName": "Noah Leroy",
+    "email": "user152@example.com",
+    "signup_date": "04/07/2024",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 66,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100164",
+    "fullName": "Hugo Moreau",
+    "email": "user164@example.com",
+    "signup_date": "2023-09-08",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 76,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100517",
+    "fullName": "Omar Leroy",
+    "email": "user517@example.com",
+    "signup_date": "2023/02/09",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 22,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C101196",
+    "fullName": "Léa Thomas",
+    "email": "user1196@example.com",
+    "signup_date": "04/03/2024",
+    "city": "Bordeaux",
+    "segment": "basic",
+    "age": 70,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100035",
+    "fullName": "Jules Richard",
+    "email": "user35@example.com",
+    "signup_date": "2023-02-08",
+    "city": "Toulouse",
+    "segment": "premium",
+    "age": 49,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100524",
+    "fullName": "Alex Thomas",
+    "email": "user524@example.com",
+    "signup_date": "2023-07-11",
+    "city": "Toulouse",
+    "segment": "plus",
+    "age": 74,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100102",
+    "fullName": "Yanis Leroy",
+    "email": "user102@example.com",
+    "signup_date": "2024/04/27",
+    "city": "Bordeaux",
+    "segment": "plus",
+    "age": 55,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101055",
+    "fullName": "Inès Dubois",
+    "email": "user1055@example.com",
+    "signup_date": "2024/08/20",
+    "city": "Strasbourg",
+    "segment": "plus",
+    "age": 53,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100715",
+    "fullName": "Emma Bernard",
+    "email": "user715@example.com",
+    "signup_date": "2024-04-24",
+    "city": "Lyon",
+    "segment": "premium",
+    "age": 60,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100405",
+    "fullName": "Léa Thomas",
+    "email": "user405@example.com",
+    "signup_date": "2023/10/28",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 45,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100058",
+    "fullName": "Omar Richard",
+    "email": "user58@example.com",
+    "signup_date": "2024/03/22",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 32,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C101185",
+    "fullName": "Emma Thomas",
+    "email": "user1185@example.com",
+    "signup_date": "2023-07-04",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 35,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100963",
+    "fullName": "Jules Bernard",
+    "email": "user963@example.com",
+    "signup_date": "2023/05/11",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 21,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100722",
+    "fullName": "Léa Richard",
+    "email": "user722@example.com",
+    "signup_date": "22/05/2024",
+    "city": "Paris",
+    "segment": "premium",
+    "age": 64,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100479",
+    "fullName": "Omar Bernard",
+    "email": "user479@example.com",
+    "signup_date": "2023-03-07",
+    "city": "Lyon",
+    "segment": "basic",
+    "age": 28,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100995",
+    "fullName": "Sarah Bernard",
+    "email": "user995@example.com",
+    "signup_date": "11/01/2024",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 29,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100166",
+    "fullName": "Camille Petit",
+    "email": "user166@example.com",
+    "signup_date": "12/07/2023",
+    "city": "Nantes",
+    "segment": "premium",
+    "age": 30,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100734",
+    "fullName": "Noah Bernard",
+    "email": "user734@example.com",
+    "signup_date": "2023-05-05",
+    "city": "Marseille",
+    "segment": "basic",
+    "age": 21,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100237",
+    "fullName": "Nina Martin",
+    "email": "user237@example.com",
+    "signup_date": "2023-09-17",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 51,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C101096",
+    "fullName": "Sarah Thomas",
+    "email": "user1096@example.com",
+    "signup_date": "16/05/2024",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 17,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100864",
+    "fullName": "Nina Bernard",
+    "email": "user864@example.com",
+    "signup_date": "2024/05/22",
+    "city": "Bordeaux",
+    "segment": "plus",
+    "age": 50,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100178",
+    "fullName": "Camille Leroy",
+    "email": "user178@example.com",
+    "signup_date": "24/06/2024",
+    "city": "Lille",
+    "segment": "premium",
+    "age": 75,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100991",
+    "fullName": "Sarah Martin",
+    "email": "user991@example.com",
+    "signup_date": "26/11/2023",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 21,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100984",
+    "fullName": "Noah Durand",
+    "email": "user984@example.com",
+    "signup_date": "2023-12-19",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 52,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100776",
+    "fullName": "Nina Robert",
+    "email": "user776@example.com",
+    "signup_date": "2023/09/12",
+    "city": "Toulouse",
+    "segment": "plus",
+    "age": 53,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100678",
+    "fullName": "Léa Richard",
+    "email": "user678@example.com",
+    "signup_date": "10/11/2023",
+    "city": "Lille",
+    "segment": "premium",
+    "age": 21,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100293",
+    "fullName": "Yanis Martin",
+    "email": "user293@example.com",
+    "signup_date": "2023/07/18",
+    "city": "Bordeaux",
+    "segment": "basic",
+    "age": 78,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100566",
+    "fullName": "Jules Leroy",
+    "email": "user566@example.com",
+    "signup_date": "2023-05-17",
+    "city": "Toulouse",
+    "segment": "premium",
+    "age": 21,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100303",
+    "fullName": "Noah Durand",
+    "email": "user303@example.com",
+    "signup_date": "2024/06/21",
+    "city": "Lyon",
+    "segment": "premium",
+    "age": 47,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101114",
+    "fullName": "Léa Bernard",
+    "email": "user1114@example.com",
+    "signup_date": "27/04/2023",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 49,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100886",
+    "fullName": "Noah Bernard",
+    "email": "user886@example.com",
+    "signup_date": "01/02/2023",
+    "city": "Paris",
+    "segment": "premium",
+    "age": 64,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100910",
+    "fullName": "Sarah Durand",
+    "email": "user910@example.com",
+    "signup_date": "2024-04-07",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 33,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100379",
+    "fullName": "Emma Richard",
+    "email": "user379@example.com",
+    "signup_date": "2023-06-07",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 41,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100280",
+    "fullName": "Inès Thomas",
+    "email": "user280@example.com",
+    "signup_date": "2023-06-15",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 36,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100724",
+    "fullName": "Léa Robert",
+    "email": "user724@example.com",
+    "signup_date": "2024-04-16",
+    "city": "Paris",
+    "segment": "premium",
+    "age": 55,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101098",
+    "fullName": "Hugo Martin",
+    "email": "user1098@example.com",
+    "signup_date": "25/01/2023",
+    "city": "Lille",
+    "segment": "plus",
+    "age": 57,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100777",
+    "fullName": "Noah Richard",
+    "email": "user777@example.com",
+    "signup_date": "2023-03-13",
+    "city": "Strasbourg",
+    "segment": "plus",
+    "age": 75,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100950",
+    "fullName": "Camille Martin",
+    "email": "user950@example.com",
+    "signup_date": "2023-02-26",
+    "city": "Lyon",
+    "segment": "premium",
+    "age": 72,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100585",
+    "fullName": "Emma Bernard",
+    "email": "user585@example.com",
+    "signup_date": "2024-07-08",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 72,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101116",
+    "fullName": "Yanis Bernard",
+    "email": "user1116@example.com",
+    "signup_date": "2024-08-20",
+    "city": "Bordeaux",
+    "segment": "premium",
+    "age": 36,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100429",
+    "fullName": "Noah Durand",
+    "email": "user429@example.com",
+    "signup_date": "2024-03-05",
+    "city": "Strasbourg",
+    "segment": "premium",
+    "age": 33,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100467",
+    "fullName": "Jules Thomas",
+    "email": "user467@example.com",
+    "signup_date": "2023-12-24",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 56,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100744",
+    "fullName": "Alex Moreau",
+    "email": "user744@example.com",
+    "signup_date": "22/04/2024",
+    "city": "Marseille",
+    "segment": "basic",
+    "age": 30,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100975",
+    "fullName": "Noah Bernard",
+    "email": "user975@example.com",
+    "signup_date": "2023/05/16",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 76,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100408",
+    "fullName": "Yanis Leroy",
+    "email": "user408@example.com",
+    "signup_date": "14/07/2024",
+    "city": "Lille",
+    "segment": "premium",
+    "age": 47,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101124",
+    "fullName": "Noah Richard",
+    "email": "user1124@example.com",
+    "signup_date": "2024/05/19",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 74,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100075",
+    "fullName": "Yanis Martin",
+    "email": "user75@example.com",
+    "signup_date": "2023-10-13",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 58,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100849",
+    "fullName": "Sarah Durand",
+    "email": "user849@example.com",
+    "signup_date": "2023/12/30",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 78,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100066",
+    "fullName": "Omar Petit",
+    "email": "user66@example.com",
+    "signup_date": "2024-06-27",
+    "city": "Lyon",
+    "segment": "basic",
+    "age": 45,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100966",
+    "fullName": "Léa Leroy",
+    "email": "user966@example.com",
+    "signup_date": "2023/12/27",
+    "city": "Bordeaux",
+    "segment": "plus",
+    "age": 35,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100139",
+    "fullName": "Inès Dubois",
+    "email": "user139@example.com",
+    "signup_date": "2023/09/20",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 37,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100015",
+    "fullName": "Jules Petit",
+    "email": "user15@example.com",
+    "signup_date": "2024-04-16",
+    "city": "Strasbourg",
+    "segment": "premium",
+    "age": 35,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100413",
+    "fullName": "Inès Petit",
+    "email": "user413@example.com",
+    "signup_date": "2023/03/21",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 55,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100872",
+    "fullName": "Omar Petit",
+    "email": "user872@example.com",
+    "signup_date": "10/03/2023",
+    "city": "Strasbourg",
+    "segment": "premium",
+    "age": 77,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100596",
+    "fullName": "Camille Moreau",
+    "email": "user596@example.com",
+    "signup_date": "2023/12/14",
+    "city": "Strasbourg",
+    "segment": "basic",
+    "age": 76,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100890",
+    "fullName": "Camille Petit",
+    "email": "user890@example.com",
+    "signup_date": "2023-03-01",
+    "city": "Strasbourg",
+    "segment": "premium",
+    "age": 39,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100092",
+    "fullName": "Camille Leroy",
+    "email": "user92@example.com",
+    "signup_date": "20/05/2024",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 19,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101155",
+    "fullName": "Jules Thomas",
+    "email": "user1155@example.com",
+    "signup_date": "2023/12/19",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 61,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100960",
+    "fullName": "Alex Moreau",
+    "email": "user960@example.com",
+    "signup_date": "03/04/2023",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 23,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100661",
+    "fullName": "Alex Martin",
+    "email": "user661@example.com",
+    "signup_date": "2024-03-16",
+    "city": "Lille",
+    "segment": "basic",
+    "age": 16,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100155",
+    "fullName": "Hugo Durand",
+    "email": "user155@example.com",
+    "signup_date": "2024-02-02",
+    "city": "Lille",
+    "segment": "plus",
+    "age": 28,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100354",
+    "fullName": "Emma Martin",
+    "email": "user354@example.com",
+    "signup_date": "2024/08/04",
+    "city": "Bordeaux",
+    "segment": "premium",
+    "age": 67,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101014",
+    "fullName": "Alex Richard",
+    "email": "user1014@example.com",
+    "signup_date": "2023-11-08",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 53,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100658",
+    "fullName": "Noah Robert",
+    "email": "user658@example.com",
+    "signup_date": "2023/02/13",
+    "city": "Lille",
+    "segment": "basic",
+    "age": 49,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101043",
+    "fullName": "Inès Bernard",
+    "email": "user1043@example.com",
+    "signup_date": "12/08/2023",
+    "city": "Lyon",
+    "segment": "plus",
+    "age": 16,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101136",
+    "fullName": "Emma Durand",
+    "email": "user1136@example.com",
+    "signup_date": "2024/03/10",
+    "city": "Nantes",
+    "segment": "plus",
+    "age": 26,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100525",
+    "fullName": "Sarah Leroy",
+    "email": "user525@example.com",
+    "signup_date": "06/07/2023",
+    "city": "Lille",
+    "segment": "plus",
+    "age": 41,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100399",
+    "fullName": "Jules Durand",
+    "email": "user399@example.com",
+    "signup_date": "2023-07-06",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 76,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100690",
+    "fullName": "Inès Richard",
+    "email": "user690@example.com",
+    "signup_date": "20/08/2024",
+    "city": "Marseille",
+    "segment": "plus",
+    "age": 46,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100489",
+    "fullName": "Noah Petit",
+    "email": "user489@example.com",
+    "signup_date": "2023-12-30",
+    "city": "Strasbourg",
+    "segment": "premium",
+    "age": 34,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101058",
+    "fullName": "Léa Moreau",
+    "email": "user1058@example.com",
+    "signup_date": "2023/09/12",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 37,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101090",
+    "fullName": "Emma Moreau",
+    "email": "user1090@example.com",
+    "signup_date": "2023/10/29",
+    "city": "Lille",
+    "segment": "basic",
+    "age": 63,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100932",
+    "fullName": "Omar Leroy",
+    "email": "user932@example.com",
+    "signup_date": "2023/06/04",
+    "city": "Toulouse",
+    "segment": "basic",
+    "age": 69,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100088",
+    "fullName": "Sarah Thomas",
+    "email": "user88@example.com",
+    "signup_date": "05/04/2024",
+    "city": "Paris",
+    "segment": "plus",
+    "age": 37,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100682",
+    "fullName": "Camille Thomas",
+    "email": "user682@example.com",
+    "signup_date": "2024-07-29",
+    "city": "Lyon",
+    "segment": "basic",
+    "age": 35,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100377",
+    "fullName": "Emma Richard",
+    "email": "user377@example.com",
+    "signup_date": "2024/03/24",
+    "city": "Strasbourg",
+    "segment": "premium",
+    "age": 44,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100098",
+    "fullName": "Inès Leroy",
+    "email": "user98@example.com",
+    "signup_date": "2024/01/18",
+    "city": "Toulouse",
+    "segment": "plus",
+    "age": 64,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100685",
+    "fullName": "Nina Thomas",
+    "email": "user685@example.com",
+    "signup_date": "25/04/2024",
+    "city": "Lyon",
+    "segment": "plus",
+    "age": 27,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100138",
+    "fullName": "Alex Bernard",
+    "email": "user138@example.com",
+    "signup_date": "28/07/2023",
+    "city": "Lyon",
+    "segment": "plus",
+    "age": 34,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100575",
+    "fullName": "Hugo Petit",
+    "email": "user575@example.com",
+    "signup_date": "2023-08-13",
+    "city": "Lille",
+    "segment": "basic",
+    "age": 58,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100568",
+    "fullName": "Camille Durand",
+    "email": "user568@example.com",
+    "signup_date": "2024-01-21",
+    "city": "Nantes",
+    "segment": "premium",
+    "age": 58,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100191",
+    "fullName": "Noah Leroy",
+    "email": "user191@example.com",
+    "signup_date": "14/01/2024",
+    "city": "Nantes",
+    "segment": "basic",
+    "age": 49,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100559",
+    "fullName": "Hugo Petit",
+    "email": "user559@example.com",
+    "signup_date": "2024/05/25",
+    "city": "Lyon",
+    "segment": "plus",
+    "age": 37,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C101151",
+    "fullName": "Camille Dubois",
+    "email": "user1151@example.com",
+    "signup_date": "2023/10/30",
+    "city": "Nantes",
+    "segment": "premium",
+    "age": 68,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100372",
+    "fullName": "Camille Robert",
+    "email": "user372@example.com",
+    "signup_date": "2023/09/04",
+    "city": "Strasbourg",
+    "segment": "plus",
+    "age": 71,
+    "marketing_optin": 1
+  },
+  {
+    "customer_id": "C100019",
+    "fullName": "Camille Petit",
+    "email": "user19@example.com",
+    "signup_date": "28/09/2023",
+    "city": "Lyon",
+    "segment": "premium",
+    "age": 75,
+    "marketing_optin": 0
+  },
+  {
+    "customer_id": "C100660",
+    "fullName": "Camille Dubois",
+    "email": "user660@example.com",
+    "signup_date": "17/04/2023",
+    "city": "Paris",
+    "segment": "basic",
+    "age": 73,
+    "marketing_optin": 0
+  }
+]
